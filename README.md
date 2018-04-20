@@ -1,6 +1,7 @@
 # p2p_loan
-# Objective: The code within this repo was graciously provided by Arthur Taylor and is intended to utilize the Lending Club's API to assess the best loans on the market in real-time.
-## Key Results: 
+# Objective: Some of this code within this repo was graciously provided by Arthur Taylor and is intended to utilize the Lending Club's API to assess the best loans on the market in real-time.
+## Key Results:
+ * Create EDA on past loans
   * Login in using my creds to Lending Club
   * Search out available loans with a specific criteria 
 
