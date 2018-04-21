@@ -11,8 +11,8 @@ You need a Lending club account in order for this application to run. After you 
 	
 ~~~~
 {
-	"apiKey": "VIrJWnJAuY52AWr+nnyXPl8the4=",
-	"accountKey": "146571104"
+	"apiKey": "API_Key_Here",
+	"accountKey": "Numberhere"
 }
 ~~~~
 
