@@ -32,6 +32,8 @@
     White Paper, Quadratic Estimation for Seasonality 
 
 ### Submit2013 - Social Media & Baby: Global Affairs Daniel Duty, Sustainable Sourcing, 
+### Marketing Analytics/Data Science, Strategy and Implimentation  - 
+### Merchandising Analytics/Data Science, Strategy and Implimentation
     Presentations 
 
 
