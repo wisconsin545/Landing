@@ -1,9 +1,38 @@
-# p2p_loan
-# Objective: Some of this code within this repo was graciously provided by Arthur Taylor and is intended to utilize the Lending Club's API to assess the best loans on the market in real-time.
-## Key Results:
- * Create EDA on past loans
-  * Login in using my creds to Lending Club
-  * Search out available loans with a specific criteria 
+# Welcome to portfolio of analytics, strategy and product management. 
+
+## Feel free to look through the following to learn more about how I have supported fortune 50 organizations, startups, small companies and non profits, in utilizing predictive analytics, big data, strategy and implementation to fuel success.  
+
+
+### Submit2018 - HPC White Paper - Thalamus Census, Bananas Benchmarks,  
+    Documentation: Census, Bananas Benchmarks and Presentation we made to Paritosh 
+
+### Submit2017 - Sauron - White Paper, CIO and CIO presentations
+    SubmitWhite Paper Avery and I wrote, Sauron Product Presentations 
+     SubmitConfluence Page
+    
+
+### Submit2016 - Risk and Compliance -
+     Predictive Modeling for findings that went past due. 
+          Team Chartering and with Clients
+          Discovery (Rapid), Roadmap, Mock ups, API Calls, Support Plan, Live Dashboard 
+     Customer Facing Analytics Product Template 
+     Analytics Challenge 
+    Portfolio Consolidation Strategy across disparate pyramids 
+
+### Submit2015 - TTS
+     Predictive Modeling,
+     Contractor Conversion Optimization, Runner-up Data Viz Code, presentation, 
+    Enterprise Measures Analytics 
+
+### Submit2015 Social Responsibility
+     Industry Analysis
+      
+
+### Submit2014 - Distribution Center - Autonomous Crane Failure, Causal Modeling White Paper
+    White Paper, Quadratic Estimation for Seasonality 
+
+### Submit2013 - Social Media & Baby: Global Affairs Daniel Duty, Sustainable Sourcing, 
+    Presentations 
 
 
 #Mark Down Sample----------------
