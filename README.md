@@ -33,11 +33,12 @@
 
 ### Submit2013 - Social Media & Baby: Global Affairs Daniel Duty, Sustainable Sourcing, 
 ### Marketing Analytics/Data Science, Strategy and Implimentation  - 
+* Data Types: Transaction Data, Guest Data, Account Data, Reference Data, 3rd party data  
 * Control Groups
 * Data Segmenting based on guest attributes: Lifestage, Lifestyle, Activation, 
 
 ### Merchandising Analytics/Data Science, Strategy and Implimentation
-    Presentations 
+* Data Types: Transaction Data, Guest Data, Account Data, Web Data, Reference Data 
 
 
 ## Non-Profit: Strategy, Analytics and Implimentation 
@@ -48,6 +49,9 @@
 
 ---
 # Technicial Knowledge
+## Data Types 
+* Transaction Data, Guest Data, Account Data, Reference Data 
+
 ## Software
 * Python, R, SAS, IBM DB2 Query Patroller, Microstrategy, 
 * SharePoint, Jira, Confluence, Wiki, Info Retriever 
