@@ -32,12 +32,26 @@
     White Paper, Quadratic Estimation for Seasonality 
 
 ### Submit2013 - Social Media & Baby: Global Affairs Daniel Duty, Sustainable Sourcing, 
-### Marketing Analytics/Data Science, Strategy and Implimentation  - 
+### Marketing and Brand Analytics/Data Science, Strategy and Implimentation  - 
 * Data Types: Transaction Data, Guest Data, Account Data, Reference Data, 3rd party data  
 * Control Groups
 * Data Segmenting based on guest attributes: Lifestage, Lifestyle, Activation, 
+* Promotion Analysis: BOGO, Brand Loyalty, Deep Discounts
+* Guest Leakage 
+* Causal Modeling 
+* Social Media Brand Analysis 
 
 ### Merchandising Analytics/Data Science, Strategy and Implimentation
+* Guest Planning and Activation - Data Mining, Clustering, Attribution and Implimentation for 65 Million customers 
+* Basket Analysis 
+* Trip Driver and Frequency Analysis 
+* Consumer Decision Tree 
+* Cross-Shopping Analysis 
+* Sales Drivers 
+
+
+
+
 * Data Types: Transaction Data, Guest Data, Account Data, Web Data, Reference Data 
 
 
