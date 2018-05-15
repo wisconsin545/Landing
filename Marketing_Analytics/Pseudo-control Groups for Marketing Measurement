@@ -1,0 +1,7 @@
+Measuring lift with test and control groups
+
+  Naïve method.  Compare Test to non-Test group.
+  Stratified sampling.  Select stratification criteria based on known attributes, select non-Test guests to match the same stratification and proportions as the Test group
+  Clustering. Cluster Test group based on known attributes, apply the same clustering algorithm to non-Test group, and sample proportionately to make non-Test match the Test
+  Model-based.  Build model(s) to predict Test group sales based on known attributes, select non-Test guests who have the same score distribution as Test group 
+  Combo method.  Combine methods from 2, 3, and/or 4
