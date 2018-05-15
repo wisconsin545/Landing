@@ -34,12 +34,37 @@
 ### Submit2013 - Social Media & Baby: Global Affairs Daniel Duty, Sustainable Sourcing, 
 ### Marketing Analytics/Data Science, Strategy and Implimentation  - 
 * Control Groups
+* Data Segmenting based on guest attributes: Lifestage, Lifestyle, Activation, 
 
 ### Merchandising Analytics/Data Science, Strategy and Implimentation
     Presentations 
 
 
-#Mark Down Sample----------------
+## Non-Profit: Strategy, Analytics and Implimentation 
+### Shelter For Life International 
+* Data Sourcing and Warehousing 
+
+
+
+---
+# Technicial Knowledge
+## Software
+* Python, R, SAS, IBM DB2 Query Patroller, Microstrategy, 
+* SharePoint, Jira, Confluence, Wiki, Info Retriever 
+
+## Data Warehousing 
+* ADW, Teradata, Hadoop, Hive, InfluxDB, IBM DB2, HOST
+
+## Technical Acumen 
+* Cost/spool saving query building
+* Sampling at 2% and 10%
+* Retail based exlcusions, exclude team member, exclude returns, exclude duplicate transactions, exclude .com sales, exclude food service
+* Guest data bias, use comp stores
+* Analysis Retail Hierarchy: Pyramid, Division, Department, Class, Subclass, Item 
+
+
+
+# Mark Down Sample----------------
 # Objective for Thalamus: To be the high performance stream processing and real-time analytics engine.
 ## Key results for Thalamus: 
  * Handles Large Throughput^ of Data Streams Through Linear Scaling 
