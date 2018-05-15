@@ -36,7 +36,7 @@
 
 
 #Mark Down Sample----------------
-# Objective for Thalamus: To be the high performance stream processing and real-time analytics engine for Target.
+# Objective for Thalamus: To be the high performance stream processing and real-time analytics engine.
 ## Key results for Thalamus: 
  * Handles Large Throughput^ of Data Streams Through Linear Scaling 
  * On the Fly Stream Connection
@@ -67,4 +67,4 @@ Enable Thalamus Adoption Across Enterprise
 ________________________________
 Content here is for Markdown formating  
 **Can we use a stream for the demo?**
-(Go to this [link](https://pages.git.target.com/TargetHPC/thalamus_docs/#/))
+
