@@ -5,7 +5,8 @@
 
 ### Submit2013 - Social Media & Baby: Global Affairs Daniel Duty, Sustainable Sourcing, 
 ### **Marketing Analytics, Reporting, Strategy and Implimentation - [Link](Marketing_Analytics)**  
-#### Verbiage Summarizing Outcomes delivered from Marketing and Brand  
+#### Verbiage Summarizing Outcomes delivered from Marketing and Brand
+[* Guest Engagement Through Life Changes](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Guest%20Engagement%20Through%20Life%20Changes.md)    
 [* Promotion Analysis: Buy One Get One, Gift Card Promo, Brand Loyalty, Deep Discounts](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Promo%20Effectiveness%20-%20Gift%20Cards%20vs%20Buy%20Something%20Get%20Something.md)   
 [* Structuring Control Groups](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Structuring%20Control%20Groups)  
 [* Guest Loss Analytics](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Guest%20Loss%20Over%20Time.md)  
