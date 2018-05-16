@@ -35,6 +35,9 @@
 [* Fraud Analytics](https://github.com/wisconsin545/Landing2/blob/master/Risk-%20Compliance-%20Law%20and%20Security/Fraud%20Analytics.md)  
 [* Cross Pyramid Support Organization](https://github.com/wisconsin545/Landing2/blob/master/Risk-%20Compliance-%20Law%20and%20Security/Cross%20Pyramid%20Support%20Organization.md)  
 
+### Supply Chain and Distribution - [Link](https://github.com/wisconsin545/Landing2/tree/master/Supply%20Chain%20and%20Distribution)  
+#### Verbiage, .  
+[* Distribution Center Stability Data Science](https://github.com/wisconsin545/Landing2/blob/master/Supply%20Chain%20and%20Distribution/Quadratic%20Linear%20Estimation.md)  
 
 
 ### Submit2018 - HPC White Paper - Thalamus Census, Bananas Benchmarks,  
