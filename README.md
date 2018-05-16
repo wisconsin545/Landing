@@ -23,19 +23,11 @@
 [* Sales Driver Reporting- Traffic and Basket size](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Sales%20Driver%20Traffic%20and%20Basket%20size.md)
 
 
-* Guest Planning and Activation - Data Mining, Clustering, Attribution and Implimentation for 65 Million customers 
-* Data segmenting and clustering based on guest attributes: Lifestage, Lifestyle, Spend, Frequency, Geo-location   
-* Basket Analysis 
-* Trip Driver and Frequency Analysis 
-* Consumer Decision Tree 
-* Cross-Shopping Analysis 
-* Sales Drivers 
-
 ### Global Affairs & Brand Management - [Link](/Global%20Affairs%20and%20Brand%20Management)
 #### Verbiage, . 
 [* Global Brand Analysis](https://github.com/wisconsin545/Landing2/blob/master/Global%20Affairs%20and%20Brand%20Management/Brand%20Analysis.md)  
 [* Brand Demand Transfer Data Science](https://github.com/wisconsin545/Landing2/blob/master/Global%20Affairs%20and%20Brand%20Management/Brand%20Demand%20Transfer%20Data%20Science.md)  
-
+[* Global Affairs Brand Management Data Science](https://github.com/wisconsin545/Landing2/blob/master/Global%20Affairs%20and%20Brand%20Management/Global%20Affairs%20Brand%20Management%20Data%20Science.md)  
 
 
 
