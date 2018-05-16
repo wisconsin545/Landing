@@ -17,7 +17,7 @@
 #### Data Science algorithms used to analyze consumer decision tree that resulting in 50 million plus in shelf space negotiations, 10 million in cross shopping analytics opportunity, .   
 [* Category and Item Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Category%20and%20Item%20Analytics.md)  
 [* Consumer Decision Tree](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Consumer%20Decision%20Tree-Random_Forest.md)  
-[* Seasonality, Store Format, Planogram Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Seasonality%2C%20Store%20Format%2C%20Planogram%20Analytics.md) 
+[* Seasonality, Store Format, Planogram Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Seasonality%2C%20Store%20Format%2C%20Planogram%20Analytics.md)  
 [* Cross Category/Department Shopping Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Cross%20Category-Department%20Shopping%20Analytics.md)
 
 * Guest Planning and Activation - Data Mining, Clustering, Attribution and Implimentation for 65 Million customers 
