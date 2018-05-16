@@ -7,7 +7,7 @@
 ### Marketing Analytics/Data Science, Strategy and Implimentation  - 
 #### Verbiage Summarizing Outcomes delivered from Marketing and Brand  
 [* Promotion Analysis: Buy One Get One, Gift Card Promo, Brand Loyalty, Deep Discounts](Marketing_Analytics)   
-[* Structuring Control Groups](Marketing_Analytics)  
+[* Structuring Control Groups](Structuring Control Groups)  
 [* Guest Loss](Guest Loss Over Time) 
 * Causal Modeling 
 * Social Media Brand Analysis 
