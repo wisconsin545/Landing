@@ -13,7 +13,7 @@
 [*]
 
 
-### Merchandising Analytics/Data Science, Strategy and Implimentation - [Link](merchandising analytics)
+### Merchandising Analytics/Data Science, Strategy and Implimentation - [Link](merchandising%analytics)
 #### Data Science algorithms used to analyze consumer decision tree that resulting in 50 million plus in shelf space negotiations,   
 [* Category and Item Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Category%20and%20Item%20Analytics.md)  
 [* Consumer Decision Tree](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Consumer%20Decision%20Tree-Random_Forest.md)  
