@@ -6,8 +6,7 @@
 ### Submit2013 - Social Media & Baby: Global Affairs Daniel Duty, Sustainable Sourcing, 
 ### Marketing Analytics/Data Science, Strategy and Implimentation  - 
 #### Verbiage Summarizing Outcomes delivered from Marketing and Brand  
-* Data segmenting and clustering based on guest attributes: Lifestage, Lifestyle, Spend, Frequency, Geo-location   
-* Promotion Analysis: BOGO, Brand Loyalty, Deep Discounts
+[* Promotion Analysis: Buy One Get One, Gift Card Promo, Brand Loyalty, Deep Discounts](../Marketing_Analytics)
 * Guest Leakage 
 * Causal Modeling 
 * Social Media Brand Analysis 
@@ -15,6 +14,7 @@
 
 ### Merchandising Analytics/Data Science, Strategy and Implimentation
 * Guest Planning and Activation - Data Mining, Clustering, Attribution and Implimentation for 65 Million customers 
+* Data segmenting and clustering based on guest attributes: Lifestage, Lifestyle, Spend, Frequency, Geo-location   
 * Basket Analysis 
 * Trip Driver and Frequency Analysis 
 * Consumer Decision Tree 
