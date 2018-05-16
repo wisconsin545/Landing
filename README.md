@@ -13,7 +13,7 @@
 [*]
 
 
-### Merchandising Analytics/Data Science, Strategy and Implimentation  - [Link](merchandising analytics)
+### Merchandising Analytics/Data Science, Strategy and Implimentation - [Link](merchandising analytics)
 #### Verbiage Summarizing Outcomes delivered from Marketing and Brand  
 [* Category and Item Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Category%20and%20Item%20Analytics.md)  
 
