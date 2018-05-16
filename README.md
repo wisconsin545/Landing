@@ -1,6 +1,6 @@
 # Welcome to portfolio of analytics, strategy and product management. 
 
-## Feel free to look through the following to learn more about how I have supported fortune 50 organizations, startups, small companies and non profits, in utilizing predictive analytics, big data, strategy and implementation to fuel success.  
+## I've supported fortune 50 organizations, startups, small companies and non profits, in utilizing predictive analytics, big data, strategy and implementation to fuel success through creating: 3 software products, 3 white papers and leading multiple teams. Through developming merchandising, marketing, supply chain, compliance, law, risk, cyber security, global affairs, brand management, and managerial data science algorithms, strategies and implimentation plans, I've created and saved organizations millions. 
 
 
 ### Submit Sustainable Sourcing, 
@@ -11,18 +11,22 @@
 [* Structuring Control Groups](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Structuring%20Control%20Groups)  
 [* Guest Loss Analytics](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Guest%20Loss%20Over%20Time.md)  
 [* Loyalty Card Analytics](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Loyalty%20Card%20Analytics.md)  
-[*]
+
+  
+    
 
 
 ### Merchandising Analytics/Data Science, Strategy and Implimentation - [Link](merchandising%20analytics)
-#### #### Created data science models, led cross-functional teams and created enterprise strategies/presentations valued at $500 Million plus for Merchandising functions within Fortune 50 retailer. Focused on Customer activation, product placement, store format, seasonality, and product sales driver to formulate enterprise to item strategies.   
+#### Created data science models, led cross-functional teams and created enterprise strategies/presentations valued at $500 Million plus for Merchandising functions within Fortune 50 retailer. Focused on Customer activation, product placement, store format, seasonality, and product sales driver to create enterprise strategies.   
 [* Guest Focused Merchandising Activation Data Science](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Guest%20Focused%20Merchandising%20Activation%20Data%20Science.md)    
 [* Category and Item Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Category%20and%20Item%20Analytics.md)  
 [* Consumer Decision Tree](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Consumer%20Decision%20Tree-Random_Forest.md)  
 [* Seasonality, Store Format, Planogram Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Seasonality%2C%20Store%20Format%2C%20Planogram%20Analytics.md)  
 [* Cross Category/Department Shopping Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Cross%20Category-Department%20Shopping%20Analytics.md)  
 [* Sales Driver Reporting- Traffic and Basket size](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Sales%20Driver%20Traffic%20and%20Basket%20size.md)
-
+  
+    
+    
 
 ### Global Affairs & Brand Management - [Link](/Global%20Affairs%20and%20Brand%20Management)
 #### Created real-time executive alerting for Global Affairs and data science algorithms for Brand Transfer and Brand Management valued at $50 million. 
