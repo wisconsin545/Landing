@@ -4,7 +4,7 @@
 
 
 ### Submit2013 - Social Media & Baby: Global Affairs Daniel Duty, Sustainable Sourcing, 
-### **Marketing Analytics, Reporting, Strategy and Implimentation - [Link](Marketing_Analytics)**
+### **Marketing Analytics, Reporting, Strategy and Implimentation - [Link](Marketing_Analytics)**  
 #### Verbiage Summarizing Outcomes delivered from Marketing and Brand  
 [* Promotion Analysis: Buy One Get One, Gift Card Promo, Brand Loyalty, Deep Discounts](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Promo%20Effectiveness%20-%20Gift%20Cards%20vs%20Buy%20Something%20Get%20Something.md)   
 [* Structuring Control Groups](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Structuring%20Control%20Groups)  
@@ -14,9 +14,10 @@
 
 
 ### Merchandising Analytics/Data Science, Strategy and Implimentation - [Link](merchandising%analytics)
-#### Verbiage Summarizing Outcomes delivered from Marketing and Brand  
+#### Data Science algorithms used to analyze consumer decision tree that resulting in 50 million plus in shelf space negotiations,   
 [* Category and Item Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Category%20and%20Item%20Analytics.md)  
-
+[* Consumer Decision Tree](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Consumer%20Decision%20Tree-Random_Forest.md)
+[* Seasonality, Store Format, Planogram Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Seasonality%2C%20Store%20Format%2C%20Planogram%20Analytics.md) 
 
 * Guest Planning and Activation - Data Mining, Clustering, Attribution and Implimentation for 65 Million customers 
 * Data segmenting and clustering based on guest attributes: Lifestage, Lifestyle, Spend, Frequency, Geo-location   
