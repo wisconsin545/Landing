@@ -6,7 +6,7 @@
 ### Submit2013 - Social Media & Baby: Global Affairs Daniel Duty, Sustainable Sourcing, 
 ### Marketing Analytics/Data Science, Strategy and Implimentation  - 
 #### Verbiage Summarizing Outcomes delivered from Marketing and Brand  
-[* Promotion Analysis: Buy One Get One, Gift Card Promo, Brand Loyalty, Deep Discounts](../Marketing_Analytics/Read_Me.md)
+[* Promotion Analysis: Buy One Get One, Gift Card Promo, Brand Loyalty, Deep Discounts](..Landing2/Marketing_Analytics/Read_Me.md)
 * Guest Leakage 
 * Causal Modeling 
 * Social Media Brand Analysis 
