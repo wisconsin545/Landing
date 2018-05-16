@@ -32,7 +32,7 @@
 
 ### Risk, Compliance, Law and Security - [Link](https://github.com/wisconsin545/Landing2/tree/master/Risk-%20Compliance-%20Law%20and%20Security)  
 #### Verbiage, .  
-[* Security Findings Predictive Modeling](https://github.com/wisconsin545/Landing2/blob/master/Risk-%20Compliance-%20Law%20and%20Security/Security%20Findings%20Predictive%20Modeling.md)  
+[* Web Based UI Product: Security Findings Predictive Modeling](https://github.com/wisconsin545/Landing2/blob/master/Risk-%20Compliance-%20Law%20and%20Security/Security%20Findings%20Predictive%20Modeling.md)  
 [* Fraud Analytics](https://github.com/wisconsin545/Landing2/blob/master/Risk-%20Compliance-%20Law%20and%20Security/Fraud%20Analytics.md)  
 [* Cross Pyramid Support Organization](https://github.com/wisconsin545/Landing2/blob/master/Risk-%20Compliance-%20Law%20and%20Security/Cross%20Pyramid%20Support%20Organization.md)  
 
