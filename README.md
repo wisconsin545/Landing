@@ -91,6 +91,7 @@
 * Retail based exlcusions, exclude team member, exclude returns, exclude duplicate transactions, exclude .com sales, exclude food service
 * Guest data bias, use comp stores
 * Analysis Retail Hierarchy: Pyramid, Division, Department, Class, Subclass, Item 
+* Cloudera Training 
 
 
 
