@@ -7,6 +7,7 @@
 ### Marketing Analytics/Data Science, Strategy and Implimentation  - 
 #### Verbiage Summarizing Outcomes delivered from Marketing and Brand  
 [* Promotion Analysis: Buy One Get One, Gift Card Promo, Brand Loyalty, Deep Discounts](../blob/master/Marketing_Analytics/Read_Me.md)
+[I'm a relative reference to a repository file](Marketing_Analytics)
 * Guest Leakage 
 * Causal Modeling 
 * Social Media Brand Analysis 
