@@ -3,6 +3,26 @@
 ## Feel free to look through the following to learn more about how I have supported fortune 50 organizations, startups, small companies and non profits, in utilizing predictive analytics, big data, strategy and implementation to fuel success.  
 
 
+### Submit2013 - Social Media & Baby: Global Affairs Daniel Duty, Sustainable Sourcing, 
+### Marketing and Brand Analytics/Data Science, Strategy and Implimentation  - 
+ 
+* Control Groups
+* Data Segmenting based on guest attributes: Lifestage, Lifestyle, Activation, 
+* Promotion Analysis: BOGO, Brand Loyalty, Deep Discounts
+* Guest Leakage 
+* Causal Modeling 
+* Social Media Brand Analysis 
+
+### Merchandising Analytics/Data Science, Strategy and Implimentation
+* Guest Planning and Activation - Data Mining, Clustering, Attribution and Implimentation for 65 Million customers 
+* Basket Analysis 
+* Trip Driver and Frequency Analysis 
+* Consumer Decision Tree 
+* Cross-Shopping Analysis 
+* Sales Drivers 
+
+
+
 ### Submit2018 - HPC White Paper - Thalamus Census, Bananas Benchmarks,  
     Documentation: Census, Bananas Benchmarks and Presentation we made to Paritosh 
 
@@ -31,24 +51,6 @@
 ### Submit2014 - Distribution Center - Autonomous Crane Failure, Causal Modeling White Paper
     White Paper, Quadratic Estimation for Seasonality 
 
-### Submit2013 - Social Media & Baby: Global Affairs Daniel Duty, Sustainable Sourcing, 
-### Marketing and Brand Analytics/Data Science, Strategy and Implimentation  - 
-* Data Types: Transaction Data, Guest Data, Account Data, Reference Data, 3rd party data  
-* Control Groups
-* Data Segmenting based on guest attributes: Lifestage, Lifestyle, Activation, 
-* Promotion Analysis: BOGO, Brand Loyalty, Deep Discounts
-* Guest Leakage 
-* Causal Modeling 
-* Social Media Brand Analysis 
-
-### Merchandising Analytics/Data Science, Strategy and Implimentation
-* Guest Planning and Activation - Data Mining, Clustering, Attribution and Implimentation for 65 Million customers 
-* Basket Analysis 
-* Trip Driver and Frequency Analysis 
-* Consumer Decision Tree 
-* Cross-Shopping Analysis 
-* Sales Drivers 
-
 
 
 
@@ -63,8 +65,9 @@
 
 ---
 # Technicial Knowledge
-## Data Types 
+## Data Structures/Types 
 * Transaction Data, Guest Data, Account Data, Reference Data 
+* Data Types: Transaction Data, Guest Data, Account Data, Reference Data, 3rd party data 
 
 ## Software
 * Python, R, SAS, IBM DB2 Query Patroller, Microstrategy, 
