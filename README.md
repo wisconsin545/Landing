@@ -33,7 +33,8 @@
 ### Global Affairs & Brand Management - [Link](/Global%20Affairs%20and%20Brand%20Management)
 #### Verbiage, . 
 [* Global Brand Analysis](https://github.com/wisconsin545/Landing2/blob/master/Global%20Affairs%20and%20Brand%20Management/Brand%20Analysis.md)  
-[* Brand Demand Transfer Data Science](https://github.com/wisconsin545/Landing2/tree/master/Global%20Affairs%20and%20Brand%20Management)  
+[* Brand Demand Transfer Data Science](https://github.com/wisconsin545/Landing2/blob/master/Global%20Affairs%20and%20Brand%20Management/Brand%20Demand%20Transfer%20Data%20Science.md)  
+
 
 
 
