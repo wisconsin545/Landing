@@ -30,6 +30,9 @@
 [* Brand Demand Transfer Data Science](https://github.com/wisconsin545/Landing2/blob/master/Global%20Affairs%20and%20Brand%20Management/Brand%20Demand%20Transfer%20Data%20Science.md)  
 [* Global Affairs Brand Management Data Science](https://github.com/wisconsin545/Landing2/blob/master/Global%20Affairs%20and%20Brand%20Management/Global%20Affairs%20Brand%20Management%20Data%20Science.md)  
 
+### Risk, Compliance, Law and Security - [Link](https://github.com/wisconsin545/Landing2/tree/master/Risk-%20Compliance-%20Law%20and%20Security)  
+#### Verbiage, .  
+[* Fraud Analytics](https://github.com/wisconsin545/Landing2/blob/master/Risk-%20Compliance-%20Law%20and%20Security/Fraud%20Analytics.md)  
 
 
 ### Submit2018 - HPC White Paper - Thalamus Census, Bananas Benchmarks,  
