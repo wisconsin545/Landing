@@ -38,7 +38,7 @@
 
 ### Supply Chain and Distribution - [Link](https://github.com/wisconsin545/Landing2/tree/master/Supply%20Chain%20and%20Distribution)  
 #### Verbiage, .  
-[* Distribution Center Stability Data Science](https://github.com/wisconsin545/Landing2/blob/master/Supply%20Chain%20and%20Distribution/Quadratic%20Linear%20Estimation.md)  
+[* White Paper: Distribution Center Stability Data Science](https://github.com/wisconsin545/Landing2/blob/master/Supply%20Chain%20and%20Distribution/Quadratic%20Linear%20Estimation.md)  
 
 
 ### Submit2018 - HPC White Paper - Thalamus Census, Bananas Benchmarks,  
