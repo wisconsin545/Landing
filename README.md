@@ -19,7 +19,7 @@
 [* Consumer Decision Tree](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Consumer%20Decision%20Tree-Random_Forest.md)  
 [* Seasonality, Store Format, Planogram Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Seasonality%2C%20Store%20Format%2C%20Planogram%20Analytics.md)  
 [* Cross Category/Department Shopping Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Cross%20Category-Department%20Shopping%20Analytics.md)  
-[* Sales Driver - Traffic and Basket size](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Sales%20Driver%20Traffic%20and%20Basket%20size.md)
+[* Sales Driver Reporting- Traffic and Basket size](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Sales%20Driver%20Traffic%20and%20Basket%20size.md)
 
 
 * Guest Planning and Activation - Data Mining, Clustering, Attribution and Implimentation for 65 Million customers 
