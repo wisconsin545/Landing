@@ -3,7 +3,7 @@
 ## Feel free to look through the following to learn more about how I have supported fortune 50 organizations, startups, small companies and non profits, in utilizing predictive analytics, big data, strategy and implementation to fuel success.  
 
 
-### Submit2013 - Social Media & Baby: Global Affairs Daniel Duty, Sustainable Sourcing, 
+### Submit Sustainable Sourcing, 
 ### **Marketing Analytics, Reporting, Strategy and Implimentation - [Link](Marketing_Analytics)**  
 #### Verbiage Summarizing Outcomes delivered from Marketing and Brand
 [* Guest Engagement Through Life Changes](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Guest%20Engagement%20Through%20Life%20Changes.md)    
@@ -65,9 +65,6 @@
 ### Submit2015 Social Responsibility
      Industry Analysis
       
-
-### Submit2014 - Distribution Center - Autonomous Crane Failure, Causal Modeling White Paper
-    White Paper, Quadratic Estimation for Seasonality 
 
 
 
