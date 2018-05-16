@@ -5,7 +5,7 @@
 
 ### Submit Sustainable Sourcing, 
 ### **Marketing Analytics, Reporting, Strategy and Implimentation - [Link](Marketing_Analytics)**  
-#### Verbiage Summarizing Outcomes delivered from Marketing and Brand
+#### Created algorithms, led cross-functional teams and created enterprise strategies/presentations valued at $100 Million plus for Marketing functions within Fortune 50 retailer. 
 [* Guest Engagement Through Life Changes](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Guest%20Engagement%20Through%20Life%20Changes.md)    
 [* Promotion Analysis: Buy One Get One, Gift Card Promo, Brand Loyalty, Deep Discounts](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Promo%20Effectiveness%20-%20Gift%20Cards%20vs%20Buy%20Something%20Get%20Something.md)   
 [* Structuring Control Groups](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Structuring%20Control%20Groups)  
@@ -15,7 +15,7 @@
 
 
 ### Merchandising Analytics/Data Science, Strategy and Implimentation - [Link](merchandising%20analytics)
-#### Data Science algorithms used to analyze consumer decision tree that resulting in 50 million plus in shelf space negotiations, 10 million in cross shopping analytics opportunity, .   
+#### #### Created data science models, led cross-functional teams and created enterprise strategies/presentations valued at $500 Million plus for Merchandising functions within Fortune 50 retailer. Focused on Customer activation, product placement, store format, seasonality, and product sales driver to formulate enterprise to item strategies.   
 [* Guest Focused Merchandising Activation Data Science](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Guest%20Focused%20Merchandising%20Activation%20Data%20Science.md)    
 [* Category and Item Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Category%20and%20Item%20Analytics.md)  
 [* Consumer Decision Tree](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Consumer%20Decision%20Tree-Random_Forest.md)  
@@ -25,19 +25,19 @@
 
 
 ### Global Affairs & Brand Management - [Link](/Global%20Affairs%20and%20Brand%20Management)
-#### Verbiage, . 
+#### Created real-time executive alerting for Global Affairs and data science algorithms for Brand Transfer and Brand Management valued at $50 million. 
 [* Global Brand Analysis](https://github.com/wisconsin545/Landing2/blob/master/Global%20Affairs%20and%20Brand%20Management/Brand%20Analysis.md)  
 [* Brand Demand Transfer Data Science](https://github.com/wisconsin545/Landing2/blob/master/Global%20Affairs%20and%20Brand%20Management/Brand%20Demand%20Transfer%20Data%20Science.md)  
 [* Global Affairs Brand Management Data Science](https://github.com/wisconsin545/Landing2/blob/master/Global%20Affairs%20and%20Brand%20Management/Global%20Affairs%20Brand%20Management%20Data%20Science.md)  
 
 ### Risk, Compliance, Law and Security - [Link](https://github.com/wisconsin545/Landing2/tree/master/Risk-%20Compliance-%20Law%20and%20Security)  
-#### Verbiage, .  
+#### Created Web-based, on-prem hosted security findings product that utilized multiple data science algorithms to preduct security findgings across Enterprise, values at annual savings of $1 million plus.  
 [* Web Based UI Product: Security Findings Predictive Modeling](https://github.com/wisconsin545/Landing2/blob/master/Risk-%20Compliance-%20Law%20and%20Security/Security%20Findings%20Predictive%20Modeling.md)  
 [* Fraud Analytics](https://github.com/wisconsin545/Landing2/blob/master/Risk-%20Compliance-%20Law%20and%20Security/Fraud%20Analytics.md)  
 [* Cross Pyramid Support Organization](https://github.com/wisconsin545/Landing2/blob/master/Risk-%20Compliance-%20Law%20and%20Security/Cross%20Pyramid%20Support%20Organization.md)  
 
 ### Supply Chain and Distribution - [Link](https://github.com/wisconsin545/Landing2/tree/master/Supply%20Chain%20and%20Distribution)  
-#### Verbiage, .  
+#### Deployed data science algorithm on real-time data and wrote white paper on preventing Supply Chain Distribution Center failure.  
 [* White Paper: Distribution Center Stability Data Science](https://github.com/wisconsin545/Landing2/blob/master/Supply%20Chain%20and%20Distribution/Quadratic%20Linear%20Estimation.md)  
 
 
