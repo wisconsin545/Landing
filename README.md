@@ -83,10 +83,11 @@
 
 
 ## Non-Profit: Strategy, Analytics and Implimentation [Link](https://github.com/wisconsin545/Landing2/tree/master/Non-Profit-%20Strategy-%20Analytics%20and%20Implimentation)
-### Provided strategic roadmap for analytics driven monitoring and evaluation for $50 million plus non-profit international development organization.
+### Provided strategic roadmap for analytics driven monitoring and evaluation for $50 million plus non-profit international development organization. Created the roadmap and implimentation strategy for converting Afghan micro-finance fund to internationally recognized bank. 
 ### LandOLakes International Development: 
 [* LandOLakes International Development Analytics M&A](https://github.com/wisconsin545/Landing2/blob/master/Non-Profit-%20Strategy-%20Analytics%20and%20Implimentation/LandOLakes.md)  
-### Shelter For Life International 
+### Shelter For Life International  
+[* Micro-finance fund conversion to Bank Strategy and Roadmap](https://github.com/wisconsin545/Landing2/blob/master/Non-Profit-%20Strategy-%20Analytics%20and%20Implimentation/Micro-finance%20fund%20conversion%20to%20Bank%20Strategy%20and%20Roadmap.md)  
 * Data Sourcing and Warehousing 
 
 
