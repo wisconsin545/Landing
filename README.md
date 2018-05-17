@@ -45,6 +45,10 @@
 [* White Paper: Distribution Center Stability Data Science](https://github.com/wisconsin545/Landing2/blob/master/Supply%20Chain%20and%20Distribution/Quadratic%20Linear%20Estimation.md)  
 
 
+### Managerial Analytics - [Link](https://github.com/wisconsin545/Landing2/tree/master/Managerial%20Analytics)  
+#### Through clustering, discovered a $45.97 million savings opportunity by converting 1,034 contractors to Team Members.  
+[* Contractor Conversion Analytics](https://github.com/wisconsin545/Landing2/blob/master/Managerial%20Analytics/Contractor%20Conversion.md) 
+
 ### Submit2018 - HPC White Paper - Thalamus Census, Bananas Benchmarks,  
     Documentation: Census, Bananas Benchmarks and Presentation we made to Paritosh 
 
