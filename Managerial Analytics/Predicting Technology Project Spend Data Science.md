@@ -1,4 +1,4 @@
-# Categories and Items Over Time Analytics - Analysis of transactions over time based on demographic and sales information.  
-## Summary: Analysis focused on sales distribution by specific guests demographic and spend patterns.  
+# Analyzed $2 billion in technology project spend and built predicitve model to predict which projects would be successful.  
+## Summary: Through log transformations, logisitc regressiona and linear regression it was found that personnel with specific technologies were predictive of project success with statistical signigifance.  
 ### Output: Report/Dashboard with Code 
-### Technical Summary: 10% Sampling Dataset, customer segmentation based on like clustering, standard retail exclusions utilized. 
+### Technical Summary: 100% Dataset. 
