@@ -47,8 +47,8 @@
 
 ### Managerial Analytics - [Link](https://github.com/wisconsin545/Landing2/tree/master/Managerial%20Analytics)  
 #### Through clustering, discovered a $45.97 million savings opportunity by converting 1,034 contractors to Team Members. Created enterprise measures for managing cost, stability, quality, speed and security within technology organization. Build predicitive model optimizing $2 billion in technology spend.  
-[* Contractor Conversion Analytics](https://github.com/wisconsin545/Landing2/blob/master/Managerial%20Analytics/Contractor%20Conversion.md) 
-[* Enterprise Measures Analytics](https://github.com/wisconsin545/Landing2/blob/master/Managerial%20Analytics/Enterprise%20Measures%20Analytics.md) 
+[* Contractor Conversion Analytics](https://github.com/wisconsin545/Landing2/blob/master/Managerial%20Analytics/Contractor%20Conversion.md)  
+[* Enterprise Measures Analytics](https://github.com/wisconsin545/Landing2/blob/master/Managerial%20Analytics/Enterprise%20Measures%20Analytics.md)  
 [* Predicting Technology Project Spend Data Science](https://github.com/wisconsin545/Landing2/blob/master/Managerial%20Analytics/Predicting%20Technology%20Project%20Spend%20Data%20Science.md) 
 
 ### Submit2018 - HPC White Paper - Thalamus Census, Bananas Benchmarks,  
@@ -82,7 +82,10 @@
 * Data Types: Transaction Data, Guest Data, Account Data, Web Data, Reference Data 
 
 
-## Non-Profit: Strategy, Analytics and Implimentation 
+## Non-Profit: Strategy, Analytics and Implimentation [Link](https://github.com/wisconsin545/Landing2/tree/master/Non-Profit-%20Strategy-%20Analytics%20and%20Implimentation)
+### Provided strategic roadmap for analytics driven monitoring and evaluation for $50 million plus non-profit international development organization.
+### LandOLakes International Development: 
+[* LandOLakes International Development Analytics M&A](https://github.com/wisconsin545/Landing2/blob/master/Non-Profit-%20Strategy-%20Analytics%20and%20Implimentation/LandOLakes.md)  
 ### Shelter For Life International 
 * Data Sourcing and Warehousing 
 
