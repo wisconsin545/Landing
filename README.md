@@ -58,27 +58,7 @@
     SubmitWhite Paper Avery and I wrote, Sauron Product Presentations 
      SubmitConfluence Page
     
-
-### Submit2016 - Risk and Compliance -
-     Predictive Modeling for findings that went past due. 
-          Team Chartering and with Clients
-          Discovery (Rapid), Roadmap, Mock ups, API Calls, Support Plan, Live Dashboard 
-     Customer Facing Analytics Product Template 
-     Analytics Challenge 
-    Portfolio Consolidation Strategy across disparate pyramids 
-
-### Submit2015 - TTS
-     Predictive Modeling,
-     Contractor Conversion Optimization, Runner-up Data Viz Code, presentation, 
-    Enterprise Measures Analytics 
-
-### Submit2015 Social Responsibility
-     Industry Analysis
-      
-
-
-
-
+    
 * Data Types: Transaction Data, Guest Data, Account Data, Web Data, Reference Data 
 
 
