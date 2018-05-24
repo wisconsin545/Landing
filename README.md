@@ -2,6 +2,8 @@
 
 ## I've supported fortune 50 organizations, startups, small companies and non profits, in utilizing predictive analytics, big data, strategy and implementation to fuel success through creating: 3 software products, 3 white papers and leading multiple teams. Through developming merchandising, marketing, supply chain, compliance, law, risk, cyber security, global affairs, brand management, and managerial data science algorithms, strategies and implimentation plans, I've created and saved organizations millions. 
 
+### Cyber Security - Intrusion Detection Data Science Product - [Link](https://github.com/wisconsin545/Landing2/tree/master/Cyber) 
+#### Streamed GBs of data per second and utilized deep nueral networks to alert on malicous traffic on/in network. Resulted in real-time alerting and saving Target $5 Million in external vendor product costs per year.  
 
 ### Submit Sustainable Sourcing, 
 ### **Marketing Analytics, Reporting, Strategy and Implimentation - [Link](Marketing_Analytics)**  
