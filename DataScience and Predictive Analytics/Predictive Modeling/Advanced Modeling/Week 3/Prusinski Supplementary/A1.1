@@ -1,0 +1,49 @@
+# Prusinski, Daniel: Assignment 1- Statistical Graphics in R
+
+ library(MMST)
+ data(wine)
+# This statement accesses the datatset for this assignment.
+ str(wine)
+# This function gives a helpful metadata statement for the dataset.
+ summary(wine)
+# This numerical output is helpful, but a visualization would be better. 
+ plot(wine)
+# This function plotted all the variables against one another. 
+#
+# While there is not a discernable patter, it can be seen preliminarily that
+# a few of the variables are correlated with one another.
+
+#This next portion of code highlights the basic makings of a scatterplot.
+ library(MMST)
+ data(wine) 
+x <- c(wine$Phenols)
+y <- c(wine$Flav)
+plot(x,y)
+# This produces a single scatter plot of Phenols vs Flav.
+par(las = 1)
+# Tick Marks
+plot(x,y,xlab="Phenols",ylab="Flav")
+# Labeling Axis'
+abline(reg = lm(y ~ x),col="red")
+#regression line
+title("Scatter Plot of Phenols vs Flav")
+# Title
+points(x[110],y[110],pch=20)
+# Let's just say it took me a while to find that outlier
+Arrows(x[110]-.15,y[110],x[110]-1,y[110],code=1)
+text(x[110]-1,y[110],pos=2,labels=c("Outlier?"))
+# This too took a while to figure out how to place the arrow in correlation
+# to the point. 
+
+# This next portion of code is creating a histogram and density plot
+hist(y)
+plot(density(y))
+#This is similar to the distribution of Flav 
+
+#This portion of code looks at creating a matrix of scatter plots.
+x <- c(wine$Phenols)
+y <- c(wine$Flav)
+z <- c(wine$Ash)
+plot (xyz.data)
+title("Scatter Plot of Phenols, Flav, Ash")
+# As one can see, there is little correlation with Ash.  

@@ -1,0 +1,426 @@
+"","carat","color","clarity","cut","channel","store","price","logprice"
+"1",0.826,4,7,"Ideal","Independent","Goodmans",7775,8.95866873704743
+"2",0.996,5,6,"Ideal","Independent","Goodmans",9850,9.19522673416613
+"3",1.07,4,7,"Ideal","Independent","Goodmans",10950,9.30109473524465
+"4",1.07,7,7,"Not Ideal","Independent","Goodmans",7500,8.9226582995244
+"5",1.01,8,6,"Not Ideal","Independent","Goodmans",6995,8.85295088709958
+"6",0.66,3,4,"Ideal","Independent","Goodmans",6100,8.7160440501614
+"7",0.701,4,8,"Ideal","Independent","Goodmans",6300,8.74830491237962
+"8",0.97,8,6,"Not Ideal","Independent","Goodmans",4850,8.48673398393153
+"9",0.74,1,9,"Not Ideal","Independent","Goodmans",5895,8.68185981297147
+"10",2.04,5,6,"Not Ideal","Independent","Goodmans",23000,10.0432494949113
+"11",0.545,2,8,"Ideal","Independent","Goodmans",3895,8.26744895830485
+"12",1.085,4,8,"Not Ideal","Independent","Chalmers",5234,8.56293108309009
+"13",1.1,5,7,"Not Ideal","Independent","Chalmers",5375,8.58951385299586
+"14",1.21,6,6,"Not Ideal","Independent","Chalmers",6171,8.72761617832107
+"15",0.77,1,8,"Ideal","Independent","Chalmers",4256,8.35608503102148
+"16",1.05,3,7,"Not Ideal","Independent","Chalmers",6404,8.76467807411661
+"17",1.01,5,7,"Not Ideal","Independent","Chalmers",5476,8.60813018640834
+"18",1.14,4,5,"Not Ideal","Independent","Chalmers",5472,8.60739945930239
+"19",0.82,3,8,"Ideal","Independent","Chalmers",3878,8.2630748358026
+"20",1.01,7,7,"Not Ideal","Mall","Fred Meyer",5000,8.51719319141624
+"21",1.02,3,8,"Not Ideal","Mall","Fred Meyer",5999,8.69934806765309
+"22",1.16,4,8,"Not Ideal","Mall","Fred Meyer",4999,8.51699317141357
+"23",0.77,1,5,"Not Ideal","Mall","Fred Meyer",6999,8.85352256068954
+"24",0.87,2,5,"Not Ideal","Mall","Fred Meyer",6999,8.85352256068954
+"25",1.03,5,6,"Ideal","Mall","Fred Meyer",8900,9.09380655572023
+"26",0.59,5,8,"Not Ideal","Mall","Fred Meyer",2495,7.82204400818562
+"27",1.11,5,8,"Not Ideal","Mall","Fred Meyer",6000,8.69951474821019
+"28",1.02,9,6,"Not Ideal","Mall","Fred Meyer",3999,8.29379960884682
+"29",1.03,6,9,"Not Ideal","Mall","Fred Meyer",3900,8.26873183211774
+"30",1.01,7,6,"Not Ideal","Mall","Fred Meyer",4900,8.49699048409872
+"31",0.51,2,9,"Not Ideal","Mall","Fred Meyer",2895,7.9707403900071
+"32",0.7,6,7,"Not Ideal","Mall","Fred Meyer",3500,8.1605182474775
+"33",0.75,5,9,"Not Ideal","Mall","Fred Meyer",3200,8.07090608878782
+"34",2.37,7,9,"Not Ideal","Mall","Fred Meyer",9999,9.21024036697585
+"35",1.5,6,7,"Not Ideal","Mall","R. Holland",9499,9.15894180889018
+"36",1.2,4,9,"Not Ideal","Mall","R. Holland",5299,8.57527340249276
+"37",0.72,6,8,"Not Ideal","Mall","R. Holland",3499,8.16023249236769
+"38",0.72,5,8,"Ideal","Mall","R. Holland",4299,8.36613771649628
+"39",0.7,6,7,"Ideal","Mall","R. Holland",4299,8.36613771649628
+"40",0.69,4,7,"Ideal","Mall","R. Holland",4099,8.31849832050434
+"41",1.01,5,7,"Ideal","Mall","R. Holland",8699,9.07096335550754
+"42",1,5,7,"Not Ideal","Independent","Ausmans",5500,8.61250337122056
+"43",1.01,7,8,"Not Ideal","Independent","Ausmans",4350,8.37793112408273
+"44",1.01,4,6,"Not Ideal","Independent","Ausmans",5900,8.68270762989381
+"45",1.16,3,7,"Not Ideal","Independent","Ausmans",6500,8.77955745588373
+"46",1.24,7,9,"Not Ideal","Independent","Ausmans",5590,8.62873456614915
+"47",1.23,7,8,"Not Ideal","Independent","Ausmans",5590,8.62873456614915
+"48",1.11,2,9,"Not Ideal","Independent","Ausmans",5590,8.62873456614915
+"49",0.92,4,8,"Not Ideal","Independent","University",4390,8.38708450606922
+"50",0.504,5,7,"Not Ideal","Independent","University",1420,7.25841215059531
+"51",0.59,6,4,"Not Ideal","Independent","University",1770,7.47873482556787
+"52",0.69,5,6,"Not Ideal","Independent","University",2139,7.66809370908241
+"53",0.95,6,5,"Not Ideal","Independent","University",4560,8.42507790250843
+"54",0.545,3,7,"Not Ideal","Independent","University",1890,7.54433210805369
+"55",1,5,7,"Not Ideal","Independent","University",4495,8.41072094690572
+"56",1.022,7,7,"Not Ideal","Independent","University",4300,8.36637030168165
+"57",1.007,2,7,"Not Ideal","Independent","University",6200,8.73230457103318
+"58",1.05,2,8,"Not Ideal","Independent","University",6250,8.74033674273045
+"59",1.02,6,7,"Not Ideal","Independent","University",4850,8.48673398393153
+"60",1.01,2,6,"Not Ideal","Independent","University",5500,8.61250337122056
+"61",1.01,3,6,"Not Ideal","Independent","University",6500,8.77955745588373
+"62",1.5,6,6,"Not Ideal","Mall","Kay",16150,9.6896753286508
+"63",2.11,3,9,"Not Ideal","Mall","Kay",16500,9.71111565988867
+"64",0.4,4,8,"Ideal","Mall","Kay",2245,7.71646080017636
+"65",0.47,2,8,"Not Ideal","Mall","Kay",3080,8.03268487596762
+"66",0.66,3,8,"Not Ideal","Mall","Kay",4125,8.32482129876878
+"67",0.32,3,8,"Not Ideal","Mall","Kay",1375,7.22620901010067
+"68",1.03,6,5,"Not Ideal","Mall","Kay",6299,8.74814616962193
+"69",1.03,6,7,"Not Ideal","Mall","Kay",4949,8.50694081495189
+"70",0.69,6,6,"Ideal","Mall","Kay",6455,8.77261030328074
+"71",1.02,4,9,"Ideal","Mall","Kay",8735,9.07509322256816
+"72",0.7,4,8,"Ideal","Mall","Kay",6685,8.80762148953604
+"73",0.98,6,5,"Not Ideal","Mall","Kay",6659,8.80372460211062
+"74",1,8,10,"Not Ideal","Mall","Kay",2900,7.97246601597457
+"75",0.35,5,8,"Ideal","Mall","Kay",1680,7.4265490723973
+"76",0.83,4,8,"Not Ideal","Mall","Zales",3995,8.29279885820037
+"77",0.72,5,8,"Ideal","Mall","Zales",3499,8.16023249236769
+"78",0.7,5,6,"Not Ideal","Mall","Zales",4990,8.51519118874556
+"79",1.06,5,6,"Not Ideal","Mall","Zales",10255,9.23552067050648
+"80",1,8,10,"Not Ideal","Mall","Zales",2999,8.00603417874901
+"81",0.72,7,9,"Not Ideal","Mall","Zales",2699,7.900636613018
+"82",0.72,6,9,"Not Ideal","Mall","Zales",2699,7.900636613018
+"83",1.14,3,7,"Not Ideal","Independent","Danford",8100,8.99961934066053
+"84",1.04,5,6,"Not Ideal","Independent","Danford",6700,8.80986280537906
+"85",0.86,3,8,"Not Ideal","Independent","Danford",4200,8.34283980427146
+"86",1.27,6,8,"Not Ideal","Independent","Danford",5302,8.57583938684897
+"87",1.05,5,7,"Not Ideal","Independent","Danford",5800,8.66561319653451
+"88",0.61,4,3,"Ideal","Independent","Danford",3750,8.22951111896446
+"89",0.71,5,4,"Ideal","Independent","Danford",4200,8.34283980427146
+"90",0.54,4,5,"Not Ideal","Independent","Danford",2230,7.70975686445416
+"91",1.51,4,8,"Not Ideal","Independent","Danford",9000,9.10497985631836
+"92",2,2,6,"Ideal","Internet","Blue Nile",22431,10.018199209668
+"93",2,1,5,"Not Ideal","Internet","Blue Nile",27575,10.2246648441217
+"94",2,4,4,"Not Ideal","Internet","Blue Nile",21545,9.97789905004994
+"95",2,3,5,"Not Ideal","Internet","Blue Nile",21933,9.99574763096143
+"96",2,3,5,"Not Ideal","Internet","Blue Nile",22706,10.0303844857245
+"97",2,6,5,"Not Ideal","Internet","Blue Nile",14504,9.58217975243469
+"98",1.9,4,3,"Ideal","Internet","Blue Nile",19488,9.87755417050962
+"99",1.93,3,4,"Not Ideal","Internet","Blue Nile",19997,9.903337541285
+"100",2,2,4,"Not Ideal","Internet","Blue Nile",26623,10.1895307828194
+"101",2,6,6,"Ideal","Internet","Blue Nile",16641,9.71962480872334
+"102",2,1,7,"Not Ideal","Internet","Blue Nile",19776,9.89222436025742
+"103",2,2,7,"Not Ideal","Internet","Blue Nile",19227,9.86407082017234
+"104",1.58,7,6,"Not Ideal","Internet","Blue Nile",7894,8.97385825622279
+"105",1.43,3,3,"Ideal","Internet","Blue Nile",13128,9.48250263276993
+"106",1.74,6,8,"Not Ideal","Internet","Blue Nile",8664,9.06693178868083
+"107",1.5,5,4,"Not Ideal","Internet","Blue Nile",11441,9.34495867370094
+"108",1.66,3,8,"Ideal","Internet","Blue Nile",11244,9.32758993202642
+"109",1.71,4,8,"Not Ideal","Internet","Blue Nile",10704,9.27837278236801
+"110",1.5,5,6,"Ideal","Internet","Blue Nile",10108,9.22108246850808
+"111",1.5,5,6,"Ideal","Internet","Blue Nile",11767,9.37305428246393
+"112",1.5,5,6,"Ideal","Internet","Blue Nile",11119,9.31641063570325
+"113",1.5,5,6,"Ideal","Internet","Blue Nile",10848,9.29173601018018
+"114",1.52,7,4,"Not Ideal","Internet","Blue Nile",8676,9.06831587194677
+"115",1.53,1,7,"Ideal","Internet","Blue Nile",13708,9.5257348829945
+"116",1.7,3,8,"Not Ideal","Internet","Blue Nile",10863,9.29311779843375
+"117",1.6,5,7,"Not Ideal","Internet","Blue Nile",10292,9.23912217340163
+"118",1.6,5,7,"Not Ideal","Internet","Blue Nile",10390,9.24859908409327
+"119",1.6,5,7,"Not Ideal","Internet","Blue Nile",10638,9.27218777530226
+"120",1.59,7,7,"Ideal","Internet","Blue Nile",7792,8.96085284532237
+"121",1.51,5,5,"Not Ideal","Internet","Blue Nile",10697,9.27771860730613
+"122",1.5,7,6,"Ideal","Internet","Blue Nile",8095,8.99900186611174
+"123",1.51,6,6,"Ideal","Internet","Blue Nile",9422,9.15080265925999
+"124",1.52,7,6,"Not Ideal","Internet","Blue Nile",7230,8.88599431515281
+"125",1.26,6,5,"Not Ideal","Internet","Blue Nile",6494,8.77863395266279
+"126",1.18,3,5,"Ideal","Internet","Blue Nile",8566,9.05555615817532
+"127",1.18,3,5,"Ideal","Internet","Blue Nile",8876,9.09110628405248
+"128",1.2,6,4,"Ideal","Internet","Blue Nile",7013,8.85552084853691
+"129",1.17,5,2,"Ideal","Internet","Blue Nile",8089,8.99826039301795
+"130",1.17,5,2,"Ideal","Internet","Blue Nile",8089,8.99826039301795
+"131",1.37,6,6,"Not Ideal","Internet","Blue Nile",6570,8.79026911147866
+"132",1.24,6,4,"Not Ideal","Internet","Blue Nile",6358,8.75746914147075
+"133",1.27,5,6,"Not Ideal","Internet","Blue Nile",7083,8.86545282575362
+"134",1.24,5,5,"Not Ideal","Internet","Blue Nile",7404,8.90977567369339
+"135",1.17,4,4,"Ideal","Internet","Blue Nile",8533,9.05169627853659
+"136",1.3,6,7,"Ideal","Internet","Blue Nile",6014,8.70184536354847
+"137",1.24,6,6,"Ideal","Internet","Blue Nile",6149,8.72404474595347
+"138",1.21,6,5,"Ideal","Internet","Blue Nile",6296,8.74766979009724
+"139",1.21,6,5,"Ideal","Internet","Blue Nile",6493,8.77847995250849
+"140",1.21,6,5,"Ideal","Internet","Blue Nile",6826,8.82849412946665
+"141",1.51,3,8,"Not Ideal","Internet","Blue Nile",9299,9.1376621464782
+"142",1.21,4,4,"Not Ideal","Internet","Blue Nile",8526,9.05087559732516
+"143",1.21,4,4,"Not Ideal","Internet","Blue Nile",8683,9.06912237006065
+"144",1.04,5,2,"Ideal","Internet","Blue Nile",7150,8.87486763568805
+"145",1.07,1,6,"Ideal","Internet","Blue Nile",8622,9.06207235530708
+"146",1.04,1,5,"Ideal","Internet","Blue Nile",8369,9.03228968203287
+"147",1.04,1,5,"Ideal","Internet","Blue Nile",8445,9.0413298292419
+"148",1.04,1,5,"Ideal","Internet","Blue Nile",8522,9.05040633405986
+"149",1.04,1,5,"Ideal","Internet","Blue Nile",8522,9.05040633405986
+"150",1.01,1,2,"Ideal","Internet","Blue Nile",15909,9.67464026580524
+"151",1.12,3,6,"Not Ideal","Internet","Blue Nile",7350,8.90245559220688
+"152",1.11,6,4,"Not Ideal","Internet","Blue Nile",5889,8.68084148294457
+"153",1.14,5,6,"Not Ideal","Internet","Blue Nile",6486,8.77740128686726
+"154",1.13,7,6,"Ideal","Internet","Blue Nile",4871,8.49105453380654
+"155",1.13,7,6,"Ideal","Internet","Blue Nile",5314,8.57810012631976
+"156",1.13,2,7,"Ideal","Internet","Blue Nile",7159,8.87612558539618
+"157",1.04,4,4,"Ideal","Internet","Blue Nile",7475,8.91931939825889
+"158",1.04,4,4,"Ideal","Internet","Blue Nile",7542,8.9282426778183
+"159",1.04,4,4,"Ideal","Internet","Blue Nile",7542,8.9282426778183
+"160",1.04,2,5,"Ideal","Internet","Blue Nile",7888,8.97309789628247
+"161",1.04,2,5,"Ideal","Internet","Blue Nile",8175,9.00883599576545
+"162",1.04,2,5,"Ideal","Internet","Blue Nile",8175,9.00883599576545
+"163",1.04,2,5,"Ideal","Internet","Blue Nile",8687,9.06958293425992
+"164",1.04,2,6,"Not Ideal","Internet","Blue Nile",7018,8.85623355614316
+"165",1,4,3,"Not Ideal","Internet","Blue Nile",7522,8.92558733903028
+"166",1.01,2,5,"Not Ideal","Internet","Blue Nile",7325,8.89904843388527
+"167",1.01,2,5,"Not Ideal","Internet","Blue Nile",7372,8.90544431878971
+"168",1.01,2,5,"Not Ideal","Internet","Blue Nile",7790,8.96059613886479
+"169",1.14,6,7,"Not Ideal","Internet","Blue Nile",4900,8.49699048409872
+"170",1.14,6,7,"Not Ideal","Internet","Blue Nile",5084,8.53385363230935
+"171",1.08,6,6,"Not Ideal","Internet","Blue Nile",4965,8.51016857647927
+"172",1.08,6,6,"Not Ideal","Internet","Blue Nile",5012,8.51959031601596
+"173",1.08,6,6,"Not Ideal","Internet","Blue Nile",4965,8.51016857647927
+"174",1.08,6,6,"Not Ideal","Internet","Blue Nile",4996,8.51639287124547
+"175",1.12,5,5,"Not Ideal","Internet","Blue Nile",6292,8.74703426417817
+"176",1,3,4,"Not Ideal","Internet","Blue Nile",7296,8.89508153175417
+"177",1,3,4,"Not Ideal","Internet","Blue Nile",7365,8.90449432889673
+"178",1,3,4,"Not Ideal","Internet","Blue Nile",7710,8.95027346655738
+"179",1,3,4,"Not Ideal","Internet","Blue Nile",7296,8.89508153175417
+"180",1.05,6,5,"Not Ideal","Internet","Blue Nile",5247,8.56541176368671
+"181",1.02,5,4,"Not Ideal","Internet","Blue Nile",6580,8.79179002431936
+"182",1.01,4,6,"Ideal","Internet","Blue Nile",6308,8.74957394808293
+"183",1.01,4,6,"Ideal","Internet","Blue Nile",6885,8.83710041116275
+"184",1.1,2,8,"Ideal","Internet","Blue Nile",6740,8.81581520390635
+"185",1.03,5,4,"Not Ideal","Internet","Blue Nile",5995,8.69868106746161
+"186",0.99,5,6,"Not Ideal","Internet","Blue Nile",5252,8.56636423542269
+"187",1.14,6,8,"Ideal","Internet","Blue Nile",4555,8.42398080969406
+"188",1.02,6,7,"Ideal","Internet","Blue Nile",4525,8.41737285613403
+"189",1.02,6,7,"Ideal","Internet","Blue Nile",4690,8.45318786144033
+"190",1.02,6,7,"Ideal","Internet","Blue Nile",4566,8.42639282708974
+"191",1.02,7,6,"Not Ideal","Internet","Blue Nile",4152,8.33134542484572
+"192",1.02,7,6,"Not Ideal","Internet","Blue Nile",4257,8.35631996582815
+"193",1.02,7,6,"Not Ideal","Internet","Blue Nile",4336,8.37470754311948
+"194",1.02,7,6,"Not Ideal","Internet","Blue Nile",4257,8.35631996582815
+"195",1.02,7,6,"Not Ideal","Internet","Blue Nile",4218,8.34711636103872
+"196",1.02,7,6,"Not Ideal","Internet","Blue Nile",4178,8.33758794211651
+"197",1.12,4,7,"Not Ideal","Internet","Blue Nile",5837,8.67197224520379
+"198",1.18,6,8,"Not Ideal","Internet","Blue Nile",4552,8.42332197580617
+"199",1.02,2,7,"Not Ideal","Internet","Blue Nile",5961,8.69299353121993
+"200",1.02,2,7,"Not Ideal","Internet","Blue Nile",6201,8.73246584834988
+"201",1,4,2,"Not Ideal","Internet","Blue Nile",7427,8.9128772876693
+"202",1.11,3,7,"Not Ideal","Internet","Blue Nile",6149,8.72404474595347
+"203",1.08,7,7,"Not Ideal","Internet","Blue Nile",3997,8.29329935871132
+"204",0.9,3,7,"Ideal","Internet","Blue Nile",4799,8.47616284185825
+"205",0.9,3,7,"Ideal","Internet","Blue Nile",5195,8.55545190353333
+"206",1.02,7,6,"Not Ideal","Internet","Blue Nile",4056,8.30795254527102
+"207",1.02,7,6,"Not Ideal","Internet","Blue Nile",4074,8.31238059678675
+"208",1.02,7,6,"Not Ideal","Internet","Blue Nile",4074,8.31238059678675
+"209",1.02,7,6,"Not Ideal","Internet","Blue Nile",4099,8.31849832050434
+"210",1.02,2,7,"Not Ideal","Internet","Blue Nile",5908,8.68406264365127
+"211",1.02,2,7,"Not Ideal","Internet","Blue Nile",5934,8.68845380085077
+"212",1.06,3,8,"Not Ideal","Internet","Blue Nile",5171,8.55082137239622
+"213",1.06,3,8,"Not Ideal","Internet","Blue Nile",5296,8.57470709761684
+"214",1.06,3,8,"Not Ideal","Internet","Blue Nile",5296,8.57470709761684
+"215",1.08,5,8,"Not Ideal","Internet","Blue Nile",4822,8.48094405874112
+"216",1.05,1,8,"Not Ideal","Internet","Blue Nile",5954,8.69181854157572
+"217",0.94,3,7,"Not Ideal","Internet","Blue Nile",4912,8.49943646982698
+"218",1,6,6,"Not Ideal","Internet","Blue Nile",4372,8.38297584929643
+"219",1,6,6,"Not Ideal","Internet","Blue Nile",4452,8.40110871239544
+"220",1,6,6,"Not Ideal","Internet","Blue Nile",4452,8.40110871239544
+"221",1,6,6,"Not Ideal","Internet","Blue Nile",4538,8.42024166533979
+"222",1,6,6,"Not Ideal","Internet","Blue Nile",4452,8.40110871239544
+"223",0.72,5,4,"Ideal","Internet","Blue Nile",3430,8.14031554015999
+"224",0.72,5,4,"Ideal","Internet","Blue Nile",3430,8.14031554015999
+"225",0.72,5,4,"Ideal","Internet","Blue Nile",3240,8.08332860878638
+"226",1.07,5,8,"Not Ideal","Internet","Blue Nile",4657,8.44612674298238
+"227",1,6,8,"Not Ideal","Internet","Blue Nile",3826,8.2495751500002
+"228",0.78,2,6,"Not Ideal","Internet","Blue Nile",3758,8.23164217997341
+"229",1.04,1,8,"Not Ideal","Internet","Blue Nile",5694,8.64716826783798
+"230",1.04,1,8,"Not Ideal","Internet","Blue Nile",5694,8.64716826783798
+"231",1.04,1,8,"Not Ideal","Internet","Blue Nile",5694,8.64716826783798
+"232",1.04,1,8,"Not Ideal","Internet","Blue Nile",5694,8.64716826783798
+"233",0.93,4,8,"Ideal","Internet","Blue Nile",4338,8.37516869138682
+"234",0.92,1,7,"Not Ideal","Internet","Blue Nile",4973,8.51177855871474
+"235",0.81,4,7,"Ideal","Internet","Blue Nile",3433,8.14118979345769
+"236",0.81,4,7,"Ideal","Internet","Blue Nile",3625,8.19560956728878
+"237",0.92,3,8,"Ideal","Internet","Blue Nile",4208,8.34474275441755
+"238",0.92,3,8,"Ideal","Internet","Blue Nile",4767,8.46947245520483
+"239",0.75,4,6,"Ideal","Internet","Blue Nile",3273,8.09346227450118
+"240",0.72,4,5,"Ideal","Internet","Blue Nile",3308,8.10409905614358
+"241",0.72,4,5,"Ideal","Internet","Blue Nile",3648,8.20193435119422
+"242",0.72,4,5,"Ideal","Internet","Blue Nile",3318,8.10711747075039
+"243",0.91,1,6,"Not Ideal","Internet","Blue Nile",5030,8.52317526309379
+"244",0.7,6,6,"Ideal","Internet","Blue Nile",2450,7.80384330353877
+"245",0.7,6,6,"Ideal","Internet","Blue Nile",2450,7.80384330353877
+"246",0.62,3,4,"Ideal","Internet","Blue Nile",3080,8.03268487596762
+"247",0.61,3,3,"Ideal","Internet","Blue Nile",3147,8.05420489706441
+"248",0.77,4,5,"Not Ideal","Internet","Blue Nile",3348,8.11611843160937
+"249",0.76,2,7,"Not Ideal","Internet","Blue Nile",3409,8.1341742721379
+"250",0.7,2,6,"Not Ideal","Internet","Blue Nile",3291,8.09894674894334
+"251",0.7,2,6,"Not Ideal","Internet","Blue Nile",3322,8.10832229017324
+"252",0.7,2,6,"Not Ideal","Internet","Blue Nile",3322,8.10832229017324
+"253",0.7,2,6,"Not Ideal","Internet","Blue Nile",3322,8.10832229017324
+"254",0.73,2,4,"Not Ideal","Internet","Blue Nile",4215,8.34640487043596
+"255",0.71,6,5,"Not Ideal","Internet","Blue Nile",2504,7.82564473221999
+"256",0.71,6,5,"Not Ideal","Internet","Blue Nile",2611,7.86748856869913
+"257",0.91,2,6,"Not Ideal","Internet","Blue Nile",4841,8.4848765899397
+"258",0.64,4,5,"Ideal","Internet","Blue Nile",2524,7.8336002236611
+"259",0.72,3,7,"Ideal","Internet","Blue Nile",3109,8.04205641005875
+"260",0.72,3,7,"Ideal","Internet","Blue Nile",3138,8.05134093329298
+"261",0.74,5,7,"Ideal","Internet","Blue Nile",2678,7.89282552625112
+"262",1,6,8,"Not Ideal","Internet","Blue Nile",3730,8.22416351263786
+"263",0.59,2,7,"Ideal","Internet","Blue Nile",2122,7.66011431917393
+"264",0.59,2,7,"Ideal","Internet","Blue Nile",2301,7.74109909003537
+"265",0.53,2,6,"Ideal","Internet","Blue Nile",2165,7.68017564043659
+"266",0.53,2,6,"Ideal","Internet","Blue Nile",2274,7.72929567431048
+"267",0.5,2,5,"Ideal","Internet","Blue Nile",2213,7.70210434005105
+"268",0.5,2,5,"Ideal","Internet","Blue Nile",2233,7.71110125184016
+"269",0.54,6,5,"Ideal","Internet","Blue Nile",1536,7.33693691370762
+"270",0.63,2,7,"Not Ideal","Internet","Blue Nile",2268,7.72665366484764
+"271",0.54,2,5,"Not Ideal","Internet","Blue Nile",2302,7.74153358928183
+"272",0.72,3,7,"Not Ideal","Internet","Blue Nile",2905,7.97418866928601
+"273",0.72,4,8,"Ideal","Internet","Blue Nile",2628,7.8739783796045
+"274",0.65,1,6,"Not Ideal","Internet","Blue Nile",2665,7.88795933659994
+"275",0.71,3,8,"Ideal","Internet","Blue Nile",3085,8.03430693633949
+"276",0.51,4,5,"Ideal","Internet","Blue Nile",1985,7.59337419312129
+"277",0.7,1,8,"Ideal","Internet","Blue Nile",3016,8.01168672912785
+"278",0.7,1,8,"Ideal","Internet","Blue Nile",3384,8.12681372072611
+"279",0.7,1,8,"Ideal","Internet","Blue Nile",3116,8.04430540699064
+"280",0.53,3,6,"Ideal","Internet","Blue Nile",2202,7.69712131728263
+"281",0.53,3,6,"Ideal","Internet","Blue Nile",2202,7.69712131728263
+"282",0.5,3,5,"Ideal","Internet","Blue Nile",2093,7.646353722446
+"283",0.4,6,5,"Ideal","Internet","Blue Nile",949,6.85540879860993
+"284",0.4,2,5,"Not Ideal","Internet","Blue Nile",1271,7.14755927118945
+"285",0.37,4,5,"Ideal","Internet","Blue Nile",1109,7.01121398735037
+"286",0.36,3,5,"Ideal","Internet","Blue Nile",1109,7.01121398735037
+"287",0.38,5,5,"Ideal","Internet","Blue Nile",1025,6.93244789157251
+"288",0.38,4,2,"Not Ideal","Internet","Blue Nile",1441,7.27309259599952
+"289",0.41,6,3,"Not Ideal","Internet","Blue Nile",930,6.8351845861473
+"290",0.35,4,4,"Ideal","Internet","Blue Nile",1078,6.98286275146894
+"291",0.35,2,5,"Ideal","Internet","Blue Nile",1243,7.12528309151071
+"292",0.42,6,6,"Ideal","Internet","Blue Nile",878,6.77764659363512
+"293",0.39,4,6,"Ideal","Internet","Blue Nile",1094,6.99759598298193
+"294",0.39,4,6,"Ideal","Internet","Blue Nile",1094,6.99759598298193
+"295",0.36,4,5,"Ideal","Internet","Blue Nile",998,6.90575327631146
+"296",0.36,4,5,"Ideal","Internet","Blue Nile",1079,6.98378996525813
+"297",0.38,3,6,"Ideal","Internet","Blue Nile",1062,6.96790920180188
+"298",0.35,3,5,"Ideal","Internet","Blue Nile",1078,6.98286275146894
+"299",0.37,1,6,"Ideal","Internet","Blue Nile",1273,7.14913159855741
+"300",0.38,6,5,"Ideal","Internet","Blue Nile",902,6.80461452006262
+"301",0.35,6,2,"Ideal","Internet","Blue Nile",893,6.7945865808765
+"302",0.38,4,6,"Ideal","Internet","Blue Nile",986,6.89365635460264
+"303",0.51,2,6,"Not Ideal","Internet","Ashford",2010,7.60589000105312
+"304",0.56,4,4,"Not Ideal","Internet","Ashford",2010,7.60589000105312
+"305",0.55,1,7,"Ideal","Internet","Ashford",2010,7.60589000105312
+"306",0.58,2,7,"Ideal","Internet","Ashford",2010,7.60589000105312
+"307",0.55,3,5,"Not Ideal","Internet","Ashford",2020,7.61085279039525
+"308",0.5,1,5,"Not Ideal","Internet","Ashford",2040,7.62070508683826
+"309",0.52,2,5,"Not Ideal","Internet","Ashford",2040,7.62070508683826
+"310",0.52,1,6,"Not Ideal","Internet","Ashford",2050,7.62559507213245
+"311",0.58,4,5,"Not Ideal","Internet","Ashford",2050,7.62559507213245
+"312",0.63,5,2,"Not Ideal","Internet","Ashford",2050,7.62559507213245
+"313",0.63,5,2,"Not Ideal","Internet","Ashford",2480,7.81601383915903
+"314",0.62,5,3,"Ideal","Internet","Ashford",2520,7.83201418050547
+"315",0.6,2,5,"Not Ideal","Internet","Ashford",2530,7.83597458172157
+"316",0.72,4,8,"Not Ideal","Internet","Ashford",2450,7.80384330353877
+"317",0.59,4,2,"Not Ideal","Internet","Ashford",2600,7.86326672400957
+"318",0.99,5,9,"Ideal","Internet","Ashford",2620,7.87092959675514
+"319",0.73,6,4,"Not Ideal","Internet","Ashford",2680,7.8935720735049
+"320",0.59,2,3,"Not Ideal","Internet","Ashford",2680,7.8935720735049
+"321",0.71,4,3,"Not Ideal","Internet","Ashford",3460,8.14902386805177
+"322",0.72,4,5,"Ideal","Internet","Ashford",3470,8.15190987294091
+"323",0.73,2,6,"Not Ideal","Internet","Ashford",3490,8.15765701519647
+"324",0.75,4,4,"Not Ideal","Internet","Ashford",3490,8.15765701519647
+"325",0.72,3,4,"Not Ideal","Internet","Ashford",3490,8.15765701519647
+"326",0.7,3,5,"Not Ideal","Internet","Ashford",3490,8.15765701519647
+"327",0.73,3,7,"Ideal","Internet","Ashford",3490,8.15765701519647
+"328",0.74,5,3,"Ideal","Internet","Ashford",3500,8.1605182474775
+"329",0.85,3,7,"Not Ideal","Internet","Ashford",3510,8.16337131645991
+"330",1.08,6,7,"Not Ideal","Internet","Ashford",4850,8.48673398393153
+"331",1.15,6,7,"Ideal","Internet","Ashford",4860,8.48879371689454
+"332",1.06,6,6,"Not Ideal","Internet","Ashford",4870,8.49084921607663
+"333",1.01,6,5,"Not Ideal","Internet","Ashford",4870,8.49084921607663
+"334",1.02,4,8,"Not Ideal","Internet","Ashford",4870,8.49084921607663
+"335",1.12,7,6,"Ideal","Internet","Ashford",4870,8.49084921607663
+"336",1.03,5,7,"Not Ideal","Internet","Ashford",4870,8.49084921607663
+"337",1.02,6,5,"Not Ideal","Internet","Ashford",4870,8.49084921607663
+"338",1.13,7,6,"Ideal","Internet","Ashford",4880,8.49290049884719
+"339",1.05,2,8,"Not Ideal","Internet","Ashford",5550,8.62155320674048
+"340",1.01,4,6,"Not Ideal","Internet","Ashford",5550,8.62155320674048
+"341",1.01,5,7,"Ideal","Internet","Ashford",5550,8.62155320674048
+"342",1.05,2,8,"Not Ideal","Internet","Ashford",5560,8.62335338724463
+"343",1.05,2,8,"Not Ideal","Internet","Ashford",5560,8.62335338724463
+"344",1.02,1,8,"Not Ideal","Internet","Ashford",5560,8.62335338724463
+"345",1.03,4,7,"Not Ideal","Internet","Ashford",5570,8.62515033292133
+"346",1.02,6,2,"Not Ideal","Internet","Ashford",5570,8.62515033292133
+"347",1.1,6,5,"Ideal","Internet","Ashford",5590,8.62873456614915
+"348",1.08,3,7,"Not Ideal","Internet","Ashford",6180,8.72907355045174
+"349",1.37,7,6,"Ideal","Internet","Ashford",6180,8.72907355045174
+"350",1.05,4,7,"Not Ideal","Internet","Ashford",6180,8.72907355045174
+"351",1.05,4,7,"Ideal","Internet","Ashford",6180,8.72907355045174
+"352",1.14,5,6,"Not Ideal","Internet","Ashford",6190,8.73069036567864
+"353",1.24,4,8,"Not Ideal","Internet","Ashford",6190,8.73069036567864
+"354",1.34,7,6,"Not Ideal","Internet","Ashford",6190,8.73069036567864
+"355",1.16,5,7,"Ideal","Internet","Ashford",6190,8.73069036567864
+"356",1.07,5,5,"Not Ideal","Internet","Ashford",6200,8.73230457103318
+"357",1.23,5,7,"Ideal","Internet","Ashford",7070,8.86361575889062
+"358",1.32,6,6,"Ideal","Internet","Ashford",7070,8.86361575889062
+"359",1.04,2,7,"Ideal","Internet","Ashford",7070,8.86361575889062
+"360",1.24,6,5,"Ideal","Internet","Ashford",7080,8.86502918668777
+"361",1.11,3,6,"Not Ideal","Internet","Ashford",7110,8.86925752279729
+"362",1.02,1,6,"Not Ideal","Internet","Ashford",7110,8.86925752279729
+"363",1.12,3,6,"Not Ideal","Internet","Ashford",7120,8.87066300440602
+"364",1.27,5,7,"Ideal","Internet","Ashford",7120,8.87066300440602
+"365",1.12,4,5,"Not Ideal","Internet","Ashford",7120,8.87066300440602
+"366",1.36,5,5,"Not Ideal","Internet","Ashford",8710,9.07222706984655
+"367",1.3,4,6,"Ideal","Internet","Ashford",8710,9.07222706984655
+"368",1.38,3,7,"Ideal","Internet","Ashford",8730,9.07452064883365
+"369",1.2,4,4,"Not Ideal","Internet","Ashford",8740,9.07566546864958
+"370",1.5,7,4,"Not Ideal","Internet","Ashford",8760,9.07795118393044
+"371",1.26,2,7,"Ideal","Internet","Ashford",8760,9.07795118393044
+"372",1.52,3,8,"Not Ideal","Internet","Ashford",8770,9.07909208536623
+"373",1.21,4,4,"Ideal","Internet","Ashford",8770,9.07909208536623
+"374",1.31,5,4,"Not Ideal","Internet","Ashford",8780,9.08023168662916
+"375",1.52,6,5,"Not Ideal","Internet","Ashford",10040,9.21433239324572
+"376",1.5,6,3,"Not Ideal","Internet","Ashford",10050,9.21532791348722
+"377",1.53,5,7,"Not Ideal","Internet","Ashford",10080,9.21830854162536
+"378",1.5,5,7,"Not Ideal","Internet","Ashford",10130,9.22325659724273
+"379",1.5,5,7,"Not Ideal","Internet","Ashford",10130,9.22325659724273
+"380",1.6,4,8,"Not Ideal","Internet","Ashford",10150,9.22522898446993
+"381",2.27,8,6,"Not Ideal","Internet","Ashford",10180,9.22818029010451
+"382",1.6,6,6,"Not Ideal","Internet","Ashford",10220,9.23210186375769
+"383",1.62,6,6,"Not Ideal","Internet","Ashford",10220,9.23210186375769
+"384",1.71,3,8,"Not Ideal","Internet","Ashford",11840,9.379238908438
+"385",2.02,7,6,"Not Ideal","Internet","Ashford",11840,9.379238908438
+"386",1.5,6,6,"Ideal","Internet","Ashford",11860,9.38092667255172
+"387",1.5,4,6,"Ideal","Internet","Ashford",11880,9.38261159291664
+"388",1.59,5,4,"Ideal","Internet","Ashford",11890,9.38345298968483
+"389",1.62,5,5,"Not Ideal","Internet","Ashford",11910,9.38513366234935
+"390",1.62,5,5,"Not Ideal","Internet","Ashford",11910,9.38513366234935
+"391",1.7,6,5,"Not Ideal","Internet","Ashford",11930,9.38681151509196
+"392",2.13,7,4,"Not Ideal","Internet","Ashford",13680,9.52369019117654
+"393",2.1,6,7,"Not Ideal","Internet","Ashford",13680,9.52369019117654
+"394",1.8,4,7,"Not Ideal","Internet","Ashford",13700,9.52515111181622
+"395",2.2,6,7,"Ideal","Internet","Ashford",13700,9.52515111181622
+"396",2.01,6,5,"Not Ideal","Internet","Ashford",13740,9.52806656577634
+"397",1.54,4,4,"Not Ideal","Internet","Ashford",13760,9.52952111148733
+"398",1.58,1,8,"Ideal","Internet","Ashford",13810,9.53314824640334
+"399",1.72,5,4,"Not Ideal","Internet","Ashford",13820,9.53387209732166
+"400",1.5,2,6,"Ideal","Internet","Ashford",13820,9.53387209732166
+"401",2.01,5,5,"Not Ideal","Internet","Ashford",17010,9.74155668538991
+"402",2.01,5,6,"Not Ideal","Internet","Ashford",17020,9.74214440212737
+"403",2.02,5,6,"Not Ideal","Internet","Ashford",17100,9.74683374249075
+"404",1.78,2,7,"Not Ideal","Internet","Ashford",17160,9.75033637304195
+"405",1.76,2,6,"Not Ideal","Internet","Ashford",17230,9.75440732952197
+"406",1.82,4,4,"Not Ideal","Internet","Ashford",17270,9.75672617114073
+"407",1.7,2,5,"Not Ideal","Internet","Ashford",17290,9.75788357867734
+"408",2.48,6,6,"Not Ideal","Internet","Ashford",17440,9.76652169746297
+"409",2.01,5,6,"Not Ideal","Internet","Ashford",17450,9.76709492763057
+"410",0.75,7,9,"Not Ideal","Mall","Riddles",2499,7.82364593083495
+"411",1,9,9,"Not Ideal","Mall","Riddles",2999,8.00603417874901
+"412",0.75,9,9,"Not Ideal","Mall","Riddles",1599,7.37713371283395
+"413",0.5,9,9,"Not Ideal","Mall","Riddles",799,6.68336094576627
+"414",0.5,7,9,"Not Ideal","Mall","Riddles",997,6.90475076996184
+"415",0.25,6,9,"Not Ideal","Mall","Riddles",599,6.39526159811545
+"416",0.2,6,9,"Not Ideal","Mall","Riddles",497,6.20859002609663
+"417",1.5,9,8,"Not Ideal","Mall","Riddles",7350,8.90245559220688
+"418",0.705,2,6,"Not Ideal","Mall","Riddles",5354,8.5855992240803
+"419",0.675,6,8,"Not Ideal","Mall","Riddles",2537,7.83873755959928
+"420",1.05,6,7,"Not Ideal","Mall","Riddles",7140,8.87346805533363
+"421",0.78,6,8,"Not Ideal","Mall","Riddles",6699,8.80971354050827
+"422",0.375,6,8,"Not Ideal","Mall","Riddles",1542,7.34083555412327
+"423",0.58,7,6,"Not Ideal","Mall","Riddles",3389,8.12829017160705
+"424",0.395,4,8,"Not Ideal","Mall","Riddles",1850,7.52294091807237
+"425",0.39,5,8,"Not Ideal","Mall","Riddles",1761,7.47363710849621
