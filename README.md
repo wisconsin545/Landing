@@ -1,6 +1,13 @@
 # Welcome to portfolio of analytics, strategy and product management. 
 
-## I've supported fortune 50 organizations, startups, small companies and non profits, in utilizing predictive analytics, big data, strategy and implementation to fuel success through creating: 3 software products, 3 white papers and leading multiple teams. Through developming merchandising, marketing, supply chain, compliance, law, risk, cyber security, global affairs, brand management, and managerial data science algorithms, strategies and implimentation plans, I've created and saved organizations millions. 
+## I've supported fortune 50 organizations, startups, midsize/small companies and non profits, in utilizing data science, predictive analytics and big data in their strategy and implementation that has resulted in the following:  
+### Results: Portfolio Product Management  
+ * Thalamus: Streaming analytics and alerting on GBs of data throug linear scaling  
+ * Pulsar: Social media analysis in real-time that provides alerting and machine learning 
+ * Bananas: Hardware/Software product that utilizes full resources for optimal stream processing 
+ * Cyber Intrusion Detection Data Science Product: Streamed GBs of data per second and utilized deep nueral networks to alert on malicous traffic on/in network. 
+ 
+, 3 white papers and leading multiple teams. Through developming merchandising, marketing, supply chain, compliance, law, risk, cyber security, global affairs, brand management, and managerial data science algorithms, strategies and implimentation plans, I've created and saved organizations millions. 
 
 ### Cyber Security - Intrusion Detection Data Science Product - [Link](https://github.com/wisconsin545/Landing2/tree/master/Cyber) 
 #### Streamed GBs of data per second and utilized deep nueral networks to alert on malicous traffic on/in network. Resulted in real-time alerting and saving Target $5 Million in external vendor product costs per year.  
