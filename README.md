@@ -9,7 +9,11 @@
  * [Supply Chain Data Science](https://github.com/wisconsin545/Landing2/blob/master/Supply%20Chain%20and%20Distribution/Quadratic%20Linear%20Estimation.md): Real-time alerting based on data science to prevent Distribution Center failure, valued at $3 million+ cost prevention and product speed to market.  
  * [Security Findings Data Science](https://github.com/wisconsin545/Landing2/blob/master/Risk-%20Compliance-%20Law%20and%20Security/Security%20Findings%20Predictive%20Modeling.md): Web-based, on-prem hosted security findings product that utilized multiple data science algorithms to preduct security findgings across Enterprise, values at annual savings of $1 million plus.
  
- 
+ ## Data Science and Predictive Analytics Acumen and Techniques:
+ ### Results: 10+ Years in analytics and MS in Data Science/Predictive Analytics from #2 program in US
+  * [Database Design and Implimentation](https://github.com/wisconsin545/Landing2/tree/master/DataScience%20and%20Predictive%20Analytics/Database%20Design%20and%20Implimentation) 
+  * [Predictive Modeling]() [Stats](https://github.com/wisconsin545/Landing2/tree/master/DataScience%20and%20Predictive%20Analytics/stats/401),  
+  * [Survey Design and Implimentation](https://github.com/wisconsin545/Landing2/tree/master/DataScience%20and%20Predictive%20Analytics/Survey%20Design%20and%20Implementation)
  
 ### In addition to portofolio management, I've developming merchandising, marketing, supply chain, compliance, law, risk, cyber security, global affairs, brand management, and managerial data science algorithms, strategies and implimentation plans, I've created and saved organizations millions. 
 
