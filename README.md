@@ -1,6 +1,6 @@
 # Welcome to portfolio of analytics, strategy and product management. 
 
-## Served Fortune 50 organizations, startups, midsize/small companies and non-profits, in utilizing data science, predictive analytics and big data in strategy, implementation and activation resulting in millions in new revenue and millions optimized/saved.  
+## Serve Fortune 50 organizations, startups, midsize/small companies and non-profits, in utilizing data science, predictive analytics and big data in strategy, implementation and activation resulting in millions in new revenue and millions optimized/saved.  
 ### Results: Portfolio Product Management (White papers on the following available)  
  * Thalamus Product: Streaming analytics and alerting on GBs of data throug linear scaling, new capability to enterprise that results in real-time response and internally valued at $50 million+.   
  * Pulsar Product: Social media analysis in real-time that provides alerting and machine learning, used at Deloitte, Prudential, and Pharmacutical companies, valued at $1 million+. 
