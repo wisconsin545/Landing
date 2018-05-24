@@ -1,0 +1,3115 @@
+Syrian Refugees living in 
+the Community in Jordan 
+
+
+Assessment Report 
+
+International Federation of Red Cross and Red Crescent Societies and 
+the Jordan Red Crescent 
+
+September 2012 
+
+An assessment of the situation facing Syrian refugees living in the community in Jordan. Focuses 
+on the Household Economy, but also considers multi-sector needs, as well as an understanding of 
+the wider response context in Jordan. 
+
+Contents 
+
+1. Executive Summary ................................................................................................ 5 
+
+
+2. Background ............................................................................................................. 9 
+
+
+3. Situation and Context ........................................................................................... 10 
+
+
+3.1. Jordan ............................................................................................................... 10 
+
+
+3.2. Impact on Government of Jordan of the Refugee Influx ................................. 11 
+
+
+3.3. Refugee Numbers and Demographics .............................................................. 11 
+
+
+3.3.1. UNHCR Registration ................................................................................ 11 
+
+
+3.3.2. Jordan Red Crescent Society Registration ................................................ 13 
+
+
+3.4. The Collective Aid Response in Jordan – Coordination and Duplication ....... 14 
+
+
+4. Assessment methodology ...................................................................................... 17 
+
+
+4.1. Summary of Assessment Approach ................................................................. 17 
+
+
+4.2. Details of the field assessment component ...................................................... 17 
+
+
+4.3. Assessment team and logistical arrangements ................................................. 18 
+
+
+4.4. Choice of assessment locations ........................................................................ 18 
+
+
+4.5. Limitations of Assessment Methodology ......................................................... 19 
+
+
+5. Detailed Assessment Findings .............................................................................. 19 
+
+
+5.1. Who are the refugees: ....................................................................................... 20 
+
+
+5.2. Priority Needs ................................................................................................... 20 
+
+
+5.3. Housing/Shelter ................................................................................................ 21 
+
+
+5.4. Food Security ................................................................................................... 22 
+
+
+5.5. The Household Economy ................................................................................. 23 
+
+
+5.6. Health Care ....................................................................................................... 26 
+
+
+5.7. Education .......................................................................................................... 26 
+
+
+5.8. Markets ............................................................................................................. 27 
+
+
+5.9. Support received to date by refugees ............................................................... 27 
+
+
+5.10. Assessment Findings Specific to a Cash Intervention .................................. 28 
+
+
+6. Analysis of Refugees’ Coping Strategies, Future Plans, Vulnerability and 
+Gaps ............................................................................................................................... 29 
+
+6.1. Coping Strategies ............................................................................................. 29 
+
+
+6.2. Future Plans for Refugees ................................................................................ 30 
+
+
+6.3. Vulnerability within the Refugee Population ................................................... 30 
+
+
+6.4. Timing of Needs ............................................................................................... 31 
+
+
+6.5. Geographical Targeting .................................................................................... 32 
+
+
+7. Mapping the Wider Humanitarian Response in Food, NFIs and Cash ........... 32 
+
+
+7.1. Understanding JRC relief distributions and the registration process ............... 32 
+
+
+7.2. Mapping other Agency Programmes................................................................ 34 
+
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+7.3. Understanding the UNHCR registration process, gaps and time lags .............. 35 
+
+
+8. Appropriateness of Cash Programming ............................................................. 36 
+
+
+9. Objective and Response Option Analysis ........................................................... 38 
+
+
+9.1. Objective .......................................................................................................... 38 
+
+
+9.2. Response Options ............................................................................................. 39 
+
+
+9.3. What Kind of Cash Transfer? ........................................................................... 40 
+
+
+9.4. Coordination and sharing of beneficiary lists .................................................. 41 
+
+
+9.5. JRC Capacity .................................................................................................... 42 
+
+
+10. Other Considerations for Implementation ...................................................... 42 
+
+
+10.1. Cross-cutting issues ...................................................................................... 42 
+
+
+10.2. ‘Do no harm’ – the impact of assistance for Syrian refugees on Jordanians 43 
+
+10.3. Medium to Longer-Term Programming for Syrian Refugees ...................... 43 
+
+
+10.4. Scenario Analysis for the Future .................................................................. 44 
+
+
+11. Annex One - Assessment Reports Reviewed as secondary data relating to the 
+host community context. ............................................................................................... 46 
+
+12. Annex Two: Focus group discussion guidance notes ...................................... 49 
+
+
+13. Annex Three – Mapping of other Agency Cash and Voucher Programmes 
+for Syrian Refugees in Jordan……………………………………………………… .52 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+List of Abbreviations Used 
+
+CBOs: Community-based organisations 
+GoJ: Government of Jordan 
+IFRC: International Federation of Red Cross and Red Crescent Societies 
+INGO: International non-government organisation 
+JD : Jordanian Dinars (national currency) 
+JHCO: Jordan Hashemite Charity Organisation 
+JRC: Jordan Red Crescent 
+NFIs: Non-food items 
+PRA: Participatory rural appraisal 
+RAIS: Refugee Assistance Information System (from UN) 
+RCRC: Red Cross Red Crescent Movement 
+RRP: Regional response plan (for UN and partners) 
+UN: United Nations 
+UNDP: United Nations Development Programme 
+UNHCR: United Nations High Commission for Refugees 
+UNICEF: United Nations Children’s Fund 
+WFP: World Food Programme 
+
+A note on the use of photographs 
+
+To respect the privacy and protection concerns of Syrians who took part in this 
+assessment, photographs of individuals are not included in this report. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+1. Executive Summary 
+This report details an assessment carried out during September 2012 into the situation 
+facing Syrian refugees living in the community in Jordan. It follows on from the 
+launching of a preliminary emergency appeal by IFRC and JRC in August 2012, which 
+focuses on supporting JRC to scale up its assistance to Syrian refugees in the 
+community. 
+
+The assessment included six days of primary data collection in six locations in Jordan, 
+as well as a detailed review of secondary data and extensive coordination meetings with 
+other agencies and stakeholders. Current responses of JRC and UNHCR were also 
+examined in detail. 
+
+The assessment showed that many refugees living throughout Jordan, not just in the 
+northern areas, face similar difficulties in providing for their basic needs. General 
+findings were in line with secondary assessment data. 
+
+Key findings 
+
+• 
+JRC has registered almost as many refugees as UNHCR, for the purposes of 
+relief distributions; however there is a degree of overlap between the datasets, as 
+well as between the beneficiary lists of local organizations under the JHCO 
+umbrella. 
+• 
+A sizeable proportion of JRC-registered refugees are not registered with 
+UNHCR, due to their concerns around privacy and protection. 
+• 
+The priority need of refugees who are living in the community is cash, to 
+provide access to the market and meet basic household needs. Within this, rent is 
+overwhelmingly the main need; followed by fresh food, medicines, items for 
+babies and children, and items for winter. 
+• 
+Refugees do not face a food security problem, as there are continuing food aid 
+and food voucher distributions; also refugees prioritise the cash they have to 
+purchase food on the market. 
+• 
+Part of food aid is often re-sold by refugees, to generate cash for basic household 
+expenditures. 
+• 
+Most refugees are renting their own accommodation, and many are unable to 
+pay rent and utility costs, or are in debt to landlords for rent payments. 
+• 
+The housing rental market is tight, adequate accommodation is difficult for 
+refugees to find, and rents have risen significantly in most areas. 
+• 
+Winter will bring higher utility costs, and refugees need cash to purchase 
+heaters, fuel, blankets and warm clothes. 
+• 
+There are few reliable income sources for households. Income from work is 
+consistently ranked below aid/charity, which is the primary income source. 
+• 
+Opportunities for refugees to work are limited, with only poorly paid informal 
+work sometimes evidenced. This is particularly true outside of Amman. It was 
+commonly reported around the country that some teenage children are working. 
+• 
+Savings are now very limited, with most refugees having depleted the resources 
+they brought with them (including having sold assets). Refugees are often in 
+debt, especially for rent. 
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+• 
+Access to health care and medicines is an issue mostly for those families who 
+have a member with a chronic health condition, or an injury sustained in Syria, 
+and who need additional or specialized care. 
+• 
+Education is not ranked as a top priority, and many refugee children are 
+attending school; however some refugees cannot fund the cost of books, 
+materials and uniforms. 
+• 
+Markets are functioning normally and have reacted to additional demand, with 
+the exception of the housing market, as noted. 
+• 
+Refugees have received assistance from many organizations, especially local 
+CBOs; however, this support seems to have peaked during Ramadan and is now 
+more infrequent. 
+Coping Strategies 
+The main coping strategies which refugees are adopting to try and meet their basic 
+needs and expenditures are as follows: 
+
+• 
+Dependency on aid, especially food distributions 
+• 
+Re-selling unwanted aid items on the market to generate cash 
+• 
+Incurring debt, especially to landlords for unpaid rent 
+• 
+Children engaging in informal work – generally adolescents, but reported as 
+young as eleven 
+• 
+Women working informally, in domestic work (not widespread) 
+• 
+Men changing occupation and looking for any informal work available – but 
+there are very limited opportunities outside of Amman 
+• 
+Begging – only hinted at in women’s focus groups 
+• 
+Reduction in meals from three per day to two – but not widespread 
+Refugees are engaging in these coping strategies, but it is clear from the analysis of 
+monthly expenditure needs and income sources that there is an income gap in many 
+households. Many families are relying on a combination of aid, gifts, and cash 
+generated by re-selling aid as their main income source. Whilst managing to achieve 
+basic food security, the most vulnerable refugees cannot fund their other household 
+costs; where they currently can, it is likely that many of these families will encounter 
+difficulties in the coming months. Rent is a special issue – in order to maintain access to 
+housing, some refugees need assistance to pay rent, and also to pay down debts to 
+landlords, to remove the threat of eviction. 
+
+The situation facing refugees living in the community is not expected to improve in the 
+coming months, nor do refugees expect to be able to return to Syria. As such, these 
+needs will persist for vulnerable families for the foreseeable future. 
+
+Official Registration Status 
+The UNHCR-registration status of refugees can be seen as indicating a degree of 
+additional vulnerability. For those not registered, there is no free-of-charge access to the 
+public health and education systems, or eligibility for WFP food voucher and UNHCR 
+cash assistance. JRC has access to a large caseload of unregistered refugees, and this 
+should be carefully considered as part of beneficiary selection for a future programme. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+What Response is Justified? 
+Further intervention to support the non-food basic expenditure of the most vulnerable 
+refugee households is needed, as well as to prepare them for the coming winter. Several 
+different response options to meet this objective are analysed in this report. An 
+unconditional cash transfer is recommended as the best option1. 
+
+All the necessary pre-conditions for cash transfer programming are met in Jordan in this 
+current context. During the assessment, refugees gave a clear preference for cash over 
+in-kind support. A number of cash payment mechanisms are available in Jordan, and 
+security, corruption and gender issues do not present any major risks. Cash transfers are 
+already being implemented by other agencies, and are seen as acceptable in Jordan. 
+Most refugees are living in an urban context and have full access to markets to meet 
+their needs. 
+
+Details of the recommended cash transfer: 
+
+• 
+Unconditional – not tied to any expenditure, so allows refugees to prioritise their 
+needs. 
+• 
+Recurring transfer – monthly for at least three months. This is because a one-off 
+transfer will not have a material impact on the most vulnerable households. 
+• 
+Amount – calculated using the household expenditure data collected, at the level 
+of average rent plus an additional amount for other priority needs. 
+• 
+Locations – where JRC has branches and has registered and conducted relief 
+distributions for Syrians; locations also selected in coordination with other 
+agencies who are implementing, or planning, cash assistance. 
+• 
+Targeting – most vulnerable households, according to the indicators identified in 
+the report, including giving priority to refugees not registered with UNHCR. 
+Coordination and avoiding duplication 
+
+• 
+Regular coordination with other agencies will be essential in order to avoid the 
+duplication of cash assistance. This report contains a detailed mapping of 
+relevant agency programmes and identifies potential overlaps. 
+• 
+JRC should apply to UNHCR to join the RAIS system, allowing cross-checking 
+of UNHCR cash assistance beneficiaries against potential JRC beneficiaries, and 
+removal of duplications. 
+• 
+The policy position around sharing of beneficiary data, as related to protection 
+issues, will have to be agreed between JRC and other agencies. 
+Other Recommendations 
+
+• 
+Improve data management within JRC by cleaning the existing beneficiary 
+database, and collecting more vulnerability data from refugees through JRC’ 
+ongoing relief distributions – to enable targeting to be done. Migration from MS 
+Excel to MS Access will be necessary. 
+• 
+Use the cash programme as an opportunity for capacity building for JRC staff 
+and volunteers, especially in disaster management principles and field work 
+basics. 
+1 This assessment report should be read in conjunction with a second report which contains detailed 
+recommendations for a cash transfer programme, titled ‘Cash Assistance Programme Options’. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+• 
+Consider the need to include vulnerable Jordanians in programming as well as 
+Syrians, to reduce potential resentment and improve acceptability. Any longer 
+term interventions or extension of cash programming will need to do this. 
+• 
+A cash transfer will be simple to extend, either in duration or reach. This should 
+be linked to persistent needs, and available funding. 
+Above: typical rented apartment of Syrian refugee family, Ajloun. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+2. Background 
+Since the beginning of the unrest in Syria at the start of 2011, Jordan has received more 
+Syrians fleeing the conflict than any neighbouring country. From March 2011, 
+according to Government of Jordan figures, more than 190,000 Syrians have sought 
+refuge in Jordan. Jordan has left its borders open to Syrians and has a favourable 
+protection climate which has supported the population movement. 
+
+Unlike Iraqi refugees who are concentrated in the capital Amman, Syrians have 
+scattered throughout Jordan, with the largest concentrations in the border areas of Irbid 
+and Mafraq governates and the capital Amman, as well as in other governates 
+throughout the country. With the intensification of the conflict from July 2012 onwards, 
+there has been a surge in the number of refugees. August witnessed a record number of 
+arrivals, peaking at over 1,000 per day. 
+
+To date, over 53,000 Syrians have been registered officially with UNHCR 2 . The 
+Government of Jordan’s figure of 190,000 refugees is based on border statistics and 
+other estimates. Almost 32,000 Syrians are in the newly established Za’atri camp in 
+Mafraq, and a further 1,400 in King Abdullah Park and Cyber City refugee sites in the 
+North. The population of Za’atri camp is increasing rapidly, as fast as the camp can be 
+scaled up. 
+
+However, the majority of Syrians are residing in urban or peri-urban host communities 
+across the country. Although not all of them are in need, many arrived in Jordan with 
+few, if any, resources, having depleted them while still in Syria or en-route to Jordan. 
+The ability of the most vulnerable to make ends meet is limited. Accommodating them 
+within local communities is putting pressure on national services and infrastructure, and 
+the Government’s capacity to support them is approaching its limit. 
+
+JRC has been responding to the needs of Syrian refugees since early 2012, focusing on 
+the registering refugees around the country, and the distribution of food parcels and 
+other relief items. During June 2012, IFRC and JRC carried out three rapid assessments 
+in Jordan, covering Amman and the northern governates. They found much of the focus 
+of the international community was on the refugee sites in the north, to the detriment of 
+the host community context. On the back of this rapid assessment, the Regional 
+Population Movement Preliminary Emergency Appeal was launched in August 2012, 
+covering Jordan, Lebanon and Iraq. The majority of the Emergency Appeal covers 
+Jordan - more specifically interventions to support Syrians residing in host 
+communities. 
+
+The British Red Cross seconded a delegate from its HES (Household Economic 
+Security) roster during September 2012, to support IFRC/JRC in the start-up of the 
+Emergency Appeal operation. The purpose of this deployment was to undertake a more 
+detailed assessment to understand the needs and vulnerability of the refugees, as well as 
+the evolving humanitarian response. Special focus was on developing the cash 
+component in the Emergency Appeal – to support JRC in identifying criteria and an 
+implementation strategy based on household economic security analysis, vulnerability 
+factors and the current stages of the humanitarian response. This report is the first of 
+
+2 Source: UNHCR website, statistics dated 25th September 2012 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+two, covering the assessment and broad response options. A second report will cover 
+more detailed recommendations for a potential cash programme. 
+
+3. Situation and Context 
+3.1. Jordan 
+Jordan is a low to middle income country with limited natural resources and a semi-arid 
+climate. Approximately 75% (in the eastern region) is covered by the Arabian desert. 
+Jordan is ranked 95th (out of 187 countries) in the Human Development Index, a 
+classification of ‘medium’ development.3 
+
+Food production, particularly of grains, is low. Domestic cereal production provides less 
+than 3% of food and feed needs, so the country relies on food imports, and is heavily 
+exposed to food price increases. Only 17% of the population lives in rural areas, and 
+only 11% of Jordan’s land area is used for agriculture.4 Jordan is also completely reliant 
+on imports for its energy needs. 
+
+The Global Hunger Index (GHI)5 for Jordan in 2011 is defined as low. However, a 2008 
+study by WFP and the GoJ6 highlighted some food insecurity in previously defined 
+areas, known as ‘poverty pockets’, throughout the country. This found 8% food 
+insecurity, 20% vulnerability, and 72% food security – with most of the food insecurity 
+existing in the rural ‘poverty pockets’. 
+
+According to the Jordan Human Development Report (UNDP, 2011), 13.3% of the 
+population were defined as living below the poverty line in 2008. However, this figure 
+does vary widely between governates (ranging from 8.3% in Amman to 31.9% in 
+Mafraq). Department of Statistics data shows the unemployment rate in Jordan is high, 
+12.9% in 2011. The cost of living in Jordan is significantly higher than in Syria, with 
+some rough estimates putting it at double. 
+
+Jordan faces a number of hazards such as earthquakes, flash floods and drought. 
+However, earthquake and flood risk are ranked as low on the global risk index, while 
+drought risk is ranked high.7 
+
+Water scarcity in Jordan is a major and growing issue. Many urban areas have to make 
+do with rationed piped municipal supply of 1-2 days per week. Present national water 
+use already exceeds renewable freshwater resources by more than 20%. 
+
+3 UNDP Human Development Report, 2011 
+4 OCHA Country Fact Sheet, Jordan, August 2012 
+5 The GHI combines indicators of undernourishment, child underweightedness, and child mortality. 
+Source: Global Hunger Index, 2011 
+6 Jordan Food Security Survey in the Poverty Pockets, WFP/JAAH, September 2008 
+7 Natural Hazards Risk Atlas, 2011; OCHA Country Fact Sheet, Jordan, August 2012 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+Whilst prevailing public opinion has been open to the refugee influx, as numbers have 
+continued to increase since July 2012 there are signs that this is starting to change, 
+particularly in Mafraq, where the presence of Za’atri camp is having a negative impact 
+on sentiment. A public opinion survey conducted in August 2012 in Jordan found that 
+65% of respondents were against receiving more Syrian refugees, while 86% felt it was 
+better for Syrians to be in camps and not in the community.8 
+
+In a context of pre-existing poverty, unemployment, and rising living costs, it is clear 
+that the refugee crisis has the potential to create social and economic pressure, as well as 
+resentment among the poorer sections of the Jordanian community. 
+
+3.2. Impact on Government of Jordan of the Refugee Influx 
+The pressure on the GoJ budget and public service provision has been widely noted as 
+the refugee crisis has worsened, especially water, energy, health, and education. 
+Municipal services such as garbage collection, sanitation and drinking water, are also 
+under pressure. Syrian refugees who are registered with UNHCR can access the public 
+health and education system. The government also subsidies a number of basic goods in 
+the open market, such as bread, cooking gas, fuel, electricity, and water, and these 
+subsidies have been extended to Syrians. 
+
+The GoJ has estimated that the cost of hosting a refugee population of 120,000 Syrians 
+would cost the country about $123m annually to cover the increasing demand on basic 
+services, plus an additional $46m annually for subsidies on basic goods for Syrians. 
+These estimates were made in June 2012, and the number of refugees is now 
+significantly higher.9 For a prolonged period of displacement, the GoJ forecasts that it 
+would have to invest in capital items such as infrastructure, schools, and health 
+facilities. 
+
+In tandem with Jordan’s high budget deficit and high level of public debt, and the 
+energy and water scarcity, it is clear that the refugee situation is placing mounting 
+pressure on the Government’s ability to cope. In early September 2012 the GoJ 
+announced that the influx is beyond what it can deal with, and is seeking $430m in 
+donor support for its budget for the direct costs of hosting refugees. 
+
+3.3. Refugee Numbers and Demographics 
+3.3.1. UNHCR Registration 
+UNHCR has registered the following number of Syrian refugees, as at 25th September 
+2012: 
+
+8 Survey conducted between 27-31 August 2012 by the Centre for Strategic Studies, University of Jordan; 
+polling 1,800 members of the public and 700 ‘opinion leaders’ 
+9 Source: Needs Assessment for Displaced Syrians, July 2012, Government of Jordan/UN 
+
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+UNHHCR Registrration of Syyrian Refugeees HHCR Registrration of Syyrian Refugeees 
+
+Familiess Indivviduals 
+Refugeees registereed to date 18,623 53,,299 
+Refuge 
+appoin 
+ees awaitin 
+ntments (in c 
+ng registra 
+community) 
+ation 
+) 
+3,048 11,,386 
+Za’atr 
+registr 
+ri camp res 
+ration 
+sidents awaiiting 3,194 29,,769 
+TOTAAL 23,980 94,,454 
+
+Sourcee: UNHCR wwebsite, 25th SSeptember 2 012 
+
+The ccharts beloww show soome of thee basic demmographicss of the UUNHCR Syyrian 
+registrration databbase (only foor completeed registratioons to date)). 
+Age annd gender bbreakdown oof UNHCR--registered refugees 
+
+Sourcee: UNHCR, 55th Septembeer 2012 
+ns are 
+% are 
+
+ttion is 
+g 
+
+Geogrraphical disttribution of UNHCR-reegistered re fugees 
+
+v 
+i 
+living 
+ountry; 
+73% 
+man, or 
+orthern 
+id and 
+Sourcee: UNHCR, 55th Septembeer 2012 
+
+IFRC Asssessment Report – Syrian Refugeees in the Communnity, Jordan. Sep--12 
+
+
+Familyy Size of UNNHCR Reggistered Refufugees yy Size of UNNHCR Reggistered Refufugees 
+
+Family size 
+% of to 
+household 
+otal registe 
+ds 
+ered 
+1-2 peeople 22% 
+3-5 peeople 43% 
+6+ peeople 35% 
+
+s, 
+e a 
+g a 
+a ve 
+e 
+
+UNHCCR-registereed Refugeess – Reasonss for leavingg Syria 
+
+Sourcee – UNHCR, 5th Septembber 2012 
+63%) 
+a the 
+tion; 
+u their 
+n ason 
+
+3.3.2. Jorrdan Red Crescent Socciety Registrration 
+JRC hhas its own ddatabase of some 11,4000 refugee ffamilies (499,500 indiviiduals) livinng in 
+host ccommunitiess, which coontinues to grow. This beneficiary list formms the basi s of 
+JRCs on-going ddistribution s of food parcels, hyygiene kits and other NFIs10. OOnly 
+refugeees who entered Jordann after Januaary 2012 haave been eliigible for reegistration. The 
+processs is discusssed in more detail later in this repoort. 
+
+The brreakdown oof Syrian reffugees regisstered by JRRC is as folllows: 
+
+10 Thesee food and rellief distributioons have beenn supported byy various partts of the RCRRC Movement, and 
+some otther partners. 
+
+IFRC Asssessment Report – Syrian Refugeees in the Communnity, Jordan. Sep--12 
+
+
+Summary of JRC Syrian Refugee Database 
+
+Location 
+# of Refugee 
+households 
+% of 
+total 
+# of 
+Individuals 
+% registered with 
+UNHCR 
+Registration 
+Ajloun 179 1.6% 765 59% 
+Amman 5613 49.2% 24095 30% 
+Irbid (also includes separate 
+registration for Naemah, Tora 
+& Shujra 
+2228 19.5% 10119 55% 
+Jarash 177 1.6% 796 53% 
+Karak 243 2.1% 976 39% 
+Ma'an 332 2.9% 1316 23% 
+Mafraq (also includes separate 
+registration for Ramtha) 
+2642 23.1% 11440 31% 
+11,414 49,507 
+
+Source: JRC, September 2012 
+
+• 
+JRC has registered refugees in seven governates; UNHCR data covers twelve. 
+• 
+In all governates except for Irbid, JRC has registered more refugees than 
+UNHCR. More than double the number of refugees have been registered in 
+Amman. 
+• 
+A significant proportion of Syrian refugees registering with JRC are not 
+registered with UNHCR. The proportion of those who are registered with 
+UNHCR ranges from 30% to 59%, across the different governates11. This is due 
+to a number of reasons including refugees’ concerns about their privacy and 
+future security, an issue which will be discussed at length later under the 
+assessment findings. However, refugees have felt comfortable to register their 
+details with JRC, partly due to their awareness of the Red Crescent in Syria, and 
+the perceived independence and neutrality of JRC. This factor is an important 
+one which will be analysed later in this report. 
+3.4. The Collective Aid Response in Jordan – Coordination and Duplication 
+There has been a substantial response by local organisations in Jordan to the refugee 
+situation. Many CBOs, among them Islamic organisations, have been active. Gulf Arab 
+states have been providing support directly and through their local partners. Much 
+assistance has been provided by local communities and individuals. Such efforts are 
+laudable, but links between the international organisations and local organisations are 
+poor, and coordination mechanisms are not functioning effectively. 
+
+JHCO has been mandated by the Government to coordinate the activities of all local 
+organisations, as well as to lead the operations in Za’tari camp. Under the umbrella of 
+JHCO are numerous organisations; one of their largest implementing partners is Al 
+
+11 JRC data, September 2012 – % of refugees who did not register with JRC with the UNHCR registration 
+document, which is requested if refugees have it. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+Kitabwal Sunnah, an Islamic organisation12. JHCO has reported that some $2.2m of 
+food, NFI and cash assistance was channelled through local organisations between 
+March-May 201213. The Islamic Center is another active organisation, but is outside the 
+JHCO umbrella of local organisations. 
+
+UNHCR is mandated to lead the international response in Jordan. UNHCR registration 
+is a slow and centralised process, but it remains key for refugees to access government 
+services as well as support from the UN system, which includes WFP as well as 
+UNHCR itself. 
+
+The UNs revised Regional Response Plan (RRP) and related appeal of June 2012 
+combines the responses of UN agencies and some forty INGO partners. It has a 
+planning horizon of March-December 2012. During September 2012 the RRP is under 
+revision, due to the fact that the ‘worst case’ assumptions of refugee numbers in Jordan 
+in the June RRP had already been seen by August; and the initiation of the contingency 
+plan for Za’atri camp, which was not factored into the plan. It is expected that the total 
+budget sought for Jordan will double, from the existing $85m.14 The activities of many 
+local organisations, however, remain outside the RRP. 
+
+JRC, as mentioned above, has its own beneficiary list of some 11,400 families. 
+However, it is acknowledged that Syrian families receiving distributions from JRC 
+overlap with some of those in the UNHCR system and also under the umbrella of 
+JHCO. 
+
+The overlap in beneficiary and registration lists is widely recognised as an issue in the 
+overall response. This means that support, particularly of food/NFI distributions, and 
+cash assistance, is being duplicated, and is leading to the well recognised fact that many 
+refugee families are selling part of their aid on the market, especially dry food items. 
+Secondary data indicates that duplication is mostly an issue in Amman and especially in 
+the north of Jordan in Mafraq and Irbid, where there are a large number of local and 
+international organisations working. 
+
+12 Al Kitabwal Sunnah has reported that it and partners have 120,000 refugees registered; however, this 
+cannot be verified. 
+13 UN Regional Response Plan (revised), June 2012 
+14 The RCRC Movement is not part of this consolidated planning process, but during September 2012 
+IFRC has coordinated with the UN and other agencies, sharing details of the JRC response to date, and 
+future RCRC Movement plans. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+The respponse in Jorddan: duplicaation in regiistration andd beneficiarry lists pponse in Jorddan: duplicaation in regiistration andd beneficiarry lists 
+
+Gs1GoJrefugeestatistics:
+190,000JHCOpartneUnknowLocalCIslamicGulfoJRCSd114anders:
+wnsizeCBOs,
+orgs,
+orgsdistributionlis1,400families49,500peopleUNRegisDrivesvoucUNHassi23,9894,45sts:
+NHCRstration:
+WFPfoodchers&
+HCRcashistance0families54peopleExtentisnottofoverlapknown
+UNHCCR refugee fiigure includees camp residdents and thoose waiting fofor registratioon appointmeents 
+
+The exxtent of the overlap in the differennt registratioon systems and beneficciary lists iss not 
+knownn, nor is it llikely to bee feasible too combine thhem in the future. It could be arggued 
+that thhe needs of many refuggee familiess outweigh aany concernns about thee duplication of 
+assistaance. Howeever, betterr coordinattion and taargeting wwould ensurre that limmited 
+fundinng resourcess are used mmore effecttively, withh the most vvulnerable rreceiving mmore 
+supporrt, and gaaps througghout the country better coverred. Any future RCCRC 
+interveentions needd to take thiis into accouunt. 
+
+UNHCCR has inntroduced aan informaation sharing systemm called RRAIS (Refuugee 
+Assistance Informmation Systeem), which allows themm to share ddata from thheir registraation 
+databaase with appproved partnners. To datte only two agencies arre using thiss system. Thhere 
+remainn issues forr JRC arounnd sharing ddata with UUNHCR, whhen many reefugees comming 
+forwarrd to JRC are clear abbout their rreservationss in dealingg with the UN. Howeever, 
+some way forwarrd should bbe found to enable JRCC to cross-ccheck benefficiaries of any 
+future programmee against UNNHCR-provvided assisttance. 
+
+IFRC Asssessment Report – Syrian Refugeees in the Communnity, Jordan. Sep--12 
+
+
+4. Assessment methodology 
+4.1. Summary of Assessment Approach 
+1 - Review of secondary data, including JRC and UNHCR data, and assessment reports 
+from other agencies (see Annex One for the details of the assessment reports reviewed). 
+An attempt was made to get a clear understanding of the response context in Jordan, 
+including the issues around different registration systems and beneficiary lists. 
+
+2 - Coordination meetings with other agencies: UNHCR, WFP, Care International, 
+Danish Refugee Council, Swiss Development Corporation, JHCO, Swiss Red Cross, 
+Save the Children International. Attendance at Food Sector and Cash/NFI Working 
+Groups (led by WFP and UNHCR respectively). 
+
+3 - Field assessment in six locations around Jordan, to collect primary data: 
+The techniques utilised were semi-structured key informant interviews, focus group 
+discussions with refugees, and home visits to refugees. A multi-sector view was taken, 
+including shelter, health and education, but the focus was on understanding basic needs 
+and the household economy especially food security, expenditure, income sources and 
+coping strategies. Some simple participatory tools were used. The assessment also 
+aimed to build up a clear profile of the refugee population and their future plans. 
+Administering a questionnaire or survey tool was not considered, due to time and 
+capacity constraints. 
+
+4.2. Details of the field assessment component 
+The techniques adopted are explained in detail below. 
+
+Key informant interviews using semi-structured questions: JRC branch presidents and 
+volunteers; well-informed community leaders both Syrian and Jordanian; landlords 
+(where possible). 
+
+Focus group discussions with Syrian refugees, using detailed guidance notes and 
+questions: Two groups in each location, one for men and one for women. The women’s 
+group was facilitated by female JRC/IFRC staff. The intention was to have around 
+seven participants in each group; however the actual number was sometimes higher. A 
+total of 12 focus groups were held in the six locations, with a total of 49 male and 53 
+female Syrians participating. Selection of participants was done by JRC branch 
+staff/volunteers, based on the existing JRC beneficiary lists. Participants were not 
+selected randomly; there was an element of snowball selection as it often depended on 
+who could be contacted by the JRC branch and who was available to attend the sessions. 
+An element of bias was introduced due to the nature of the participants’ selection; 
+however it is still felt that the groups were broadly representative of the refugee 
+population. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+Home visits to refugee families, two in each location – a total of twelve. These were also 
+not randomly selected, but tended to be vulnerable cases which the JRC branch were 
+aware of. 
+
+4.3. Assessment team and logistical arrangements 
+The assessment was lead by Richard Casagrande, British Red Cross HES Delegate. Two 
+JRC volunteers were made available to work with the HES Delegate, both with 
+excellent English skills. One of the volunteers was female, which was of great value for 
+facilitating the women’s focus groups. The IFRC Disaster Response Delegate also 
+joined for the field visits. JRC branch staff facilitated the visit in each location, and 
+focus groups were usually held at the branch office (except in Karak and Naemh). The 
+six days of field work were carried out between 4th and 16th September; these dates were 
+chosen to allow time for other work and meetings in Amman, and also to give the team 
+a chance to write up findings. The semi-structured interview questions and the guidance 
+questions for focus groups were developed and discussed amongst the team in advance. 
+Notes from the focus groups were recorded by two different JRC volunteers in Arabic, 
+and later translated, discussed and compiled into English. 
+
+4.4. Choice of assessment locations 
+The starting point for selecting locations was the JRC registration database of Syrian 
+refugees living in host communities in almost all governates of Jordan. Poverty data was 
+overlaid to give an understanding of the potentially most vulnerable areas. Mafraq, 
+Ma’an, and Karak governates are all ranked in the top five in Jordan for the proportion 
+of the population living below the poverty line (ranging from 32% to 17%15), so were 
+all priorities for inclusion. 
+
+The locations of interventions by other organisations were considered. Many local and 
+international agencies are active in the northern governates (Irbid and Mafraq), and a 
+number of assessment reports exist for these areas. This fact gave support to the 
+inclusion of other governates in the assessment, even though the number of refugees in 
+these areas is much lower. This also recognises the unique value of JRC having 
+registered Syrians in branches throughout the country, and having the potential to cover 
+gaps in the overall response coverage. 
+
+In Irbid, JRC has registered refugees in a number of villages close to Irbid city, and it 
+was decided to include one of these to gain an understanding of the different context. 
+Amman was included, as it has the highest number of JRC beneficiaries, and also 
+because it provided a convenient starting point to test the assessment approach and 
+logistics. Feedback from the JRC distribution team was that there were refugees in need 
+of assistance in Ma’an, Karak and Ajloun, as well as Amman, Mafraq and Irbid. 
+
+15 UNDP Human Development Report, 2011 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+Given these factors above, the following locations were selected: 
+
+• 
+Amman 
+• 
+Ajloun (North Jordan) 
+• 
+Na’emh (village in Irbid Governate, North Jordan – 20kms from Irbid city) 
+• 
+Ma’an (South Jordan) 
+• 
+Karak (Central Jordan) 
+• 
+Mafraq city (North Jordan) 
+4.5. Limitations of Assessment Methodology 
+The assessment did not use survey tools which can provide reliable quantitative data 
+from a sampled population. Because of time and capacity constraints, it relied on 
+interviews and focus groups to provide a detailed understanding of the situation facing 
+refugees and their needs. As such, findings are mostly qualitative. Where focus groups 
+have identified patterns in household expenditure and income, these cannot be 
+extrapolated to the wider refugee population with statistical confidence. 
+
+Selection of participants involved some bias on the part of JRC branch staff/volunteers, 
+and also sometimes local Syrian representatives. This was unavoidable due to the 
+logistical arrangements adopted for the field visits. 
+
+It is felt that the women’s focus groups gave a more honest account of coping strategies 
+and whether or not family members were working. Men seemed to have cultural 
+sensitivities around discussing this issue honestly. 
+
+Market analysis was not conducted in the field. This was due to feedback from other 
+agencies and a review of assessment reports which indicated that markets were indeed 
+functioning normally throughout Jordan and had responded to the additional demand 
+from Syrians. There was also insufficient time to collect prices and speak to market 
+actors during the field visits, and it was deemed to be of limited value to have price data 
+for each location. The exception is for rent levels, which were collated through 
+discussions and from local representatives. 
+
+5. Detailed Assessment Findings 
+Annex One contains some key findings from some of the assessment reports reviewed 
+as secondary data. These cover mostly the North (Mafraq, Irbid), and sometimes 
+Amman. In general this secondary data is in line with the results of this assessment, and 
+the primary data collected in the field. 
+
+The assessment findings in most instances did not differ materially from location to 
+location. The summarised findings below only differentiate between locations where 
+there is something substantively different to report. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+5.1. Who are the refugees: 
+• 
+Majority are from Homs and Dara, from an urban or peri-urban background.16 
+• 
+Most have been in Jordan for several months, although there were some new 
+arrivals and some have been here for more than six months 
+• 
+The number of children per family varies widely, with some families having a 
+large number of children; the average family size is thought by assessment 
+participants to be between 5 and 6. 
+• 
+60-80% of focus group participants were registered with UNHCR; this is a 
+higher percentage than the existing JRC database indicates, highlighting that the 
+assessment is not a representative sample. 
+• 
+Refugees acknowledged that some Syrians do not want to register with UNHCR, 
+for various reasons: 
+• 
+Concern that their personal details will be shared with Syria, and they will 
+encounter problems or be in danger when they return to Syria; or family 
+members still in Syria would be at risk 
+• 
+Not able to travel to the UNHCR office to register (in Amman) 
+• 
+Do not think there is any advantage in registering 
+• 
+Many refugees crossing through official border points had to bribe Syrian border 
+officials, ranging from $140-$28017, although many had heard of instances 
+where large sums of up to $1,000 were demanded, or whatever money people 
+were carrying. Crossing illegally meant you did not have to pay. 
+• 
+Syrians had travelled to the smaller locations (such as Ajloun, Karak, Ma’an) 
+because they knew of other Syrians who had done so, or because it had been 
+recommended to them to do so. Those in Amman had gone there in search of 
+better economic opportunities. Those in the North were there due to the 
+proximity to Syria. 
+5.2. Priority Needs 
+Refugees stated that cash was their biggest need, when elaborating this was broken 
+down as follows: 
+
+• 
+Rent (and utilities, including water) 
+• 
+Fresh food (vegetables, dairy products, meat/chicken) 
+• 
+Other basic household expenditure items (medicines/health care, baby items, 
+schooling items (including transportation to school), clothes, 
+furniture/mattresses, blankets) 
+Rent was clearly stated by close to 100% of informants and participants as being the 
+main need. Additional needs which will arise in the coming winter months were also 
+highlighted by most refugees. It was clear that there were no major needs that could not 
+be met with cash, which would enable access to the market. 
+
+16 Matches UNHCR data, which shows 41% of refugees are from Homs, 40% from Dara 
+17 100 – 200JD 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+5.3. Housing/Shelter 
+• 
+The vast majority of Syrian refugees outside of the camp context are living in 
+rented accommodation in towns and cities, and not staying with host Jordanian 
+families (except where family/friendship links exist)18. Although it is difficult to 
+rely on such an estimate, assessment participants felt that more than 90% of 
+Syrians were renting their own accommodation. There are examples of multiple 
+Syrian families sharing a single apartment/house, but generally most families are 
+living, or attempting to live, alone. 
+• 
+It is difficult to find accommodation to rent, and in many of the smaller locations 
+only the lowest standard of accommodation is available. Many refugees reported 
+cramped living conditions, and this was clearly observed in all 12 of the home 
+visits. Many would prefer to move to cheaper accommodation, but cannot find 
+any. In larger locations, accommodation remains available but only at the top 
+end of the rental market (such as in Amman). Refugees reported that the process 
+of finding suitable housing generally takes at least one month. 
+• 
+Rents have increased significantly across all locations in recent months, with 
+Mafraq experiencing some of the largest increases. Rents are highest in Amman 
+and Mafraq. Landlords and other community representatives confirmed the 
+tightness in the housing rental market, suggesting that prices of the cheapest 
+apartments had increased by 50-100% compared to before the crisis. Some 
+refugees are renting basements, storage areas and other surplus areas within 
+apartment blocks. 
+Rent levels across assessment locations (average range)19 
+
+Amman Ajloun Karak Mafraq Na'emh Ma'an 
+Rent (JDs pm) 120-170 85-100 100 130-190 120-140 120-150 
+Utilities (JDs per month) 30-35 20 25 25 25-35 25-30 
+
+• 
+The issue of expected higher utilities costs in the winter months was a 
+commonly shared concern. There was an expectation that higher energy costs 
+would increase average utility bills to 70-80 JD per month for an average family. 
+• 
+All refugees have access to a toilet, water and kitchen, although in the cheapest 
+apartments facilities and hygiene are sometimes sub-standard, and in need of 
+maintenance. Limited water supply is an issue raised by all refugees outside of 
+Amman; however this is a problem faced by the wider population due to 
+restricted municipal water supply (often just one day per week). As a result, 
+families need water storage capacity, and must purchase drinking water. 
+• 
+In terms of the security of their housing situation, many refugees said their 
+confidence depended on their ability to pay rent, which was limited. Owing rent 
+to landlords was a common feature for refugees, sometimes up to several 
+months. Having changed apartments more than once was also a common 
+experience with refugees, either due to high cost, unpaid rent or having found a 
+better apartment. 
+18 Some reported having stayed with Jordanians for a short period when they first arrived 
+19 For currency conversion: 1 JD = $1.41 USD 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+• 
+The impact of winter was a concern for all refugees, due to the number of 
+additional needs which it brings. This includes blankets, warm clothes, heaters, 
+fuel/gas, and higher utility costs. The concern is greater in the northern 
+governates, which experience colder conditions; although it was universally 
+expressed throughout the country. 
+• 
+The relationship between Syrian refugees and the local Jordanian community 
+was generally reported as good, by both sides. However, most refugees also 
+have knowledge of cases of eviction, as well as landlords charging above market 
+rents for small and inadequate apartments. There was also an impression that the 
+relationship had started to change in recent months, for the worse. Women in 
+particular raised some issues around the lack of dignity they felt when dealing 
+with the local community, especially landlords. 
+5.4. Food Security 
+• 
+Food security has not been assessed as an issue for refugee families. This is due 
+to ongoing distributions of food parcels (including JRCs), as well as the monthly 
+food voucher from WFP20. In addition to this, refugees have a number of coping 
+strategies to generate small amounts of cash, which is used to purchase fresh 
+food and proteins on the market. However, it should be noted that food 
+distributions from many local organisations reached a peak in August, during 
+Ramadan, and distributions seem to be more intermittent now. 
+• 
+Some families reported cutting their number of meals per day from three to two, 
+but this was not perceived to be widespread. 
+• 
+Refugee’s perception of the quality and appropriateness of distributed food 
+parcels varied, with some criticisms of the contents. In particular, Syrians do not 
+feel that the inclusion of canned goods is appropriate, as they do not like to eat 
+such processed items, having a strong preference for fresh vegetables and dairy 
+products. There were many comments of food items being close to expiry date. 
+JRCs food parcels were generally thought to be of good quality. 
+• 
+The re-sale of part of food parcels (and other NFIs) was commonly 
+acknowledged, to generate cash for household expenditure, and enable purchase 
+of fresh food. 
+• 
+Assessment participants estimated that around 40-50% of food needs were being 
+met by aid, and the other 50-60% by purchase. However, given the monthly 
+fluctuations in food distributions and household income, it was difficult to arrive 
+at this estimate. 
+• 
+Providing for the dietary needs of infants and young children was a concern for 
+some families, as this required additional cash purchases (e.g. baby food, milk 
+formula). 
+20 The awareness of the WFP programme was low. Since the first month of implementation was August 
+2012, those refugees who are enrolled have only received one voucher to date, and do not have a clear 
+understanding of their future entitlement. This is relevant only to those refugees who are registered with 
+UNHCR, and who WFP has added to the scheme, although the number will continue to scale up each 
+month to match UNHCR registration data. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+To summarise briefly the three pillars of food security: 
+
+• 
+Access – Between food aid and small cash purchases, Syrian refugees are able to 
+access enough food to meet their needs. 
+• 
+Availability – food is freely available in the market, and Syrians enjoy the same 
+subsidies on key items as Jordanians. 
+• 
+Utilisation – all refugees have basic kitchen equipment (often donated by 
+neighbours) and the ability to prepare food, including water. 
+5.5. The Household Economy 
+Attempts were made, primarily during focus groups, to build up a picture of the 
+household economy, namely expenditure and income sources, as well as work and 
+coping strategies. 
+
+Monthly Household Expenditures per assessment location – in JDs per month (results 
+from men’s and women’s focus groups combined) 
+
+Amman Ajloun Karak Mafraq 
+Na'emh 
+(Irbid) Ma'an 
+Rent 120-170 85-100 100 130-190 120-140 120-150 
+Utilities 30-35 20 25 25 25-35 25-30 
+Food 150-200 150 125 200 150-200 100-150 
+Medicine/Health 25 25 15-20 15-20 20-30 20 
+Transport 60 50 30-50 20-30 25-40 20-30 
+Children’s items (incl. 
+one-off education costs) 30-50 40-60 50 30-50 30-50 
+Communications 30 60 30 30 20 30 
+Other (clothes, NFIs, 
+cigarettes etc) 50 20 45 70 25 50 
+TOTAL (JDs per 
+month) 495-620 410-425 410-455 540-645 415-540 395-510 
+
+• 
+Participants were asked to consider what they thought was the normal required 
+expenditure per month for an average family, not what they were actually currently 
+spending. 
+• 
+Total monthly expenditure needs range from around 400 to 600 JD per month 
+($564-$846), with costs at the higher end of this range in Amman and Mafraq, and 
+lower in the other locations. 
+• 
+As previously noted, rental costs vary from location to location, with the highest 
+costs in Mafraq and Amman. 
+• 
+The expenditure data for food was difficult to compile, as it depends to a large 
+extent on what food aid is being received by refugees, and how much they have to 
+purchase. 
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+24 
+
+
+Household Income Sources 
+
+The data on income sources has been compiled to allow analysis and comparison across 
+locations. A number of assumptions have been made to do this, so these results should 
+be considered as indicative only. A key point to note is that to find work legally in 
+Jordan, Syrians must purchase a work permit ($388), which is out of the reach of most. 
+Only illegal work, at low pay, is possible, and in most of the assessment locations there 
+are few opportunities. 
+
+Importance of Income Sources for Refugee Households: both rank and share of total 
+income sources (results from men’s and women’s focus groups combined) 
+
+Location Amman Ajloun21 Karak Mafraq Na'emh Ma'an 
+Rank % Rank % Rank % Rank % Rank % Rank % 
+Aid / Charity / 
+Re-sold aid 1 
+4060% 
+1 1 70% 1 80% 1 70% 1 65% 
+Work/wage 
+income 2 
+2040% 
+2 2 25% 2 15% 3 5% 3 15% 
+Savings/ Selling 
+assets 3 5% 3 5% 2 25% 2 20% 
+Business 
+Income 3 20% 
+
+• 
+Refugees indicated a limited range of income sources, with work/wages 
+consistently ranked lower than aid/charity. 
+• 
+Aid/charity, which as a category could consist of re-sold aid, cash aid, or gifts from 
+individuals or the local community, was reported as the main income source in all 
+locations. 
+• 
+Cash generated by re-selling aid, a component of overall aid/charity, was itself an 
+important income source in most locations, ranging in importance from 5%-30% of 
+the total. 
+• 
+Income from work was a more important source in Amman than other locations. 
+• 
+Some small business income was also reported in Amman. 
+• 
+The sale of assets and reliance on savings was also reported as a minor income 
+source in most locations. 
+• 
+Remittances from Syria are not an income source for refugees in Jordan. 
+Work and Income Generation 
+
+• 
+The majority of Syrian refugees were described as coming from a ‘low to 
+middle’ socio-economic background. Most men worked in Syrian as skilled or 
+21 Data is missing for Ajloun, due to some limitations with the focus group process there. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+unskilled workers, small business owners, taxi drivers and so on. Only a small 
+percentage of women worked in Syria (estimated at 20%). 
+
+• 
+Across all locations, it is clear that informal work opportunities for adults are 
+very limited, with the exception of Amman. Wage rates are below the market 
+and minimum levels for Jordanians. 
+• 
+The absence of work opportunities is particularly true in smaller governates, or 
+locations which are outside of main urban centres (Karak, Naemh in Irbid, 
+Ma’an). 
+• 
+In every location, some refugee children are engaged in work, at very low pay, 
+because this seems to be the most commonly available opportunity for a family 
+member to work. Children as young as eleven are working, usually in 
+restaurants/cafes, shops and the like. 
+• 
+Working conditions for both men and children were reported as difficult – long 
+hours, usually 10-12 per day, low pay, and the risk of being exploited and not 
+paid at all. 
+• 
+Women were not comfortable to discuss openly whether they were working or 
+not; however, there were indications that some of them are engaged in domestic 
+work for Jordanian families, but felt this was undignified. 
+• 
+Average wage rates for men were considered to be between 8-10 JD per day, 
+possibly more if skilled labour. 
+• 
+Average wage rates for children were reported at between 2-5 JD per day. 
+• 
+In Mafraq, there was a sense that refugees were not seeking work opportunities 
+and were content to depend on aid. 
+Savings and Debt 
+
+• 
+Assessment participants acknowledged that many Syrians had left Syria with 
+some resources – savings or transportable assets such as jewelry. However, it is 
+clear that these resources have been rapidly depleted in Jordan in the first 
+months here, as a coping mechanism for meeting basic expenditures. 
+• 
+Those who had fled the sudden spike in violence in Syria in recent months had 
+very limited ability to bring any resources with them, and as a result most new 
+arrivals do not have savings to rely on. 
+• 
+Many Syrians are in debt to their landlords for rent, some up to three months, 
+and their ability to pay rent in the future is limited. As such, the threat of 
+eviction exists – although it must be recognised that there are numerous 
+examples where local landlords are extending credit on an informal basis to 
+Syrians, giving them time to generate some cash and pay off rent owing. Small 
+debts to shop owners for fresh food were also reported by some refugees; also 
+debt to other Syrian refugees. 
+• 
+There was a strong sense from assessment participants that wealthier Syrians 
+had left the country earlier, taking their assets and resources with them, and were 
+residing in Amman or Beirut, Lebanon. As they are not in need they do not 
+approach organizations for support, and are effectively ‘outside’ of the aid 
+system. 
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+5.6. Health Care 
+• 
+Syrian refugees who are registered with UNHCR can access the public health 
+system (clinics and hospitals). However, medicines need to be purchased, and 
+treatment for ongoing chronic conditions or any medical issue that requires 
+specialist care or hospitalisation does not appear to be accessible (as reported by 
+refugees with first hand experience of this). 
+• 
+Some refugees not registered with UNHCR reported that they had been able to 
+visit local health clinics, with the requirement to show the UNHCR registration 
+being informally waived. However, this varied from location to location, and 
+was not universally agreed, so appears to be on a case-by-case basis and at the 
+discretion of the local health care provider. 
+• 
+Cases were reported, and observed, of men who had been injured or tortured in 
+the conflict in Syria, and required ongoing medical care that they could not 
+afford. 
+• 
+Many refugees have a family member with a chronic condition, especially 
+diabetes and hypertension, and were encountering difficulties in purchasing 
+medicines. Some have a family member with a terminal illness, and are turning 
+to private medical care at a high cost. Similar issues were reported for refugees 
+with disabilities. Where there was a problem in obtaining medicines, refugees 
+indicated that the issue was insufficient cash to fund the purchase, not a lack of 
+availability in pharmacies. 
+5.7. Education 
+• 
+School-aged children of Syrian refugees who are registered with UNHCR can 
+enroll in public schools. The requirement to produce documentation (such as 
+birth certificates) for children was reported to be causing some confusion and 
+delays in enrolment.22 
+• 
+Many schools are crowded, and a double shift system is in operation to deal with 
+the high numbers of children. 
+• 
+Although no fees are charged to attend school,23 some refugees reported that 
+they had difficulty in funding other costs related to children’s education – 
+uniforms, shoes, books, materials and so on. Transportation costs to and from 
+school were also a factor, especially for those who are outside of core urban 
+areas. 
+• 
+Refugees were aware that if they were not registered with UNHCR, it meant 
+their children would have to pay fees to attend school; however they are not 
+clear what fees may be charged if children can successfully enroll. Private 
+schools are also available, but only if the high fees can be paid. Since the school 
+year has just started (in September), many refugees do not yet understand the 
+school situation 
+22 It is understood from coordination meetings that this requirement is now being waived by the Ministry 
+of Education, after lobbying by UNICEF/Save the Children 
+23 GoJ statement: Syrians residing in cities who are not registered with UNHCR can enrol in private 
+schools or public schools, but will have to pay fees. Syrians who are registered with UNHCR can join 
+public schools and will be given one month to submit the required papers. As reported in The Jordan 
+Times, 11th September 2012, Page 2 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+• 
+As previously mentioned, some children in vulnerable families are working, and 
+this has been prioritised over education. 
+• 
+In general, it was clear from assessment participants that expenditure on 
+education was not one of the top priorities for the more vulnerable families. 
+5.8. Markets 
+• 
+As explained in the section on assessment limitations, market analysis was not 
+conducted in the field. It is clear from the review of secondary data and 
+coordination discussions that markets in Jordan are not disrupted in any way and 
+are functioning normally. They have been able to respond to the additional 
+demand from Syrian refugees. The exception to this is the housing rental market, 
+which is heavily impacted as was explained above. 
+• 
+Assessment participants were asked about inflation, especially food price 
+inflation. Most reported that there had not been any noticeable changes in prices 
+since they arrived in Jordan – although refugees were quick to highlight the 
+significantly higher cost of living in Jordan as compared to Syria. 
+• 
+The exception to this was in Mafraq and Amman, where it seems the price of 
+fresh food has increased in recent months. 
+• 
+In the governates with a lower number of refugees, their smaller number is 
+unlikely to impact on the market and prices. Also, it is difficult to disaggregate 
+any impact caused by the additional demand from Syrian refugees, from general 
+price rises caused by global food and fuel price inflation. 
+5.9. Support received to date by refugees 
+The table below sets out the assistance received to date by assessment participants. It 
+should not be interpreted as definitive for the wider refugee population. 
+
+Location Indications of assistance received so far Comments 
+Amman Food distributions from JRC 
+Food distributions from Al Kitabwal Sunnah 
+Food and other distributions from Syrian 
+Women’s Association 
+UNHCR cash assistance 
+WFP food vouchers 
+Ajloun Food and other distributions from JRC 
+Food and one-off cash distributions from local 
+organisations 
+UNHCR cash assistance 
+Karak Food and other distributions from JRC 
+Food and one-off cash distributions from local 
+organisations, including the “We are all Youth 
+of Jordan Commission” 
+None of the distributions 
+are regular 
+Mafraq Food and other distributions from JRC 
+Food, cash and NFI distributions from Al 
+Kitabwal Sunnah and The Islamic Centre 
+UNHCR cash assistance 
+Support from multiple 
+organisations appears to 
+be ongoing 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+WFP food vouchers 
+One-off food, cash and NFIs from local 
+organisations, including the “We are all Youth 
+of Jordan Commission” and various church 
+groups 
+One-off cash from Care International 
+Naemh (Irbid) Food and other distributions from JRC 
+Food and NFI distributions from Al Kitabwal 
+Sunnah and The Islamic Centre 
+Ramadan distributions from Al Takofol 
+Not received any support 
+since Ramadan (early 
+August) 
+Ma’an Food and other distributions from JRC 
+Food and NFI distributions from Al Kitabwal 
+Sunnah and The Islamic Centre 
+One-off food, cash and NFIs from local 
+organisations, including the “We are all Youth 
+of Jordan Commission” and Nada Islamic 
+Centre 
+Distributions are 
+irregular, and nothing 
+has been received since 
+Ramadan. 
+Some awareness of 
+UNHCR cash assistance, 
+but none receiving yet 
+
+• 
+There is low awareness around the country of the UNHCR cash assistance 
+programme and the WFP food voucher programme. There were some mentions 
+of the first food voucher received in August by a small number of assessment 
+participants, but most were not aware it is going to be ongoing. This also 
+highlights the gap which exists for those refugees who are not UNHCR 
+registered. 
+• 
+JRC distributions are irregular and infrequent in some locations. 
+• 
+The support from local organisations appears to have decreased significantly 
+since Ramadan. 
+• 
+Mafraq is the only location where there a clear indication was given by 
+assessment participants that support is continuous. 
+5.10. Assessment Findings Specific to a Cash Intervention 
+The IFRC preliminary emergency appeal suggested that a cash response was 
+appropriate. With this in mind, the assessment gathered information relevant to a 
+potential cash programme: 
+
+• 
+Refugees were overwhelming in favour of being given cash assistance, rather 
+than in-kind distributions. This was reinforced in discussions which highlighted 
+the sale of aid items (at prices well below their value), which is done to generate 
+cash to meet basic needs. It was felt by some refugees that dry food distributions 
+are also appropriate, but they need to be supplemented with cash to meet rent 
+and other needs. Most refugees felt that cash would allow them to prioritise their 
+own needs. 
+• 
+Some refugees, especially women, reported that aid distributions caused them a 
+loss of dignity, and because of their high visibility could also generate jealousy 
+amongst local Jordanians. They felt that cash was more discrete way of 
+providing assistance. 
+• 
+When posed the question ‘what is the first thing you would do if you were given 
+cash today’, most assessment participants answered that they would pay rent. 
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+This was followed by paying off debts, buying food (meat and vegetables), 
+clothes, baby items, medicine and so on. 
+
+• 
+Security – all Syrian and Jordanian participants in the assessment felt that aid 
+distributions in Jordan were secure, and additionally felt that being given cash 
+would not raise any security issues. 
+• 
+All Syrian refugees have access to a mobile phone – this was also observed 
+during home visits24. 
+• 
+Refugees are familiar with money transfer or remittance companies, and some of 
+them have used them before in Syria. 
+• 
+A small proportion of refugees have no ID or documentation with them in 
+Jordan; most have passports and/or UNHCR registration. 
+• 
+Men and women differ in their opinion of who handles money within the family 
+– women felt that it was mostly them; men varied in their opinion and no clear 
+trend was discernible. No gender issues were detected through the assessment 
+that would affect the provision and usage of cash within families. 
+6. Analysis 
+of Refugees’ Coping Strategies, Future Plans, 
+Vulnerability and Gaps 
+While a food security problem is not present, it is clear that many refugees living in the 
+community have difficulty in meeting basic household expenditures, and are uncertain 
+about how they will provide for all their needs in the coming months. Rent is the 
+priority need, along with fresh food, medicines, and items for children and babies. The 
+impact of winter will also bring further necessary expenditure - blankets, warm clothes, 
+heaters/fuel, higher electricity bills and so on. It also seems apparent that the one-off 
+support from local organisations reached its peak during Ramadan, and is now tailing 
+off. 
+The assessment findings are broadly in line with the secondary data reviewed, and also 
+substantiate that refugees throughout the country, in governates like Karak, Ma’an and 
+Ajloun, face similar difficulties as in Amman, Mafraq and Irbid. 
+
+6.1. Coping Strategies 
+The main coping strategies which refugees are adopting to meet their basic needs and 
+expenditures are as follows: 
+
+• 
+Dependency on aid, especially food distributions 
+• 
+Re-selling unwanted aid items on the market to generate cash 
+• 
+Incurring debt, especially to landlords for unpaid rent 
+• 
+Children engaging in informal work – generally adolescents, but reported as 
+young as eleven (and thus not attending school) 
+24 Initially some families registered with JRC with just one phone number between several families; 
+however, it is thought now that mobile phone ownership is close to 100%. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+• 
+Women working informally, in domestic work (not widespread) 
+• 
+Men changing occupation and looking for any informal work available – but 
+there are very limited opportunities outside of Amman 
+• 
+Begging – only hinted at in women’s focus groups, but personal dignity 
+prevented this being discussed 
+• 
+Reduction in meals from three per day to two – but not widespread 
+Refugees are engaging in these coping strategies, but it is clear from the analysis of 
+monthly expenditure needs and income sources that there is an income gap in many 
+households. Many families are relying on a combination of aid, gifts, and cash 
+generated by re-selling aid as their main income source. Whilst managing to achieve 
+basic food security, the more vulnerable refugees cannot fund their other household 
+costs; where they currently can, it is likely that many of these families will encounter 
+difficulties in the coming months. 
+
+Rent is a special issue – in order to maintain access to housing, refugees need assistance 
+to pay rent, and also to pay down debts to landlords, to remove the threat of eviction. 
+With a tight housing market and limited options to move to more affordable 
+accommodation, the most pressing expenditure gap to fill is cash to pay rent. 
+
+6.2. Future Plans for Refugees 
+• 
+Most refugees do not expect the situation to change in Syria soon, at least not 
+within six months. Some think it could be as long as one to two years before 
+return is possible. 
+• 
+Almost all refugees share the view that they will not return to Syria until there is 
+a change of regime. 
+• 
+Most refugees expect to be reliant on aid and assistance during their stay in 
+Jordan, as they cannot foresee finding work which can provide sufficient income 
+to meet basic expenditure needs. The willingness to work was expressed by most 
+men, but options are perceived as very limited. 
+• 
+The cost of living is seen as very high in Jordan. This combined with the 
+inability to find work may cause some refugees to return to Syria if there is some 
+improvement in security. However, this was not a widely held view, and 
+appeared to be mostly due to not being able to survive in Jordan. 
+6.3. Vulnerability within the Refugee Population 
+In terms of vulnerability, a number of key groups within the wider refugee population 
+are assessed as being most in need. In many instances, the reasons for their vulnerability 
+are quite obvious, and can be summarised as having specific expenditure needs which 
+cannot be met through current household income sources. The table below provides 
+more details. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+Summary of key vulnerable groups in assessed refugee population 
+
+Vulnerable Groups Details of vulnerability 
+Women-headed households 
+-UNHCR data shows that 30% of refugee 
+households are women-headed 
+Lower capacity to find work and generate 
+income, as no adult male in the household 
+Large households (with many children) 
+-UNHCR data shows that 35% of refugee 
+households have 6 or more members 
+Additional costs for clothes/NFIs, 
+commodities for winter, fresh food, 
+school materials and uniforms 
+Households with children under five Specific expenditure needs for diapers, 
+baby food/milk, other baby items 
+Households with a family member who 
+has a chronic health condition 
+Inability to cover costs of medicines and 
+ongoing medical care 
+Households with a family member who 
+was injured in the conflict in Syria and 
+requires ongoing medical care 
+Inability to cover cost of ongoing medical 
+care 
+Households with a disabled family 
+member 
+Inability to cover costs of specific care 
+Multiple families who are sharing the 
+same accommodation (in cramped 
+conditions) 
+Inability to cover cost of renting further 
+accommodation 
+
+Note that many of these vulnerabilities overlap, and can be present within the same 
+family, thus compounding the gap between necessary expenditure on basic items and 
+the available household income sources. 
+Not being registered with UNHCR is also something of a proxy indicator for 
+vulnerability, which will be discussed in detail later in this report. 
+
+Difficulties with income and a poverty line as a vulnerability indicator 
+When considering income and poverty indicators, it is difficult to assess refugees based 
+on income levels or whether someone in the family is working. Firstly, answers from 
+refugees about work and income are not very reliable, with a strong incentive present to 
+under-report income. Additionally, the assessment has shown that there are very limited 
+work opportunities for refugees, and where they exist they are informal, poorly paid, 
+and sporadic/infrequent. Indeed, estimating monthly income is not easy for most 
+households, due to the fluctuating and uncertain nature of most income sources. Having 
+a family member engaged in some kind of work does not indicate that the family is not 
+vulnerable. 
+The best way to identify the most vulnerable is to prioritise the groups mentioned 
+above, and follow up with a short household verification visit. Observation of the 
+housing situation and living conditions is the best way to confirm who the most 
+vulnerable are – not attempts to rank income or wealth. 
+
+6.4. Timing of Needs 
+There are two main findings from the assessment which help to understand questions of 
+timing: 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+• 
+The length of time in Jordan is not itself an indicator of vulnerability. New 
+arrivals may have specific and urgent needs, and may also be in need of longer 
+term support. However, families who have been in Jordan for some months may 
+also be part of the most vulnerable, having exhausted resources they were able to 
+bring with them, or running out of coping strategies to adopt (for example, no 
+further assets to sell, can’t rely on diminishing aid distributions). 
+• 
+The needs identified through the assessment are very likely to continue for the 
+foreseeable future. Whilst more timely assistance is always desirable, in this 
+context support which is provided to refugees living in communities in the 
+coming months will still have a positive impact. It is difficult to assign a number 
+to this, but for the next 4-6 months the situation is likely to be maintained, or 
+indeed be exacerbated by the arrival of further refugees. 
+6.5. Geographical Targeting 
+The choice of locations for a future intervention for refugees living in the community 
+should be guided by the following: 
+
+• 
+JRC’s ability to reach governates throughout the country, with its network of 
+branches, and existing beneficiary list of refugees in eight governates. A 
+significant proportion of these refugees are not registered with UNHCR, which 
+is an important factor that can indicate vulnerability. 
+• 
+The assessment findings for Mafraq, which show refugees there are receiving 
+ongoing support from a number of sources. 
+• 
+The lack of other agencies providing assistance in many of the other governates 
+(such as Karak, Ma’an, Ajloun). 
+• 
+Location and design of other planned agency programmes in cash/NFIs; close 
+coordination will be required to ensure that future assistance does not overlap. 
+7. Mapping the Wider Humanitarian Response in Food, NFIs and 
+Cash 
+Before moving on to analysing different response options to meet the needs identified 
+through the assessment, it is necessary to give consideration to three other key parts of 
+the wider humanitarian response in Jordan, before making any recommendations: JRCs 
+existing distributions, other agency responses, and the UNHCR registration process. 
+
+7.1. Understanding JRC relief distributions and the registration process 
+It is important to have a good understanding of this, because it will be the starting point 
+for any new RCRC intervention to support household expenditures for refugees. JRC 
+have registered Syrian refugees living in the community throughout the country, using 
+its network of branches, since the start of 2012. To register, Syrians must: 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+• 
+Produce personal documentation – either a passport, UNHCR registration, or the 
+‘bail out’ guarantee letter which allowed them to leave a transit camp and reside 
+in the community.25 Photocopies are taken. UNHCR registration is requested if 
+refugees have it. 
+• 
+Prove date of entry – this must be after January 2012, to evidence that they are 
+indeed refugees of the current crisis, and not previous economic migrants. 
+Only basic data has been collected from the refugees, and this has not been done in full 
+in all locations. The data collected covers: 
+
+• 
+Name of head of family 
+• 
+Documentation details (number, type) 
+• 
+Date of entry to Jordan 
+• 
+Number of people in family 
+• 
+Number of men, women, children under 5 (data is incomplete, only for part of 
+Amman) 
+• 
+Name of spouse (if in Jordan) 
+• 
+Spouse documentation details (number, type) 
+• 
+Phone number 
+• 
+Location (area, not address) 
+Single person households have not been registered. 
+Relief distributions to date have covered some 11,000 households on this beneficiary 
+list26. Distributions are not targeted according to vulnerability, but instead cover all 
+refugees registered. They occur on a roughly monthly basis, with priority for each 
+distribution being given to newly registered families, then families who have waited for 
+the longest period without receiving support. The intention is to continue these 
+distributions, particularly food, until at least the end of 2012.27 
+
+It is acknowledged within JRC that there is some overlap between these distributions 
+and other agencies work, including UNHCR/WFP, and the local organisations under the 
+JHCO umbrella. It is also clear that some of the food items are re-sold by refugees. A 
+further issue which staff are aware of is the ‘loophole’ whereby different adult family 
+members can potentially register separately, thus giving them the chance to secure 
+multiple distributions items for the same family. 
+
+Due to the lack of data collected during the registration process which can provide 
+insight into vulnerability or living arrangements, it is not possible to start to target 
+refugees for any further additional assistance using the JRC beneficiary list. It is 
+important to start to collect more data on beneficiaries during on-going relief 
+distributions, in order to build up a clear picture of vulnerability and allow targeting in 
+the near future. In addition, the ongoing process of registering new refugees should use 
+
+25 This bail-out process no longer exists, since the advent of Za’atri camp. 
+26 Distributions to date have included: 
+
+• 
+53,000 food parcels 
+• 
+11,000 hygiene kits 
+• 
+500 kerosene heaters 
+• 
+4,000 blankets 
+This has been with support from throughout the RCRC Movement and other partners, but especially from 
+the Emirati, Qatari and Saudi Red Crescent Societies. 
+27 This would be with Emirati RC support, but at this stage no firm distribution plan exists. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+a new form which captures this vulnerability data, and individuals should also be 
+considered for registration. 
+
+There are also some issues with the existing ‘database’, which is MS Excel-based, in 
+terms of data quality and duplication. Work to improve this, and possibly move to a 
+more robust solution (such as an MS Access database), should be considered as part of 
+any future programming. JRC should consider the scenario that long-term programming 
+may be required with Syrian refugees – in which case the need to establish a good 
+dataset now is even more important. 
+
+7.2. Mapping other Agency Programmes 
+As discussed in Section Three, there are many agencies active in Jordan, and there is 
+common acknowledgement that assistance for Syrian refugees has been duplicated in 
+the past, and coordination is not effective. As such, an important part of this assessment 
+is to understand what other agencies are doing, or planning to do. A mapping matrix of 
+relevant agency programmes and plans in cash and related food/NFI and voucher 
+interventions has been constructed through a review of secondary data and bilateral 
+coordination meetings with other agencies, as well as through attendance at UN-led 
+sectoral working groups.28 This is contained in Annex Three. 
+
+It is worth highlighting the main areas of potential overlap, and considering whether 
+they are complimentary to, or in duplication with, any future RCRC programme that 
+addresses the household expenditure needs of Syrian refugees. 
+
+• 
+WFP food voucher programme – blanket coverage for all UNHCR-registered 
+refugee families with monthly food vouchers. Throughout the country. 
+o 
+Any RCRC programme to support non-food household needs would 
+compliment this, not overlap 
+• 
+UNHCR cash assistance programme – 6,000 of the most vulnerable UNHCR-
+registered refugee families receive monthly cash assistance, for rent (1,800 
+enrolled as at end September 2012). Throughout the country. 
+o 
+Any RCRC programme to support non-food household needs would 
+potentially overlap with this, and would require close coordination and 
+sharing of beneficiary details. 
+• 
+Care International urgent cash assistance – 1,000 vulnerable refugee families in 
+Amman receive one-off urgent cash (cases referred from UNHCR) 
+o 
+As Care’s assistance is one-off, for urgent needs, it is not likely to 
+overlap with a RCRC programme supporting non-food household needs, 
+but only if on-going assistance is provided for the most vulnerable. 
+• 
+Danish Refugee Council NFI voucher – 600 vulnerable refugee families in 
+Ma’an and Karak receive a one-time voucher, for winter/NFI/medicine needs 
+o 
+As DRC’s assistance is one-off and for specific commodity and winter 
+needs, it is not likely to overlap with a RCRC programme supporting 
+28 This 3W matrix was not available from any source, hence one had to be compiled as part of the 
+assessment. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+non-food household needs such as rent, provided only the most 
+vulnerable are targeted. 
+
+• 
+JHCO and Al Kitabwal Sunnah – Cash assistance and NFI distributions 
+o 
+Little is known of how Al Kitabwal Sunnah targets its assistance, or 
+exactly what it provides; so it is difficult to assess the extent of potential 
+overlaps. 
+• 
+Save the Children International (planned) – 3,000 vulnerable refugees in cash 
+transfer programme in Amman and Zarqa, including UNHCR registered and 
+non-registered refugees; as well as 20% poor Jordanian households in areas of 
+implementation 
+o 
+Any RCRC programme to support non-food household needs would 
+overlap with this, so would require close coordination and sharing of 
+beneficiary details. 
+• 
+International Rescue Committee (planned) – cash assistance programme in 
+Mafraq and Irbid – details unknown at this stage. 
+o 
+Any RCRC programme to support non-food household needs would 
+potentially overlap with this, so would require close coordination and 
+sharing of beneficiary details. 
+7.3. Understanding the UNHCR registration process, gaps and time lags 
+As the assessment has shown, UNHCR registration is a key factor in understanding the 
+refugee context in Jordan. The registration process is time consuming and is centralised, 
+with registration taking place only in the main UNHCR office in Amman, and in 
+Ramtha (Mafraq). There is a waiting list of refugees who are awaiting registration 
+appointments; additionally, the residents of Za’atri camp have not yet been registered. 
+Whilst UNHCR has arranged transportation for refugees to travel from other locations 
+in Jordan to its Amman office, it is not clear how frequently this happens, and many 
+refugees reported during the assessment that they cannot afford the transportation costs 
+to travel to Amman to register. There has been discussion of UNHCR opening further 
+registration centres, but as of September 2012 this has not been approved by the GoJ 
+and was not moving forward. 
+
+There is a time lag in the registration process, with over 3,000 families waiting for their 
+appointments (as at 16th September 2012). Once refugees are registered, they become 
+eligible for the WFP food voucher programme, but with a further one month lag before 
+they can be added to the monthly food voucher cycle – as an example, the first WFP 
+voucher cycle in August 2012 covered only around 20,000 refugees. The most 
+vulnerable families are also assessed for inclusion in the UNHCR cash assistance 
+programme, but this also entails a lag of up to two months before eligible families start 
+to receive cash - due to the time-consuming process of home visits, and the subsequent 
+registration process with the bank which is required. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+The implication of these procedures is that it can take up to 3 months, sometimes 
+longer, for refugees to register and start to receive assistance from WFP and UNHCR29. 
+
+In many ways, the status of not being registered with UNHCR is effectively a kind of 
+proxy indicator for vulnerability. For refugees not registered, the implications are: 
+
+• 
+No access to the public health system30 
+• 
+Children cannot attend public schools for free 
+• 
+Not included in the WFP food voucher programme 
+• 
+Not eligible for UNHCR’s cash assistance (for the most vulnerable families). 
+The fact that JRC has a beneficiary list with a large number of refugees who are not 
+registered with UNHCR is significant31, particularly given the privacy and security 
+concerns outlined in the assessment findings for why refugees choose not to register 
+with the UN. For reasons of policy, it is not recommended to actually select 
+beneficiaries based on not being UNHCR-registered, as the GoJ continues to encourage 
+refugees to register. Additionally, the number of registrations by UNHCR will continue 
+to increase on a monthly basis. 
+
+However, it is likely that a proportion of Syrians will continue to prefer to remain 
+unregistered, so this factor remains an important consideration for JRC in selecting the 
+locations and targeting any future intervention. JRC has access to this more vulnerable 
+case-load of refugees, and is well placed to fill the gap in assistance. 
+
+RECOMMENDATION: For any future JRC intervention, the UN-registration status of 
+refugees indicates a degree of extra vulnerability, and it should be carefully considered 
+how this could impact on beneficiary selection. 
+
+8. Appropriateness of Cash Programming 
+Before examining response options, of which cash programming is an obvious one, it is 
+important to establish whether the pre-conditions for cash are present in Jordan, in this 
+particular context. 
+
+• 
+Conversations with other agencies did not highlight any barriers to a cash 
+intervention in Jordan. The national policy framework is supportive of cash 
+transfers, in fact the GoJ recently announced that it will introduce cash transfers 
+29 There is some other assistance provided to newly arrived refugees by UNCHR, but focus here is on the 
+WFP food vouchers and the UNHCR cash assistance. 
+30 Although note that there is some anecdotal evidence of UNHCR-registration being overlooked at 
+public health clinics31 As a reminder, 30%-59% of the current JRC database are not registered with UNHCR, depending on 
+the governate (consider as indicative only, because people’s registration status is subject to change). 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+to deliver subsidies to targeted impoverished segments of the population in next 
+year’s budget32. 
+
+• 
+Cash transfers are well acknowledged as a response to refugee needs, having 
+been used in Jordan in the last decade to support Iraqi refugees. 
+• 
+Cash transfers are already being implemented for Syrian refugees, most notably 
+by UNHCR and Care International (as well as one-off assistance provided by 
+local organizations). 
+• 
+Markets are functioning normally throughout the country, and the number of 
+Syrians who are likely to be supported with cash assistance in each governate is 
+not large enough relevant to the wider population to generate a determinable 
+impact on inflation. There are two exceptions to this: the first is the housing 
+market, which is experiencing rent inflation; however, this is occurring anyway 
+due to the influx of refugees and demand for housing, and the provision of cash 
+to support rent payments is itself not expected have a further material effect – 
+since any assistance would largely be for families who already have rented 
+accommodation. The second exception is in Mafraq, where the higher proportion 
+of refugees seems to have caused a small amount of food price inflation so far. 
+• 
+Refugees are overwhelming living in an urban context, with easy access to 
+markets. 
+• 
+JRC has experience in making direct cash transfers, through an ongoing 
+programme to support orphans which is supported by the Emirates Red 
+Crescent. 2,400 orphans receive cash transfer every three months, which is 
+distributed as actual cash direct to beneficiaries. 
+• 
+Assessment findings clearly showed that refugees have a preference for cash, for 
+its ability to cover the wide range of expenditure needs they have, as well as 
+providing them with the dignity of choice, and avoiding the embarrassment of 
+in-kind distributions. 
+• 
+The widespread re-selling of aid items that has taken place throughout Jordan, to 
+generate cash, also provides strong support for direct cash provision. 
+• 
+No security or gender issues have been highlighted around the distribution and 
+use of cash. 
+• 
+Corruption risks, or potential diversion of cash transfers, are also assessed as 
+low. There are no local elites or ‘gate-keepers’ linked to Syrian refugees who 
+could potentially engage in these practices. The risk of corruption in beneficiary 
+selection will always exist, and must be mitigated with careful and transparent 
+selection criteria and subsequent verification process. 
+• 
+All needs identified through the assessment could be provided for by the market, 
+providing refugees have cash to access the market. 
+• 
+Cash payment mechanisms exist in Jordan, including (at least) the following 
+options: 
+o 
+Payment through banking system – as adopted by UNHCR 
+o 
+Payment through money transfer (or remittance) companies – as adopted 
+by at least one INGO 
+o 
+Payment by cheque, to be cashed at bank with ID 
+o 
+Direct cash distribution 
+32 This will replace blanket subsidies on goods, which are a ‘disaster’ according to the Minister of 
+Industry and Trade, who said it is better to deliver support directly to those who need it. Source: The 
+Jordan Times, 3rd September 2012, Page 1 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+• 
+In support of these payment mechanisms, refugees have indicated that: 
+o 
+They can access a mobile phone 
+o 
+They have familiarity with money transfer companies 
+o 
+Only a small proportion are missing personal documentation (a reliable 
+ID card would need to be created for those with no documentation for the 
+purposes of cash programming). 
+It is clear from the above points that cash is an appropriate intervention for 
+consideration in Jordan. 
+
+9. Objective and Response Option Analysis 
+9.1. Objective 
+The most appropriate objective for an intervention to meet the needs identified in the 
+assessment, for the most vulnerable refugees living in the community, is: 
+
+Ensure the most vulnerable refugee households can meet their basic non-food 
+household expenditure needs and have access to NFIs protecting them from winter 
+
+Assistance should be targeted to the most vulnerable households; this would 
+compliment the ongoing (more blanket) relief distributions of JRC while ensuring that 
+the impact of the resources available on those who need support the most is maximised. 
+The analysis in the sections above has identified a starting point for developing 
+vulnerability selection criteria, as well as geographical targeting. The need to consider 
+the factor of UNHCR registration is also crucial, because this also reflects a degree of 
+vulnerability. 
+
+In order to enable vulnerability targeting to be done, it is recommended that JRC starts a 
+new data collection process, for its existing caseload of Syrian refugees. This can be 
+done through their ongoing distributions of relief items. It will be necessary to have data 
+which indicates vulnerability, as well as a clear indication of the UNHCR registration 
+status. This is also an opportunity to train JRC staff and volunteers in data and 
+beneficiary management. 
+
+It is true that a process of further data collection, to enable targeting of assistance, will 
+take time and delay the start of further programming. But as the assessment clearly 
+demonstrated, the needs of the most vulnerable refugee families are not likely to change 
+or improve in the near future, meaning that assistance will still be timely if the time is 
+taken to target. To put it another way, a quick response is preferable, but not essential. 
+
+RECOMMENDATION: Improve data management process within JRC – clean 
+existing database, change registration form, collect more data through ongoing JRC 
+relief distributions, and consider migrating the database from Excel to Access 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+9.2. Response Options 
+The following table sets out the main response options that are available to meet the 
+suggested objective. 
+Response Option Analysis 
+
+Response 
+Options 
+Appropriateness as 
+per assessment 
+findings 
+Advantages Disadvantages 
+Food assistance: Not appropriate, as 
+either physical food insecurity is not 
+distributions or the issue. Existing 
+vouchers WFP vouchers, JRC 
+food parcels, and other 
+assorted assistance 
+already in place 
+Unconditional Appropriate – would Allows beneficiaries to Cannot ensure cash is 
+cash transfers support the identified 
+household expenditure 
+gaps 
+prioritise their 
+household expenditure 
+needs; 
+provides more dignity of 
+choice; 
+more discreet support to 
+refugees than in-kind 
+distributions; 
+most efficient option if 
+on-going assistance is to 
+be provided 
+used to cover a 
+particular need or 
+commodity (such as 
+rent) 
+Conditional Appropriate – would Ensures that rent is paid Does not allow 
+cash transfers – support rent, the main (with direct impact on beneficiaries to meet 
+for rent gap in household 
+expenditure which has 
+been identified 
+housing / shelter); 
+more discreet support to 
+refugees than in-kind 
+distributions 
+other urgent household 
+needs (e.g. medicine, 
+children’s items, utility 
+bills); 
+restricts choice; 
+could require payments 
+to landlords – a heavy 
+administrative burden 
+for payments 
+Conditional 
+cash transfers or 
+vouchers -for 
+NFIs/winter 
+items 
+Appropriate – would 
+support purchase of 
+needed NFIs and other 
+winter items 
+Ensures that 
+beneficiaries will access 
+particular NFIs/winter 
+items; 
+supports local markets 
+Does not allow 
+beneficiaries to cover 
+the most urgent 
+household need (rent); 
+restricts choice 
+NFIs / winter Appropriate – would Ensures that Restricts choice; 
+items give access to needed beneficiaries have requires physical 
+distribution NFIs and other winter 
+items 
+access to particular 
+NFIs/winter items; 
+Can be done rapidly 
+with existing pre-
+positioned stock in the 
+distribution, 
+procurement, logistics 
+and related costs; 
+does not support local 
+market; 
+only blanket coverage 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+region feasible (targeting not an 
+option) 
+region feasible (targeting not an 
+option) 
+An unconditional cash transfer for non-food household needs is recommended as the 
+optimal intervention, as it: 
+
+• 
+Will allow beneficiaries to prioritise their household expenditure needs, which 
+are varied 
+• 
+Provides maximum dignity and choice 
+• 
+Does not tie the assistance to any particular item (e.g. rent, NFIs) 
+• 
+Does not have large-scale logistical needs 
+• 
+Supports local markets and can be expected to have a multiplier effect on the 
+local economy 
+The transfer should be targeted to the most vulnerable households. 
+
+9.3. What Kind of Cash Transfer? 
+Ongoing, not one-off assistance, should be provided, as it is unlikely that a one-off 
+intervention is going to materially impact the situation of the most vulnerable. 
+Expressed another way, while one-off support to a larger beneficiary group will provide 
+some relief and cover some household expenditure gaps in the month of provision, the 
+most vulnerable will still be facing the same issues in the next month. The opportunity 
+to make a bigger impact on the needs of the most vulnerable will have been lost by 
+extending support to a wider group through a one-off intervention.33 
+
+An appropriate period of ongoing support would be from three to six months, based on 
+the timing issues identified in the assessment, which clearly showed that the needs of 
+the vulnerable refugee families are not likely to change significantly in the coming 
+months. 
+
+The appropriate amount for the cash transfer can be set with reference to the monthly 
+household expenditure data gathered in the assessment; also in coordination with other 
+agencies. It should cover average monthly rent, plus a small additional amount for other 
+priority expenditure. To the extent that rent is the key expenditure gap, rent levels need 
+to be closely monitored to ensure that the transfer amount remains appropriate. 
+
+Geographical targeting and coordination with other agencies will lead to the selection of 
+certain governates for a cash programme, in locations where JRC has an operational 
+presence and there is a gap in coverage from other agencies. In this case, an intervention 
+which includes both cash assistance and distribution of winter items could also meet the 
+objective effectively, providing they are in different areas: 
+
+• 
+Ongoing unconditional cash transfers to cover non-food household expenditure 
+needs, targeted at most vulnerable refugee households, in selected governates. 
+33 This assumes that within a fixed budget, a one-off intervention could target a larger group; while ongoing 
+support would necessitate targeting a smaller group of the most vulnerable. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+• 
+A one-off, in-kind distribution of winter NFIs (blankets, mattresses, heaters etc) 
+in the northern governates, alongside existing JRC distributions (blanket 
+coverage of JRC beneficiary list). 
+The additional beneficiary data requirements for a cash programme means it will take 
+longer to establish, which leaves open the option of in-kind distributions for winter 
+which could be done more rapidly. 
+
+RECOMMENDATION: Implement a targeted unconditional cash transfer for 
+vulnerable households; a monthly transfer for at least three months, calculated at 
+average rent plus an additional amount for other priority household expenditures. 
+This could be supplemented with in-kind distributions of NFIs for winter, in areas 
+where the cash transfer is not implemented. 
+
+9.4. Coordination and sharing of beneficiary lists 
+As mentioned several times, coordination with other implementing agencies will be 
+crucial for a cash intervention, especially to guide the choice of locations. Within 
+locations, it will be necessary to arrange the sharing of beneficiary lists to ensure that 
+assistance is not duplicated34. UNHCR’s RAIS system can enable cross-checking of 
+names, and JRC should request access to the system. This will allow any UNHCR cash 
+assistance beneficiaries to be excluded from the RCRC cash programme. 
+
+However, this does not address the issue of refugees who have not registered with 
+UNHCR. An important decision for JRC is whether it should share details of its 
+beneficiaries who have indicated they are not registered with UNHCR. This is a policy 
+decision – some of these Syrians have approached JRC because they are not 
+comfortable to register with the UN; sharing their details may not be appropriate from a 
+protection perspective. 
+
+If this is decided as the policy position of JRC and RCRC, there would effectively be a 
+one-way flow of data from UNHCR to JRC, to ensure there is no duplication of cash 
+assistance, but no corresponding flow of data from JRC to UNHCR, due to the privacy 
+concerns of the non-registered refugees. 
+
+RECOMMENDATION: Coordinate closely with other agencies on selection of 
+locations. Agree policy on sharing data, and how this can be done without protection 
+issues. Use UNHCR RAIS system to cross-check JRC cash assistance beneficiaries and 
+remove duplicates. 
+
+34 Indications are that Save the Children International and International Rescue Committee will be key 
+agencies to collaborate with, as well as UNHCR. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+9.5. JRC Capacity 
+JRC has a network of branches and volunteers who have already been active in the 
+registration of Syrian refugees and distribution of relief items. This programme presents 
+an opportunity for RCRC to support JRC and help build capacity in a number of key 
+programming areas: 
+
+• 
+Registration and data management 
+• 
+Beneficiary communications and accountability 
+• 
+Beneficiary management and monitoring 
+• 
+Cash transfer mechanisms 
+In particular it is a chance to build capacity at branch level and with volunteers. 
+Training for staff and volunteers will be required35, both in disaster management basics, 
+but also in the field procedures related to cash programming. An operation under the 
+IFRC Emergency Appeal will need to scale up local staff resources within JRC at the 
+Amman headquarters, as well as conduct this essential capacity building with branches 
+and volunteers. 
+RECOMMENDATION: Use the cash programme as an opportunity for capacity 
+building for JRC staff and volunteers, especially in disaster management principles and 
+field work basics. 
+
+10.Other Considerations for Implementation 
+
+10.1. Cross-cutting issues 
+Age 
+The percentage of refugees over 60 years of age is very low – less than 2% according to 
+the current UNHCR registration data. For this reason the elderly have not been 
+highlighted as a separate vulnerable group through this assessment. 
+
+Gender 
+The assessment has not revealed any particular gender-based issues that are directly 
+related to cash programming. That is, gender and power relationships within households 
+are not expected to impact the ability of cash transfers to achieve the identified 
+objective. Of course there are numerous issues facing women and girls as a result of this 
+refugee crisis. Survivors of gender-based violence, women in need of psychosocial care, 
+widows and so on have been highlighted by a number of agencies who specialise in 
+
+35 Disaster Management training is being considered for late October for volunteers; this can be extended 
+to include aspects of cash programming. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+these sectors 36 . However, because this assessment has focused on the household 
+economy and the gaps of basic expenditure over income sources, these concerns are out 
+of scope. 
+
+10.2. 
+‘Do no harm’ – the impact of assistance for Syrian refugees on 
+Jordanians 
+There is a risk that the implementation of additional programming for Syrian refugees 
+could increase resentment amongst the local Jordanian community, and lead to a rise in 
+tension between them and their guests. 
+Already, poorer Jordanians are facing the following issues: 
+
+
+• 
+Pre-existing poverty and high unemployment 
+• 
+Rising cost of living 
+• 
+Rising rents, especially in the North and Amman, caused by the refugee influx 
+• 
+Potential for food price inflation in the North, also caused by the refugee influx 
+The perception amongst more vulnerable members of the local Jordanian community 
+will be that Syrian refugees are being supported to an unfair degree, whilst their needs 
+are overlooked. Future programming needs to take this into account, to ensure 
+acceptance and success. 
+
+One option is to consider the inclusion of vulnerable Jordanians in a cash assistance 
+programme. This assessment has not had the time to investigate this option fully, but 
+several other agencies indicated that they were considering including poor Jordanian 
+beneficiaries in their cash programmes, up to 20% of the total caseload37. There were 
+also reports that the GoJ had requested agencies to consider this option.38 JRC does not 
+have a readily available beneficiary identification mechanism for vulnerable Jordanians; 
+however, potential ways of doing this should be explored. 
+
+RECOMMENDATION: Monitor changes in sentiment from the local community, and 
+consider including vulnerable Jordanians in future programming, alongside Syrian 
+refugees. For any extension of a cash programme, or longer-term work, this is a must. 
+
+10.3. Medium to Longer-Term Programming for Syrian Refugees 
+Further programming for Syrian refugees in Jordan is a realistic consideration, given the 
+potential for a prolonged crisis in Syria and increasing numbers of refugees. The 
+following factors will be important for the design of any future work: 
+
+36 See Annex One and the review of secondary data for some findings on these issues. 
+37 This included both Save the Children International and Care International. A potential way of doing 
+this is with data from GoJ National Aid Fund applications. 
+38 From the Ministry of Planning and International Cooperation (MoPIC); however, note that JRC is not 
+under the jurisdiction of MoPIC. 
+
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+• 
+Ability of refugees to return to Syria 
+• 
+Considerations of any ‘pull-factor’ generated by assistance to Syrians which 
+provides incentives for them to stay in Jordan 
+• 
+The need to include vulnerable Jordanians in longer-term assistance 
+programmes, as well as Syrian refugees 
+In particular, any future work which seeks to build livelihoods or provide income 
+generating opportunities for refugees will have to be designed very carefully around the 
+local community context, and be targeted only to those refugees without a realistic 
+option to return to Syria. 
+
+Building the capacity of JRC to engage in future programming is essential, as they may 
+have a caseload of vulnerable Syrian refugees for the foreseeable future. This 
+assessment has highlighted several areas where capacity needs to be built, if this is done 
+well it will leave JRC in a stronger position to do more. 
+
+10.4. Scenario Analysis for the Future 
+The table below considers three broad scenarios for the near future in terms of refugee 
+numbers in Jordan, and potential options for future responses by JRC and RCRC – over 
+and above the existing Emergency Appeal. 
+
+Three Broad Scenarios for the Refugee Crisis in Jordan, and RCRC Response 
+
+Scenario for Syrian refugee 
+numbers in Jordan 
+Characteristics of scenario RCRC Response 
+Best case: 
+decrease below 200,000 
+Some return to Syria is 
+possible; numbers in both 
+camp and community 
+decrease. 
+UNHCR registration ‘catches 
+up’ with refugee population. 
+Complete current IFRC/JRC 
+appeal operation 
+Consider if any unmet needs 
+remain 
+Likely case: 
+maintained at current level 
+(around 200,000-250,000) 
+No real change from current 
+situation – new arrivals are in 
+camp context; refugees in 
+community continue trying to 
+cope. 
+UNHCR registration is 
+catching up with refugee 
+population, but there are still 
+unregistered refugees. 
+Consider extension to 
+IFRC/JRC appeal operation 
+with further funding – either 
+longer period of cash 
+assistance, or extend to new 
+beneficiaries 
+Worst case: 
+Increase substantially 
+(250,000+) 
+Worsening conflict in Syria – 
+additional or expanded 
+camps in Jordan. 
+Refugees in community 
+continue trying to cope; more 
+pressure on communities 
+from higher numbers. 
+Re-assess needs and gaps. 
+Consider interventions which 
+include poor Jordanians as 
+well, to reduce resentment 
+and improve acceptability. 
+Consider longer-term work 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+UNHCR registration lags far 
+behind refugee population. 
+There is a real possibility that JRC with RCRC support may have to extend the current 
+appeal, or consider longer-term interventions, to continue to meet needs. If refugees 
+living in the community are not able to return then the most vulnerable will continue to 
+face the similar problems that they face now. If a significant gap remains between 
+UNHCR registration and the total refugee population, a caseload of refugees who are 
+under-assisted will continue to exist. 
+
+Note that UNHCR’s next round of contingency planning is going to assume a worst-
+case scenario of 550,000 Syrian refugees in Jordan by April 2013. 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+11.Annex One - Assessment Reports Reviewed as secondary data 
+relating to the host community context. 
+
+The following assessment reports were reviewed as part of the assessment: 
+
+• 
+IFRC/JRC rapid assessment, North Jordan, June 2012 - As reported in the IFRC 
+Preliminary Emergency Appeal, August 2012 
+• 
+Joint GoJ / UN Needs Assessment for Displaced Syrians in Jordan, June 2012 
+• 
+Syrian Refugee Crisis: Rapid Assessment, Amman, CHF, July 2012 
+• 
+Rapid Emergency WASH & Livelihoods Assessment in Northern Jordan: Syrian 
+Refugees living in Mafraq and Irbid, ACTED, July 2012 
+• 
+Comprehensive Assessment of Syrian Refugees Residing in the Community in 
+(Irbid) Northern Jordan, Un Ponte Per / Jordanian Women’s Union, August 2012 
+• 
+Report of Visits to Syrian Refugees, Ramtha and Mafraq, February 2012, Care 
+International 
+Some of the key findings are detailed below: 
+
+IFRC/JRC rapid assessment39, North Jordan, June 2012: 
+In host communities in the north of Jordan, key needs included rent, fresh food, 
+medicines and clothes. In most instances, household savings were dwindling fast, as the 
+cost of living in Jordan is higher than in Syria. Although some people are managing to 
+find work, most are unable to. Rent is listed as the priority need, and there is also an 
+increase in the number of people living per household (up to 4-5 families as opposed to 
+1-2 previously). Some families are facing eviction. 
+
+Joint GoJ / UN Needs Assessment for Displaced Syrians in Jordan, June 2012 
+(assessing Mafraq, Irbid and Amman): 
+
+• 
+Refugees are dependant on food parcels and other assistance, have little savings 
+and are often in debt. 
+• 
+Main needs are cash to pay rent, buy fresh food, items for babies and young 
+children, and medicines. 
+• 
+Employment opportunities are limited; most cannot afford the work permit of 
+$38840 required for formal jobs which are open to foreigners. Only 12% reported 
+having a stable income. Some minors are engaged in labour, as it is easier to find 
+work in the informal sector where a work permit is not required. 
+• 
+Not all needed services are available through the public health system, so 
+Syrians have to turn to the private health sector. 
+• 
+Lack of understanding about UNHCR and its mandate creates rumours about 
+privacy and security issues. Feeling that services provided by UNHCR are 
+inadequate and do not encourage registration. 
+• 
+Due to lack of access to the job market, there is a clear preference for cash 
+assistance over food and in-kind distributions, which are seen as low quality, not 
+corresponding to dietary habits and humiliating, especially when distribution 
+takes place in public. 
+• 
+Some Syrians sell their food parcels as its content does not match their diet, to 
+39 As reported in the IFRC Preliminary Emergency Appeal, August 2012 
+40 275 Jordanian Dinar (JD) 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+generate cash. 
+
+• 
+Families were under financial stress for at least a whole year prior to their 
+crossing the border. Therefore, their capacity to liquidate assets and bring money 
+to Jordan was very limited. Some had to pay their way out of Syria. As a result 
+most arrived with little assets and cash. The cost of living in Jordan is almost 
+twice of that in Syria. Consequently, most families depleted their reserves in the 
+first months after their arrival. 
+• 
+Food is readily available in Jordan’s markets. Areas near the Syrian border also 
+stock food produced from Syrian farms. It is estimated that less than 5% of 
+Syrians stay in rural areas, and the majority live in close proximity to urban 
+markets with a full range of food items on sale. 
+• 
+Some Syrians live in governorates which include the “poverty pockets” as 
+defined by GoJ. Programming should consider inclusion of the host 
+communities in areas of higher poverty, as failing to do so could result in 
+animosity from the local community and loss of local support. 
+A July 2012 survey by CHF in Amman41 found: 
+
+• 
+The majority of Syrians were renting accommodation and despite concerns over 
+the high-cost of living in Jordan and increasing rents, most survey respondents 
+expect to remain displaced for the foreseeable future. 
+• 
+For the few who are able to find regular employment, respondents agreed that 
+current wages, which for Syrian workers are below standard market rates, would 
+be insufficient to cover monthly expenses for an average sized household. 
+A July assessment by Acted, in Mafraq and Irbid governates42 also found that: 
+
+• 
+31% of interviewed households were female-headed households, constituting a 
+vulnerable target group. 
+• 
+There was a high level of vulnerability among displaced Syrians, with more than 
+86% of families having disabled members, infants, pregnant/lactating women, 
+elderly, wounded persons or individuals affected by chronic diseases. 
+• 
+Although 46% of Syrians arrived in Jordan with some savings, ranging from 500 
+to 1,000 JD, none of the interviewees stated they have savings left as at June 
+2012. 
+• 
+68 % of interviewees had benefitted from cash assistance since their arrival in 
+Jordan, but this has been generally done on a one-time basis only. The majority 
+stated that they cannot afford to pay for their rent since cash assistance has been 
+discontinued. 
+• 
+60 % have difficulties in paying for water supply and utilities, and affording 
+basic expenses such as food, bottled water, personal and hygiene items, diapers, 
+milk and other basic baby items, clothes, transportation, etc. 
+• 
+95% of interviewees confirmed that Syrians who are working are paid less than 
+Jordanians, work long hours, and sometimes are not paid at all. 
+41 Syrian Refugee Crisis: Rapid Assessment, Amman, CHF, July 2012 
+42 Rapid Emergency WASH & Livelihoods Assessment in Northern Jordan: Syrian Refugees living in 
+Mafraq and Irbid, ACTED, July 2012 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+An August 2012 assessment in Irbid by UPP/Jordanian Women’s Union43 found the 
+following (data collected during May-July): 
+
+• 
+Most of the refugees surveyed rely on aid to survive, given very limited job 
+opportunities. 
+• 
+While food and NFI distributions have been extensive, cash/rent assistance is 
+insufficient and discontinuous. Rental support is considered the most urgent 
+need by the great majority of the refugees. 
+• 
+Education and health seem to be accessible to the majority of the refugees 
+• 
+Many protection concerns were raised by the participants in the assessment. 
+Cases of labour exploitation, discrimination, violence and cheating were raised. 
+Child labour and early marriage are acknowledged as occurring among Syrian 
+refugees. 
+• 
+The violence experienced in Syria, together with the difficulty of displaced 
+living conditions, have caused psycho-social distress with refugees. 
+43 Comprehensive Assessment of Syrian Refugees Residing in the Community in (Irbid) Northern Jordan, 
+Un Ponte Per / Jordanian Women’s Union, August 2012 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+12.Annex Two: Focus group discussion guidance notes 
+
+IFRC/JRC Field Assessment for Syrian Refugees – September 2012 
+Focus Group Discussions: Guidance notes and questions 
+
+General guidance: 
+
+The following questions should be used to guide the group discussion. We should try to 
+stimulate a discussion among the group, and then record people’s comments and the 
+general opinion of the group. Where questions are specific, try and record the range of 
+specific answers that the group members give. 
+Here are some examples of the type of information we want to record: 
+
+all group members agreed that finding money to pay rent is the biggest problem 
+2 of the 7 group members said that they could not afford to pay for medicines for their 
+family 
+Group members reported paying rent per month ranging from 150 to 250 JD 
+
+We will hold two separate groups in each location – one for men and one for women. 
+We should explain carefully our objectives, and that the discussion is confidential. 
+People should feel comfortable to express their views honestly. 
+It’s important to explain to the group members that we want them to consider what they 
+know about the situation for Syrian refugees in general (not just their own experience). 
+It’s also important that we explain to people that there is no support being provided 
+today, also that being part of this group has nothing to do with participating in a Red 
+Crescent project in the future. 
+
+
+General Questions: 
+
+1-Which part of Syria do you come from? When did you enter Jordan? 
+
+
+2-How many family members are you staying with in Jordan? Do you have children 
+here – how many? 
+
+
+3-Are you registered with UNHCR? Or another organisation? 
+
+
+4-Why do some refugees not register with UNHCR? 
+(for example – don’t know how to register / afraid to give personal information / don’t 
+think it is useful) 
+
+
+5-Did any of you have to pay money to cross the border from Syria to Jordan? If so, 
+how much? 
+
+
+6-What are your plans for returning to Syria? 
+For example – what needs to happen for you to return to Syria? How long do you expect 
+to remain in Jordan? 
+If you have to stay in Jordan for a long time, how do you expect to live? 
+
+
+7-What assistance have you received so far in Jordan, and from whom? 
+(for example – hygiene kits from Red Crescent, food from UN (WFP), other) 
+
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+8-What are the three most urgent needs that you have? 
+
+Housing / shelter situation: 
+
+9 - Where are you living in Jordan – for example renting, staying with another family, 
+other? 
+
+10 - Is it easy for refugees from Syria to find somewhere to live (or rent)? 
+
+11 - How is the relationship with the local Jordan community where you live? Is it 
+changing? 
+
+12 - What is the average price people pay for rent per month? What about utility costs 
+(electricity, water…)? 
+
+13 - Is the shelter they have adequate for their family? In terms of space, quality, access 
+to water and sanitation? 
+
+14 - Do they think most Syrian refugees are secure in the places where they live, or is 
+their situation uncertain (for example – owner wants them to move soon, can’t afford to 
+pay rent, looking for cheaper house) 
+
+Expenditure / Income / Livelihoods: 
+
+Household expenditure 
+15 - What are the main items of expenditure for refugee families each month? For 
+example - rent, utilities, food, health care, household items/clothes, transport, 
+communication, education, others? List on flipchart. 
+
+
+Exercise: 
+Try to put a figure in JD per month against each of the expenditure items. Discuss 
+amongst the group, and put the range that everyone agrees with. For example: rent 150300 
+JD; utilities 40-60 JD…. 
+
+
+16 - Have there been changes in the prices of food and other goods in the markets since 
+people arrived in Jordan? 
+
+
+Household income 
+17 - What are the main sources of income for refugees? 
+For example: wages from casual labour, remittances from family in Syria, gifts from 
+family/friends in Jordan, business income, aid (in cash), savings, selling assets, selling 
+aid. List on flipchart. 
+
+
+Exercise: 
+First: Rank each income source in order of importance 
+If the group finds it easy, then just discuss and rank them 
+If this is difficult, use the ‘pair ranking’ method to do this (on the flipchart) 
+
+
+Second: Try to put a percentage against each income source, to show the proportion it 
+makes up of total income (the percentages should add to 100%) 
+If the group finds it easy, then just discuss and assign percentages 
+
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+If this is difficult, use the ‘proportional piles’ method (use 20 paperclips, and have the 
+group allocate paperclips to a pile representing each of the income sources) 
+
+18 - Do many refugees have savings? 
+
+19 - Do many refugees have debt in Jordan? 
+
+Other Livelihoods Information 
+20 - What kind of job did most Syrian refugees do in Syria? (trying to understand the 
+economic background of refugees) 
+
+21 - Is it possible for Syrian refugees to find work in Jordan? Are you or any family 
+members working? 
+
+22 - What is the average daily wage for Syrians in Jordan (discuss if this can be split 
+into wages for skilled and unskilled labour)? Are Syrians treated fairly by employers? 
+
+23 - Considering Syrian refugees in general: are there any activities which they have 
+started to do in Jordan which they do not normally do in Syria, to help earn money and 
+survive? 
+For example - working in certain jobs which are new, selling assets, working for or 
+helping host families, getting teenage children to work, any others 
+
+Food Security: 
+
+24 - How many meals per day do you and your family normally eat in Syria? How 
+many meals a day are you and your family eating currently? 
+
+25 - What is your opinion of the food distributions are you receiving? 
+26 - If you think about all the food your family eats in a month, what proportion of it is 
+given to you and what proportion do you purchase? 
+
+
+27 - Do you have all the kitchen items you need to cook with? 
+
+
+Other Questions Relevant to Cash Programmes: 
+
+28 - Do you think it is best for refugees in Jordan to be given food, hygiene kits, 
+household kits; or is it better for them to be given cash? Why? 
+29 - What is the first thing you would spend cash on if you were given it? 
+30 - Do you all have access to a mobile phone? 
+
+
+31 – Are some of you missing documentation – either passport or Syrian ID? 
+32 - Are refugees familiar with money transfer companies (or remittance agencies)? For 
+example when a family member wants to send another family member money? 
+
+
+33 - Who handles the money in the family normally – is it the man or the woman? 
+
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+Access to health / education: (briefly, as answers will have come up previously) 
+
+34 - Do you go to local public health centres and government hospitals? If not, why not? 
+35 - Are there any other problems that you have related to health? 
+36 - Do your children attend school? If not, why not? 
+
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+13.Annex 
+Three 
+– 
+Mapping 
+of 
+other 
+Agency 
+Cash 
+and 
+Voucher 
+Programmes 
+for 
+Syrian 
+Refugees 
+in 
+Jordan 
+
+
+Organisation Programme Selection & Targeting One-off or 
+recurring? 
+Amount Location No of 
+Beneficiaries 
+Delivery mechanism Costs Other 
+Care Intl Urgent cash Vulnerable cases referred by UNHCR one-off single: 75 JD Amman 1500 families Using local money 7 JD Use UN 
+assistance e.g. female -headed HHs, elderly, transfer 2-5: 120 JD and total: transfer/exchange per RAIS 
+disabled, large HHs (5+), 
+unaccompanied minors, widows, 
+orphans 
+follow up assessment done in person 
+by Care in office, plus field visit if 
+necessary - to determine if eligible, and 
+whether for cash project or other 
+support (e.g. NFI) 
+90% of cases have urgent eviction 
+issues or medical needs 
+6+: 150 JD Mafraq 
+500 completed 
+1000 more HHs in 
+Amman to be 
+covered between 
+Sep-12 and Dec12 
+company (Al-Awneh), 
+with vouchers issued to 
+beneficiaries 
+(note - same process as 
+used for Iraqi refugees 
+for many years - 
+company is trusted 
+partner) 
+transfer system to 
+check for 
+duplication, 
+and to 
+upload own 
+transfers 
+Also shared 
+data with 
+JHCO 
+UNHCR Cash assistance 
+programme 
+Vulnerable families, for rent: 
+must be below poverty line (50 
+JD/month/person), as assessed on 
+income/expenditure grid during home 
+visit 
+priority for female headed HHs; large 
+families; survivors of GBV/torture; 
+minors; other special needs 
+IRD is implementing partner, who does 
+home visits & assessment (intensive 
+process) 
+monthly, for 
+3 months - 
+now 
+extended to 
+6 months 
+Started Apr12; 
+will run 
+to end 2012 
+(minimum) 
+50 JD 
+single 
+100 JD - 3-5 
+people 
+120 JD - 
+HHs 6+ 
+UNHCR 
+agrees that is 
+too low, but 
+is funding 
+related; 
+may be 
+increased for 
+winter 
+months 
+all 
+governat 
+es, but 
+small 
+numbers 
+outside 
+of North 
+& 
+Amman 
+1,833 by end 
+Sep12 
+6000 by end 
+Dec12 
+up to 2 month 
+time lag for newly 
+registered 
+refugees to 
+participate 
+cash delivery at bank - 
+using iris scanning 
+technology. 
+Beneficiaries are sent 
+SMS, then go to bank 
+to collect cash 
+Elderly/minors - given 
+ATM card instead, 
+which is loaded 
+monthly; beneficiaries 
+informed by SMS 
+when cash is loaded 
+must have 
+passport/national ID, or 
+UNHCR reg - bank's 
+requirements 
+2.5 JD 
+per 
+transfer 
+one-off 
+urgent cash 
+grants given 
+by other 
+orgs don't 
+overlap with 
+the UN cash 
+compatible 
+with WFP 
+vouchers for 
+food, as the 
+meet 
+different 
+needs 
+uses same 
+process as 
+used for 
+Iraqi 
+refugees 
+
+
+54 
+
+
+WFP Voucher 
+programme - 
+food parcel for 
+refugees in host 
+communities 
+Uses UNHCR registration data, after 
+cleaning (but 1-month lag behind 
+UNHCR numbers) 
+blanket coverage of all registered 
+refugee families 
+will move to some kind of vulnerability 
+targeting in future, through monitoring 
+& home visits by partners (to exclude 
+families who are not vulnerable) 
+UNHCR cash assistance beneficiaries 
+will always be included 
+monthly 
+voucher 
+distribution, 
+started in 
+Aug-12 
+22 JD per 
+month per 
+person, 
+adjusted for 
+HH size 
+(based on 
+2300 cal 
+daily 
+calculation) 
+around 19+ 
+food items 
+available 
+(now adding 
+dairy 
+products and 
+fresh 
+meat/chicke 
+n) 
+In all 
+governat 
+es where 
+there are 
+UNHCR 
+registere 
+d 
+refugees; 
+also 
+Cyber 
+City 
+transit 
+camp 
+19,000 people / 
+7,000 families in 
+August; 
+expected to reach 
+40,000 people in 
+September -as per 
+Aug UNHCR data 
+one month lag 
+behind UNHCR 
+registration 
+Voucher distributed 
+monthly, in two parts, 
+each representing 2 
+weeks (so whole 
+voucher doesn't have to 
+be used at once) 
+with 33 approved 
+retailers around the 
+country (e.g. - 6 in 
+Amman) 
+Not 
+known 
+Three 
+implementin 
+g partners, 
+for voucher 
+distribution 
+& 
+monitoring: 
+HRF for 
+South and 
+Cyber City 
+SCI for 
+Amman/ 
+Zarqa 
+Islamic 
+Relief for 
+North 
+Danish Vouchers for Vulnerable households selected - using one-off voucher total South - 600 (pilot) Vouchers distributed Not waiting 
+Refugee NFIs (available local CBO lists and assessments voucher around $300 Ma'an through CBO partners known from GoJ 
+Council items as per and for approval 
+(DRC) assessed needs - 
+winter items, 
+NFIs, 
+medicines, 
+water) 
+not yet 
+started 
+Karak 
+(pilot) 
+Amman 
+to follow 
+Save the Cash Use UNHCR/WFP cleaned dataset for recurring, to be Amman 3000 to be confirmed soon TBC assessment 
+Children Intl Programme 
+exact household 
+and commodity 
+needs to be 
+confirmed soon 
+through 
+assessments 
+registered refugees; plus unregistered 
+refugees identified through community 
+work of Syrians; plus 20% vulnerable 
+Jordanians 
+Targeted to most vulnerable 
+for six 
+months 
+(to be 
+confirmed 
+soon) 
+confirmed 
+soon 
+and 
+Zarqa 
+and design 
+to be 
+completed 
+in Sep-12 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+
+55 
+
+
+International 
+Catholic 
+Migration 
+Commission 
+(ICMC) 
+Cash assistance 
+- for rent 
+vulnerable one off 
+payment, for 
+3 months 
+rent 
+(according 
+to rental 
+contract) 
+110 JD 
+average 
+range: 50230 
+JDs 
+North: 
+Mafraq, 
+Ramtha, 
+Irbid, 
+Zarqa 
+230 
+target is 500 
+Paid direct to landlords 
+against lease 
+Not 
+known 
+Starting 
+August 
+ADRA Cash transfers 
+Identified through JHCO 
+monthly for 
+3 months 
+100 JD North 100 unknown Not 
+known 
+JHCO / Al 
+Kitabwal 
+Sunnah 
+Cash assistance 
+(food and NFI 
+distributions) 
+Cash assistance selection criteria 
+includes 
+• Families without provider. 
+• Orphans 
+• Large families 
+• New refugees 
+one-off 50-100 JD Mostly 
+North 
+and 
+Amman? 
+unknown, but 
+large 
+direct cash distribution 
+beneficiaries contacted 
+by SMS 
+Not 
+known 
+includes 
+multiple 
+CBOs 
+Islamic Relief Cash Assistance Partnership with JHCO/Kitabwal 
+Sunnah 
+monthly for 
+3 months 
+started in 
+Sep-12 
+65 JD Ramtha 
+(Mafraq) 
+500 unknown Not 
+known 
+Intl. Rescue 
+Committee 
+Cash Assistance Targeted to special needs cases, 
+especially women, victims of GBV etc 
+Cash approach still being developed 
+TBC TBC Ramtha, 
+Mafraq, 
+Irbid 
+TBC TBC TBC Advisor 
+arriving late 
+Sep-12 to 
+assess / 
+design 
+Intl Islamic 
+Relief Org 
+Cash Assistance unknown monthly for 
+3 months 
+100 JD unknown 740 
+240 completed 
+unknown unkno 
+wn 
+
+IFRC Assessment Report – Syrian Refugees in the Community, Jordan. Sep-12 
+
+

@@ -1,0 +1,1640 @@
+ 
+
+ 
+
+ 
+
+Table of Contents 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Part 1: Introduction 3 
+
+ 
+
+Part 2: Forecast of Total Resource Need During 2014-2016 7 
+
+ 
+
+Part 3: Forecast of Other Remaining Resources and Remaining Gap 9 
+
+ 
+
+Part 4: Potential Impact of Meeting the Need 13 
+
+ 
+
+Part 5: Conclusion 17 
+
+ 
+
+Annex A: Methodology Used for the HIV Demand and Impact Estimates 19 
+
+ 
+
+Annex B: Methodology Used for the TB Demand and Impact Estimates 21 
+
+ 
+
+Annex C: Methodology Used for the Malaria Demand and Impact Estimates 25 
+
+ 
+
+Annex D: Methodology Used for the Domestic 
+
+ and Non-Global Fund External Financing Estimates 31 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+
+Part 1: Introduction 
+
+ 
+
+1. Recent advances in scientific knowledge, clear evidence of high-impact interventions, 
+falling costs and improved implementation know-how have given the global community the 
+opportunity to control AIDS, tuberculosis (TB) and malaria. Controlling these diseases 
+through smart and effective prevention, care and treatment programs will dramatically save 
+and improve the lives of millions of people, their families, communities and countries – and 
+alleviate the burden on development and economic growth that they represent. The global 
+community is now at a crossroads: the choice is to maintain the current level of investment, 
+leading to a continued high number of new infections and deaths, or to accelerate the gains 
+to turn high-transmission epidemics into low-level endemics, saving millions of lives and 
+preventing billions of dollars in additional costs over the long term. 
+
+
+
+
+ 
+
+2. Over the last decade, tremendous progress has been made against AIDS, TB and 
+malaria, achieving an impact that was unthinkable at the turn of the millennium. This 
+achievement has been the result of the hard work of governments, health care providers, 
+communities including persons affected by the diseases, faith-based organizations and the 
+private sector all over the world. The resources committed by domestic and external sources 
+have been fundamental to the progress achieved so far. In 2000, just 50,000 people were 
+receiving antiretroviral (ARV) therapy in sub-Saharan Africa. By 2011, it was roughly 
+6 million. 1 Just over a decade ago, TB case detection rates were 43 percent, and the 
+treatment success rate was just 67 percent among the 22 countries with the highest TB 
+burden.2 By 2011, the TB case detection rate rose to 66 percent and the treatment success 
+rate to 87 percent. In sub-Saharan Africa, fewer than 5 percent of households owned an 
+insecticide-treated net in 2000.3 By 2010, that had increased to 53 percent, with hundreds of 
+millions of more nets distributed since then. More important than these outcome measures, 
+mortality patterns provide further evidence of the dramatic progress achieved against the 
+three diseases. From 2005 to 2011, AIDS-related mortality decreased by 24 percent.4 The TB 
+mortality rate declined by 41 percent from 1990 to 2011.5 For malaria, the global mortality 
+rate is estimated to have decreased by 26 percent between 2000 and 2010; during this 
+period, more than half of the deaths averted were in the ten countries with the highest 
+malaria burden in 2000.6 The efforts have saved nearly three-quarters of a million children 
+across 34 malaria-endemic African countries over the past ten years. Even more telling is 
+that 85 percent of these lives were saved in the past five years alone, the same time period 
+during which funding intensified nine-fold.7 
+
+
+
+
+1 Joint United Nations Programme on HIV/AIDS. Global Report: UNAIDS Report on the Global AIDS Epidemic, 2012. Geneva: 
+UNAIDS, 2012. 
+
+2 World Health Organization. Global Tuberculosis Report, 2012. Geneva: WHO, 2012. 
+
+3 World Health Organization. World Malaria Report, 2012. Geneva: WHO, 2012. 
+
+4 UNAIDS. Global Report: UNAIDS Report on the Global AIDS Epidemic, 2012. Geneva: UNAIDS, 2012. 
+
+5 World Health Organization. Global Tuberculosis Report, 2012. Geneva: UNAIDS, 2012. 
+
+6 World Health Organization. World Malaria Report, 2012. Geneva: WHO, 2012. 
+
+7 Roll Back Malaria. Progress & Impact Series: Malaria Funding and Resource Utilization: The First Decade of Roll Back Malaria. 
+http://www.rbm.who.int/ProgressImpactSeries/report1.html 
+
+ 
+
+ 
+
+
+3. Because of dedicated programs within countries, increased funding and recent 
+scientific advances, the Millennium Development Goal targets for HIV, TB and malaria are 
+within reach. The world has halted and begun to reverse the spread of HIV: prevalence 
+appears to have stabilized and the number of new HIV infections, while significant, has 
+steadily declined since the late 1990s.8 TB incidence rates have been falling since 2002, and 
+the number of TB cases has fallen since 2006.9 Malaria incidence and mortality have both 
+fallen since 2000, with most of that progress since 2005.10 
+
+
+
+
+8 WHO, UNAIDS, UNICEF. Global HIV/AIDS response: epidemic update and health sector progress towards universal access: 
+progress report 2011.Geneva: WHO, 2011. 
+
+9 World Health Organization. Global Tuberculosis Control 2011. Geneva: WHO, 2011. 
+
+10 World Health Organization. World Malaria Report 2011. Geneva: WHO, 2011. 
+
+11 Joint United Nations Programme on HIV/AIDS, Global Report: UNAIDS Report on the Global AIDS Epidemic, 2012; World 
+Health Organization, Global Tuberculosis Report, 2012; World Health Organization, World Malaria Report, 2012. 
+
+ 
+
+4. Despite these significant strides, HIV/AIDS, TB and malaria continue to impose a 
+devastating human and economic toll. There were some 2.7 million deaths from AIDS- and 
+TB-related causes in 2011, and 660,000 malaria-related deaths in 2010.11 Without sufficient 
+resources to support prevention, care and treatment for these diseases, the world is at risk of 
+losing ground in this fight. It is important that the global community prevent the epidemics 
+from reversing the gains of the past ten years. A resurgence of these diseases would result in 
+costs that would likely grow beyond any affordable range. 
+
+
+
+
+ 
+
+5. Decisions that are made now – by implementing countries and donors – will 
+determine whether current progress can be maintained and related international goals be 
+met, including the UN Secretary-General’s call to achieve near-zero malaria deaths by the 
+end of 2015; the 2011 Political Declaration on HIV/AIDS and the UNAIDS strategy to 
+achieve zero new HIV infections, zero discrimination, and zero AIDS-related deaths; and 
+accelerating reduction in TB cases and mortality to ultimately eliminate TB as a global public 
+health problem. As this replenishment is the last one in advance of the Millennium 
+Development Goal deadline, it represents one of the international community’s final 
+opportunities to enable their achievement. It is therefore imperative to secure the funding 
+needed to sustain the gains and bring us to the tipping point in order to defeat the three 
+diseases. 
+
+
+
+
+ 
+
+6. After research and close consultation with key partners at the national and 
+international level, the Global Fund estimates that US$ 87 billion will be required from 2014 
+to 2016 to reach all vulnerable populations in Global Fund-eligible low- and middle-income 
+countries with essential services to bring all three diseases under control. This level of 
+financing requires a joint effort of all partners and must be seen as a shared responsibility of 
+implementing countries and the international community. A contribution of US$ 15 billion 
+from the Global Fund would allow the global community, working collectively, to cover 
+87 percent of the total funding needed to effectively fight the three diseases in the 2014-2016 
+period. 
+
+
+
+
+ 
+
+ 
+
+
+7. The Global Fund’s new funding model is designed to achieve more strategic investment 
+through enhanced dialogue with applicants and increased partnership with governments, 
+civil society and affected communities, technical partners and other external funders, and 
+the provision of more flexible timing and predictable funding. Earlier and better country 
+dialogue will improve the response to the diseases and map contributions from all partners 
+to the full funding gap. This will help prioritize interventions and financing for the right 
+populations, which increasingly are highly vulnerable, marginalized and stigmatized groups 
+including young women, pregnant women and children, sex workers, people who inject 
+drugs and men who have sex with men. The Global Fund’s new funding model is poised to 
+support programs make significant strides towards defeating the diseases. The new funding 
+model also strives to align investments in HIV, TB and malaria with national health 
+strategies while strengthening health systems and serving as a platform for promoting the 
+health of a person rather than only combating specific diseases. 
+
+
+
+
+ 
+
+8. The advance of the new funding model, together with new technology and new 
+evidence on effective disease responses were factored into estimates made with technical 
+partners for the potential financial need in Global Fund-eligible countries over 2014 to 2016. 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+
+Part 2: Forecast of Total Resource Need During 2014-2016 
+
+ 
+
+9. The Global Fund collaborated with partners (the United Nations Joint Programme on 
+HIV/AIDS (UNAIDS), the World Health Organization (WHO), the Stop TB Partnership and 
+the Roll Back Malaria Partnership) to estimate the total amount of resources required over 
+the 2014-2016 period to finance HIV, TB and malaria programs in the low- and middleincome 
+countries it supports. Estimates are based on country realities and factor in best 
+practices in program design and delivery, as well as opportunities for the expansion of 
+essential interventions for maximum impact. 
+
+
+
+
+ 
+
+10. WHO, UNAIDS, Stop TB and Roll Back Malaria have published projections of the 
+overall resources required annually to achieve global targets for 2015 for the three diseases. 
+These global plans were taken as the starting point to develop an assessment of total 
+resource needs for 2014-2016.12 In the Global Plan to Stop TB 2011 to 2015, key targets for 
+2015 include reducing prevalence of and deaths due to TB by 50 percent compared with 1990 
+levels. Resource needs for HIV are based on the Investment Framework for HIV/AIDS, 
+which was developed to achieve universal access targets for 2015 and continue thereafter. 
+For malaria, the Global Malaria Action Plan outlines the resource needs to achieve universal 
+coverage for all populations at risk with locally appropriate interventions for prevention and 
+case management by 2015. 
+
+
+
+
+12 These projections are available in the Global Plans developed by partners: the Investment Framework for HIV/AIDS 
+(http://www.unaids.org/en/media/unaids/contentassets/documents/unaidspublication/2012/JC2359_investing-forresults_
+en.pdf), the Global Plan to Stop TB 2011-2015 (http://www.stoptb.org/global/plan), and the RBM Global Malaria 
+Action Plan (http://www.rbm.who.int/gmap/gmap.pdf). 
+
+13 According to the 2013 Global Fund eligibility policy, 128, 118 and 102 countries are eligible for funding for HIV, TB and 
+malaria respectively. 
+
+14 Annexes A-C provide further details on the targets used to estimate these resource needs. 
+
+ 
+
+11. The resource needs estimates were filtered to include only countries eligible to apply to 
+the Global Fund as of 2013.13 Costs included in the partner estimates were also reviewed for 
+eligibility for Global Fund grants. Overlapping costs across the diseases were identified and 
+adjusted accordingly. In particular, resource needs for ARV therapy for HIV-positive TB 
+patients were specifically excluded from the TB forecast, as they are already incorporated in 
+the HIV estimates. 
+
+
+
+
+ 
+
+12. Estimates were refined to provide a realistic reflection of financial need and absorptive 
+capacity. Global Plan targets for the three diseases were extended to 2016 and updated where 
+appropriate to incorporate country context.14To ensure that the estimates are based on 
+targets that are ambitious but realistic, country-level data was incorporated wherever 
+possible. Through partner-led workshops conducted in early 2013, representatives from 
+supported programs updated and extended financial gap analyses until 2016, supplemented 
+by desk reviews. Estimates were updated to consider the latest developments in costs, 
+market dynamics, and new technologies. 
+
+
+
+
+ 
+
+13. Based on this methodology the Global Fund estimates that a total of US$ 87 billion is 
+needed to finance urgently needed programs for HIV/AIDS, TB and malaria over the 2014- 
+2016 period in Global Fund-eligible countries. 
+
+
+
+
+
+ 
+
+14. For HIV, the total estimated financing need is US$ 58 billion over this period. All costs 
+are for programs eligible for Global Fund financing, including those of the six key program 
+activities that underpin the Investment Framework as well as the critical enablers and 
+synergies areas. Treatment, care, and support are the largest single cost area, but substantial 
+costs are also forecast for activities for key populations at higher risk and for elimination of 
+new HIV infections among children. The estimates assume significant cost savings as a result 
+of market dynamics and changes to more efficient service provision, particularly through 
+community-based approaches. 
+
+
+
+
+ 
+
+15. For TB, the total estimated resource need is US$ 15 billion over the period. These 
+estimates cover four major components of TB care and control: 1) DOTS diagnosis and 
+treatment for drug-susceptible TB; 2) scale-up of rapid molecular diagnostics and associated 
+laboratory strengthening, in particular to improve diagnosis of multidrug-resistant TB and 
+diagnosis of TB in people living with HIV; 3) treatment of multidrug-resistant TB; and 
+4) collaborative TB/HIV activities required to jointly address the TB and HIV epidemics not 
+already covered in the HIV estimates. The areas of expanded diagnosis and effective 
+treatment for drug-susceptible TB (which can prevent multidrug-resistant TB) account for 
+the largest share of the costs, requiring an estimated US$ 2.6 billion a year over the 2014- 
+2016 period. To address the major threat of multidrug-resistant TB, which currently affects 
+an estimated 630,000 people, expanding prompt and effective treatment for multidrugresistant 
+TB requires an estimated US$ 1.3 billion per year. Expansion of rapid diagnostics 
+and associated laboratory strengthening requires US$ 0.6 billion per year. 
+
+
+
+
+ 
+
+16. The total estimated resource need for malaria is US$ 14 billion over the three-year 
+period. The majority of these resources are to support sustained universal coverage of vector 
+control interventions, namely long-lasting insecticidal nets and/or indoor residual spraying, 
+plus malaria case management, which includes malaria diagnostic testing with rapid 
+diagnostic tests and treatment with artemisinin-based combination therapy (ACT) through 
+public health facilities, at the community level and also in the private sector where 
+appropriate. Intermittent preventive treatment of malaria for pregnant women and seasonal 
+malaria chemoprevention are also included. The resource need also incorporates updated 
+estimates on the financing required to contain artemisinin resistance and forestall 
+insecticide resistance. Additionally, supportive interventions – including monitoring and 
+evaluation, program management and behavior change and communication – are also 
+included, as well as malaria-related health and community systems strengthening costs, 
+particularly support to community case management of febrile illness, for instance, through 
+community health workers, given the focus on expanding access to diagnostics and 
+treatment over this period. 
+
+
+
+
+ 
+
+17. Additional detail on the methodologies used to estimate the total resource need during 
+the replenishment period is outlined in Annexes A through C. 
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+Part 3: Forecast of Other Available Resources and Remaining Gap 
+
+18. To assess what portion of the total need could be covered by non-Global Fund 
+resources, the Global Fund and its technical partners developed financing projections over 
+2014-2016 for domestic and other external funders. 
+
+ 
+
+19. Multiple scenarios were considered for the potential of domestic resources to 
+contribute to the overall financial need. Figure 1 illustrates three scenarios considered in 
+relation to recent trends in domestic financing for the three diseases. This includes a “low” 
+scenario where implementing countries maintain pace with their International Monetary 
+Fund (IMF) forecasts of projected growth in general government expenditure, as well as 
+“medium” and “high” scenarios whereby countries that currently underperform in terms of 
+domestic funding relative to their disease burden and ability to pay improve to reach a 
+benchmark “domestic investment priority” index by 2020. In the “medium” scenario the 
+benchmark is set at the 50th percentile (i.e. all countries currently below the 50th percentile 
+increase their financing at the rate necessary to achieve the 50th percentile by 2020), whereas 
+in the “high” scenario the benchmark is the 75th percentile. 
+
+
+
+
+ 
+
+ 
+
+ 
+
+20. It might be reasonably be expected that domestic financing would increase at a rate 
+similar to forecasted economic or government expenditure growth (i.e. the “Low” scenario). 
+However, in order to be sustainable over the longer term, expanded financing for the fight 
+against the three diseases cannot be the sole responsibility of external donors. The technical 
+partners assume an increasing portion of the funding will come from implementing 
+countries. There is currently strong momentum in domestic funding mobilization and the 
+Global Fund will increasingly be able to leverage domestic funding through its new funding 
+model and its iterative country dialogue. As a result, technical partners settled on the 
+“medium” scenario based on a 50th percentile benchmark, representing ambitious but 
+realistic assumptions that countries will continue efforts to boost domestic financing for HIV, 
+TB and malaria programs. Partners reviewed the forecasted contributions for a sample of 
+individual countries to ensure that these projections fit with their knowledge on the capacity 
+of the governments to contribute additional resources. 
+
+
+
+
+ 
+
+
+21. As illustrated in Figure 2, this scenario assumes countries across income levels to 
+achieve strong growth rates (represented by the gradient of the lines in the figure). At lower 
+income levels, the increase projected is more moderate, while at upper middle income levels 
+the increases are higher. In countries eligible only for targeted funding, the domestic funding 
+growth is particularly high and is expected to cover most or all of the need; this is consistent 
+with Global Fund expectations of only providing a small amount of catalytic financing in 
+these countries to address underserved and most-at-risk populations.15 But the projected 
+growth across income levels is not out of line with what has been achieved over the last few 
+years. For example, over 80 countries increased domestic investments for the AIDS response 
+by more than 50 percent between 2006 and 2011.16 Similarly, domestic funding for TB care 
+and control in 104 countries increased in aggregate by over 30 percent from 2006 to 2011.17 
+Over the same period, domestic funding for malaria control increased by nearly 40 percent.18 
+
+
+
+
+0 
+
+2 
+
+4 
+
+6 
+
+8 
+
+10 
+
+12 
+
+14 
+
+2006 
+
+2007 
+
+2008 
+
+2009 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+2016 
+
+Figure 2: Trend and projection of domestic financing for HIV/AIDS, TB, 
+and malaria 
+
+Eligible for targeted 
+
+funding only 
+
+Upper Middle Income 
+
+Lower Middle Income, 
+
+Upper 
+
+Lower Middle Income, 
+
+Lower 
+
+US$ (billions) 
+
+Historical 
+
+Projection 
+
+15 The Global Fund’s eligibility policy restricts funding to certain countries (primarily upper-middle-income countries with less 
+than a severe disease burden) to a limited amount that can only be used for purposes focused on underserved and most-at-risk 
+populations and/or highest impact interventions within a defined epidemiological context (GF/B23/14 Attachment 1) 
+
+16 Joint United Nations Programme on HIV/AIDS. Global Report: UNAIDS Report on the Global AIDS Epidemic, 2012. Geneva: 
+UNAIDS, 2012. 
+
+17 World Health Organization. Global Tuberculosis Report, 2012. Geneva: WHO, 2012. 
+
+18 World Health Organization. World Malaria Report, 2012. Geneva: WHO, 2012. 
+
+19 This estimate is based on 2011 levels of non-Global Fund external financing, which were US$ 6.7 billion for HIV, US$ 0.2 
+billion for TB and US$ 1.0 billion for malaria. (Source: UNAIDS World AIDS Day Report, 2012, WHO Global Tuberculosis 
+Report 2012, WHO World Malaria Report 2012). For malaria, US$ 0.2 billion was added to the annual estimates for 2014-2016 
+to reflect the increase in Department for International Development (DFID) funding projected in the World Malaria Report 
+2012. 
+
+ 
+
+ 
+
+ 
+
+22. In light of recent trends (Figure 3) and continued pressure on fiscal expenditure, non- 
+Global Fund external financing is projected to remain constant – with the exception of 
+malaria, where a modest increase in funding is expected – amounting to approximately 
+US$ 8 billion per year for all three diseases combined.19 While it is anticipated that programs 
+will submit applications to the Global Fund for 2014-2016 with more updated views on 
+external funding within their individual countries, past proposal experience has suggested 
+that programs usually, at best, assume constant levels of funding from other donors. Thus it 
+is expected that relatively constant other external funding is a reasonable reflection of what 
+programs may include in their concept notes as a basis for assessing their remaining 
+
+
+
+
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+2002 
+
+2003 
+
+2004 
+
+2005 
+
+2006 
+
+2007 
+
+2008 
+
+2009 
+
+2010 
+
+2011 
+
+USD, billions 
+
+Figure 3: Trend in other (non-Global Fund) external 
+financing for HIV/AIDS, TB, and malaria 
+
+$23B 
+
+$14B 
+
+$24B 
+
+$26B 
+
+$0B 
+
+$10B 
+
+$20B 
+
+$30B 
+
+$40B 
+
+$50B 
+
+$60B 
+
+$70B 
+
+$80B 
+
+$90B 
+
+$100B 
+
+HIV 
+
+TB 
+
+Malaria 
+
+Total 
+
+Figure 4: Resource needs in countries eligible for Global Fund financing, 
+
+2014-2016 
+
+Remaining gap 
+
+Other external financing (current 
+
+levels) 
+
+Additional domestic resources 
+
+Domestic financing (current levels) 
+
+$87B 
+
+financial need. Nevertheless, this may be an optimistic scenario given financial pressures 
+currently facing many donors. 
+
+
+
+
+ 
+
+[ 
+
+ 
+
+23. Additional details of the methodology used to establish the domestic and other external 
+financing estimates are included in Annex D. 
+
+
+
+
+ 
+
+24. Figure 4 illustrates the overall financial need and projected domestic resources and 
+other external financing by disease and in aggregate. With an overall financial need of 
+supported programs in Global Fund-eligible countries of US$ 87 billion and ambitious 
+increases in domestic resources, the external financing need will nonetheless amount to 
+US$ 50 billion during the 2014-2016 period. With non-Global Fund external funding 
+assumed at US$ 24 billion, the remaining external financing gap is forecast to be US$ 26 
+billion. 
+
+
+
+
+ 
+
+ 
+
+
+ 
+
+
+Part 4: Potential Impact of Meeting the Need 
+
+ 
+
+25. A total of US$ 26 billion is needed to fully fund the remaining gap in HIV, TB and 
+malaria programs in eligible countries. The Global Fund could, in theory, be asked to finance 
+all of the overall remaining gap if implementing countries submitted requests to cover the 
+full unmet need. 
+
+
+
+
+ 
+
+26. At this pivotal moment in the fight against the diseases, the Global Fund needs to 
+expand its support for programs that are in a position to make dramatic gains to save 
+millions of lives and tens of billions of dollars in the future. A contribution of US$ 15 billion 
+from the Global Fund would allow the global community, working collectively, to cover 
+87 percent of the total funding needed to effectively fight the three diseases in the 2014-2016 
+period (Figure 5). Financing 87 percent of the total funding needs would extend coverage 
+towards universal access where the returns in terms of impact on morbidity and mortality 
+are highest. Additionally, with better prioritization of high-impact interventions, better 
+targeting, use of scientific advances and further efficiencies in service delivery, the world will 
+be well positioned to bring the effective contribution nearer to the full amount indicated and 
+push towards complete control of HIV, TB and malaria. 
+
+
+
+
+ 
+
+ 
+
+ 
+
+27. For the purposes of estimating what global resources might achieve under this funding 
+scenario, the US$ 15 billion amount has been divided according to the Global Fund’s 
+historical distribution of funding across the three diseases. 20 Under this assumption, 
+87 percent, 86 percent and 85 percent of the total needs would be met for HIV, TB and 
+malaria programs, respectively. Prioritizing funding and efficiency gain behavior would 
+mean that attaining 87 percent of the total resource need would achieve more than its 
+corresponding share of impact. 
+
+
+
+
+20 The Global Fund’s traditional distribution of funding was applied to the amount (less forecasted Secretariat operating 
+expenses), which corresponds to 52 percent for HIV, 32 percent for malaria and 16 percent for TB. This distribution is used to 
+approximate outcomes and impact of the proposed funding scenario, and does not represent a forecast of how funding will be 
+distributed between the diseases in the 2014-2016 period. Work is on-going to develop a methodology for resource allocation in 
+the 2014-2016 cycle of the Global Fund’s new funding model. 
+
+
+ 
+
+28. The impact of US$ 15 billion in funding would mark a significant gain over maintaining 
+global funding at recent levels.21 In the case of HIV and AIDS, the collective available 
+resources would cover 87 percent of the total need. While this falls short of the resource 
+needs projected by UNAIDS, this level of resources may get the world on track towards 
+convergence in the rates of new infections between lower-middle income and industrialized 
+countries by 2025, according to new work undertaken by the HIV modeling consortium 
+under the leadership of UNAIDS. This new work shows that significant further gains could 
+be achieved if ARV therapy were to be scaled up strategically for those eligible under the 
+revised treatment guidelines (CD4 count below 500). Under these assumptions, more than 
+18 million adults eligible for treatment could be on ARV therapy by 2016.22 
+
+
+
+
+21 Additional detail on the methodology for estimating impact is included in Annexes A-C. 
+
+22 It was not possible to produce a graph depicting number of persons on ARV therapy as the newly-revised estimates have not 
+been published. This graph will be provided after WHO publication of the new treatment guidelines in mid-2013. 
+
+23 This estimate refers to the cost across all countries, not just Global Fund-eligible countries. 
+
+24 This corresponds to 16.6 million patients receiving TB care and treatment, and 0.4 million patients receiving multidrugresistant 
+TB care and treatment. 
+
+25 This corresponds to 14 million receiving TB care and treatment, and 0.3 million receiving multidrug-resistant TB care and 
+treatment. 
+
+ 
+
+29. The cost for the additional people living with HIV on ARV therapy would be about 
+US$ 1 billion annually, which represents a less than 10 percent increase of overall cost.23 A 
+number of countries have shown to be able to achieve rapid and significant efficiency gains 
+going beyond the assumptions described in the investment framework publication. In 
+addition, about one-quarter of the total resource needs have been assumed to support 
+synergistic efforts in broader development areas. That share could be reduced if other sectors 
+step up to the plate and consequently resources could be shifted towards basic programs. It 
+is thus reasonable to assume that, with the appropriate commitment, these additional 
+treatment numbers could be achieved within the resource envelope described in this paper. 
+
+
+
+
+ 
+
+30. However, if global funding were to remain constant at today’s levels, there would be a 
+total of 2.6 million new HIV infections per year, corresponding to an average of 1.3 million 
+more infections annually over 2014-2016 than if full scale-up were achieved. The cost of not 
+making this investment now would reduce savings in the long term, as the funding required 
+in 2014-2016 is largely offset by savings incurred from avoiding future treatment costs of the 
+excess infections averted during this period. 
+
+
+
+
+ 
+
+31. For TB, under the assumption that funding would be prioritized to cover high-burden 
+low-income countries first, a collective funding effort covering 86 percent of TB resource 
+needs would result in 17 million TB and multidrug-resistant patients receiving care and 
+treatment in Global Fund-eligible countries between 2014 and 2016 (see Figures 6 and 7).24 
+With greater access to TB and multidrug-resistant treatment, almost 6 million lives would be 
+saved over this three-year period. If, however, global funding were to flat-line over the threeyear 
+period, only around 14 million people on would be treated for TB and multidrugresistant 
+TB25 – and consequently 1 million fewer lives would be saved compared with the 
+proposed funding scenario. 
+
+
+
+
+ 
+
+
+ 
+
+ 
+
+32. For malaria, the increased collective effort in funding would also lead to significant 
+gains and fuel the drive to achieving near-zero deaths from malaria, as well as further enable 
+progress toward elimination in certain settings. As the full funding need would not be 
+covered, the assumption is that funding would be prioritized by targeting the highest-burden 
+countries in order to achieve 100 percent coverage in the 18 highest-burden countries and 
+50 percent coverage elsewhere, as most malaria-related deaths occur in the highest-burden 
+countries. Through this prioritization, a global effort addressing 85 percent of the funding 
+need would result in a substantial increase in coverage in sub-Saharan Africa over the 2014- 
+2016 period (Figure 8). As a consequence, during this period approximately 196,000 more 
+lives would be saved per year than with current funding levels. Moreover, without an 
+increase in funding for malaria, insecticide-treated net coverage could even decrease because 
+the number of insecticide-treated nets delivered in 2011 and 2012 was not sufficient to 
+protect all populations at risk or to fully replace insecticide-treated nets delivered three years 
+earlier, likely resulting in resurgence and renewed epidemics of malaria and a potential 
+return to 2000 levels of mortality (1.2 million deaths per year).26 
+
+
+
+
+26 World Health Organization. World Malaria Report 2012. Geneva: WHO, 2012. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+Part 5: Conclusion 
+
+ 
+
+33. Based on consultations with key partners at the national and international levels, a 
+total need of US$ 87 billion is forecast for the 2014-2016 period for HIV/AIDS, TB, and 
+malaria programs in Global Fund-eligible countries. Realistic but aggressive increases in 
+domestic financing could cover US$ 37 billion of this need. With external financing besides 
+the Global Fund relatively flat at US$ 24 billion, the remaining gap would be US$ 26 billion. 
+
+ 
+
+34. If the Replenishment delivered US$ 15 billion in financing to the Global Fund to 
+support programs, an overall 87 percent of the total need would be covered, with similar 
+proportions of the total HIV/AIDS, TB, and malaria needs being met. 
+
+
+
+
+ 
+
+35. Through a collective effort, additional efficiency gains and investment in high-impact 
+interventions, the goals the international community has previously set itself in the fight 
+against the three diseases could be within reach where an additional US$ 15 billion in 
+funding was provided to programs through the Global Fund partnership. By taking 
+advantage of scientific advances and investing strategically, a concerted global effort to boost 
+funding would deliver a decisive step towards ending the burden of HIV/AIDS, TB and 
+malaria. 
+
+
+
+
+ 
+
+36. These estimates should serve as a catalyst for further discussion on what are realistic 
+but ambitious targets the global community should strive to achieve in the next 
+replenishment period, and what the Global Fund’s share should be in the collective effort to 
+provide the financing necessary to achieve these goals. 
+
+
+
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+
+Annex A: Methodology Used for the HIV Demand and Impact Estimates 
+
+ 
+
+Resource Needs 
+
+ 
+
+The HIV resource needs estimates for the Global Fund demand forecast were provided by 
+UNAIDS, based on the Investment Framework for HIV/AIDS.27 The Investment Framework 
+estimates the resource needs and potential impact for 139 low- and middle-income countries 
+for the period 2011-2020, and is intended to facilitate more focused and strategic use of 
+resources. 
+
+27 The Investment Framework as described by Schwartländer et al is available at: 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2811%2960702-2/abstract.The methodology is described 
+in detail in the paper’s web appendix. 
+
+28 Based on the precedent set in Global Fund’s Round 10 MARPS channel and the policy for targeted funding described in the 
+Eligibility, Counterpart Financing, and Prioritization policy. 
+
+29 Ongoing work on costing community health work needs, and the associated impact on overall costs and effectiveness of 
+disease programs from addressing these funding needs, is one example of the work that the Global Fund will work with partners 
+to incorporate in future forecasts. 
+
+ 
+
+Adjustments were made to the Investment Framework estimates to include only the 128 
+countries eligible for Global Fund support according to 2013 eligibility criteria. Of this subset, 
+30 upper-middle-income countries are eligible only for targeted funding from the Global 
+Fund. To approximate the request to the Global Fund in these cases, a fixed amount of 
+US$ 2.5 million per year in Global Fund resources was used for the potential demand for 
+each of these countries.28 
+
+ 
+
+All costs included in the Investment Framework are eligible for Global Fund financing and 
+are included in the forecasts, including those of the six key program activities that underpin 
+the Investment Framework. Key components of health and community systems 
+strengthening are included in these estimates. These include components from the “critical 
+enablers” and “synergies with the development sectors” categories of the Investment 
+Framework model, such as community mobilization, procurement and logistics, and 
+monitoring and evaluation. To avoid double-counting HIV/TB costs, as agreed by partners, 
+ARV therapy costs for HIV-positive TB patients are included in the HIV estimates and 
+excluded from the TB estimates. Costs related to testing HIV patients for TB using Xpert are 
+included in the TB estimates and not under HIV. 
+
+ 
+
+Health and community system strengthening costs are embedded in the costs for providing 
+the basic program services and are also included in “critical enablers” and “synergies with 
+the development sectors” categories of the Investment Framework model. It is important to 
+recognize that costs for health and community system strengthening are captured differently 
+in the estimates for each disease. Efforts will continue to build the evidence base on the 
+health and community systems funding needs for each of the diseases.29 
+
+ 
+
+The epidemiology projections in the Investment Framework model are built from 
+assumptions on coverage scale-up reported in 2009-2010 by national programs and build on 
+country-specific estimates to produce projected treatment needs at a global level. 
+
+ 
+
+ 
+
+
+The demand estimates model the resources needed to increase from 2011 levels of coverage 
+to achieve universal access target coverage levels by 2015 and maintain them thereafter.30 
+Universal coverage for ARV therapy is defined as 80 percent of those eligible for treatment 
+given that a proportion of the eligible population are outside of the health system, refuse to 
+take treatment, or cannot take treatment due to other conditions. 
+
+30 Specific coverage targets are provided in the Lancet web appendix. 
+
+ 
+
+The Investment Framework’s targets are ambitious but realistic as they are based on the best 
+available evidence on what works in HIV prevention, treatment, and care and benefit from 
+rigorous, country-by-country analysis. In addition to proposing a clear, achievable roadmap 
+to reach universal access targets, the Investment Framework assumes significant cost 
+savings as a result of market dynamics and changes to more efficient service provision 
+modalities, particularly through community-based approaches. For example, the average 
+cost per patient on first-line ARV therapy is forecast to decline by approximately 65 percent 
+between 2010 and 2020 based on past trends in ARV prices and the possibility of lessexpensive 
+drug combinations and diagnostic tests. Service delivery costs are assumed to 
+decline faster in low-income countries than in middle-income countries as the latter are 
+unlikely to switch to community-based models. 
+
+ 
+
+Information on the unit costs of providing services is based on published literature and four 
+regional workshops on resource needs that engaged experts from 58 countries in 2009. Cost 
+estimates are based on a provider perspective. Figures are expressed in 2009 constant 
+dollars but incorporate inflation-adjusted costs. 
+
+ 
+
+Impact 
+
+ 
+
+The Goals model, developed by the Futures Institute, was used to assess the impact of the 
+selected program activities on the epidemic. The model considers male and females aged 15- 
+49 years divided into six groups: not sexually active, low-risk heterosexual (one partner), 
+medium-risk heterosexual (more than one partner in the last year), high-risk heterosexual 
+(female sex workers and male clients), men who have sex with men, and people who inject 
+drugs. The model includes a component to estimate the effects of prevention interventions 
+on key behaviors based on a summary of the impact literature. 
+
+ 
+
+Goals models had been prepared for 23 high-burden countries, which together account for 
+77 percent of the total HIV burden. Information for this model was updated with the latest 
+coverage information from the national 2010 United Nations General Assembly Special 
+Session (UNGASS) reports and with unit costs from the UNAIDS regional resource needs 
+workshops and AIDS2031 activities. Estimates of new HIV infections and AIDS deaths were 
+extracted for the 23 countries and scaled up to obtain global estimates. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Annex B: Methodology Used for the TB Demand and Impact Estimates 
+
+ 
+
+Resource Needs 
+
+ 
+
+The TB resource needs estimates for the 2014-2016 Global Fund demand forecast were 
+developed by WHO and build upon the Global Plan to Stop TB 2011-15,31 which sets out 
+annual funding needs for three major components of TB care and control: DOTS diagnosis 
+and treatment for drug-susceptible TB; diagnosis and treatment of multidrug-resistant TB; 
+and collaborative TB/HIV activities required to jointly address the TB and HIV epidemics. 
+Key 2015 targets from the Global Plan include: 6.9 million TB cases diagnosed, notified and 
+treated, 100 percent of previously treated TB patients tested for multidrug resistance, 
+20 percent of new TB patients tested for multidrug-resistant TB (equivalent to all those 
+considered at high risk of having multidrug-resistant TB), and 100 percent of TB patients 
+tested for HIV. 
+
+31 The Global Plan to Stop TB 2011-15 is available at: 
+http://www.stoptb.org/assets/documents/global/plan/TB_GlobalPlanToStopTB2011-2015.pdf. The Global Plan’s methodology 
+annex is available at: http://whqlibdoc.who.int/publications/2006/924159487X_eng.pdf 
+
+32 Based on the precedent set in Global Fund’s Round 10 MARPS channel and the policy for targeted funding described in the 
+Eligibility, Counterpart Financing, and Prioritization policy. 
+
+ 
+
+In the Global Plan, multidrug-resistant TB accounted for the biggest increase in resource 
+needs between 2011 and 2015. Since the Global Plan was developed, WHO has endorsed a 
+new rapid diagnostic test (Xpert MTB/RIF) in December 2010; funding needs for Xpert 
+MTB/RIF were not explicitly estimated in the Global Plan. 
+
+ 
+
+The demand forecast is based on the resources needs of countries eligible for TB funding 
+from the Global Fund (118 of the Global Plan’s 149 low- and middle-income countries). Of 
+this subset, 16 upper-middle-income countries are only eligible for targeted funding from the 
+Global Fund. To approximate the request to the Global Fund in these cases, it was suggested 
+that a theoretical ceiling of US$ 2.5 million per year be applied to each of these countries.32 
+However, for each of the targeted countries, once domestic financing was accounted for, the 
+remaining gap was less than this ceiling; therefore no adjustments were necessary in practice. 
+
+ 
+
+To ensure that the demand forecast is based on targets that are ambitious but realistic, a 
+workshop jointly organized by the Global Fund, the Stop TB Partnership and WHO with 
+support from the Bill & Melinda Gates Foundation and USAID was held in January 2013 
+with country teams from nine high TB burden countries representing a mix of income and 
+epidemiological settings. The nine countries were Ethiopia, Kenya, India, Indonesia, 
+Kazakhstan, Nigeria, Pakistan, South Africa and Ukraine; collectively, they account for about 
+60 percent of TB cases and multidrug-resistant TB cases among the 118 countries eligible to 
+apply to the Global Fund. The workshop was used to review and discuss targets for scaling up 
+diagnosis and treatment of TB and multidrug-resistant TB, taking into account the baseline 
+of 2012 and non-financial constraints to scale-up; to define updated targets for 2013–2016 
+where appropriate; and to set out targets and associated funding requirements for 2013-2016, 
+using the WHO TB planning and budgeting tool. 
+
+ 
+
+
+During the workshop, the focus was on three major components of TB care and control for 
+which resources are needed: 1) treatment of multidrug-resistant TB; 2) use of rapid 
+diagnostics to detect TB and drug-resistant TB, and associated laboratory strengthening; and 
+3) resources needed for inpatient and outpatient care during treatment that are not part of 
+TB-specific budgets. The rationale for prioritizing the first two components was that they 
+accounted for the biggest share of the increase in funding requirements between 2011 and 
+2015 estimated in the Global Plan, and that they are the components of the original global 
+estimates for which there was greatest uncertainty in terms of actual country plans for scaleup. 
+The reason for focusing on resources needed for inpatient and outpatient care was that 
+this can represent an important share of the funding needed for TB care, and the workshop 
+was a good opportunity to verify or update information previously reported to WHO. 
+
+ 
+
+Following the workshop, the targets for scaling up detection and treatment for TB and 
+multidrug-resistant TB in the nine countries were summarized and compared with the 
+targets established in the Global Plan to Stop TB, 2011-2015. This showed that: 
+
+. the targets for scaling up detection and treatment of TB were in line with the targets 
+set in the Global Plan; 
+. the targets for scaling up treatment of multidrug-resistant TB reached about 
+80 percent of the 2015 target set in the Global Plan, but in terms of resource needs 
+this was offset by higher estimates of unit costs for multidrug-resistant TB treatment 
+in Africa than initially estimated in the Global Plan. 
+
+
+ 
+
+On this basis, resource needs for treatment of TB and multidrug-resistant TB for the 109 
+remaining countries that are eligible to apply to the Global Fund were based on the countryspecific 
+estimates for 2013–2015 already used for the Global Plan, and then extended to 2016. 
+
+ 
+
+For diagnosis of TB and drug-resistant TB specifically, Global Plan estimates were updated 
+for the remaining 109 countries. These revised estimates were produced by extrapolating 
+from the plans for scaling up the use of rapid diagnostics and associated laboratory 
+strengthening set out by the countries that came to the workshop. Two approaches were 
+explored: a) extrapolation from India, which had the most detailed and well-developed plan 
+among the nine countries that attended the workshop, with suitable adjustments for the 
+relative number of people to be tested; and b) extrapolation for each country by using data 
+from the country among the nine to which it was considered most similar. Both approaches 
+produced similar results. 
+
+ 
+
+All implementation costs from the Global Plan to Stop TB are eligible for Global Fund 
+financing and are included in the forecast. Estimates have been revised to include the scaleup 
+of rapid diagnostics for TB and drug-resistant TB using Xpert MTB/RIF, which was 
+endorsed by WHO in December 2010. For South Africa specifically, the cost of treatment for 
+extreme drug-resistant TB was updated to allow for the use of a newly-approved drug, 
+bedaquiline. Research and development costs are not eligible and are excluded from these 
+estimates. 
+
+ 
+
+
+Health and community systems strengthening costs included in the Global Plan to Stop TB 
+are included in the demand forecast. Examples include the staff, infrastructure and overhead 
+costs associated with providing inpatient and outpatient care for TB patients in general 
+primary care facilities; some renovation/construction of facilities to support the treatment of 
+multidrug-resistant TB and infection control for TB care; training of staff related to TB; and 
+in countries where community-based referral and patient support are part of the national 
+strategy for TB care and control, resources required for community-based care. Health 
+systems costs that are relevant to TB resource needs but not captured in these estimates 
+include building of new health care facilities; training to increase the supply of new health 
+care and community health workers; vital registration that needs to be strengthened in many 
+countries to improve measurement of TB mortality among other causes of death; and 
+infection control in hospital wards or outpatient clinics that are not specific to TB care. It is 
+important to recognize that costs for health and community system strengthening are 
+captured differently in the estimates for each disease. Efforts will continue to build the 
+evidence base on the health and community systems funding needs for each of the diseases.33 
+
+33 Ongoing work on costing community health work needs, and the associated impact on overall costs and effectiveness of 
+disease programs from addressing these funding needs, is one example of the work that the Global Fund will work with partners 
+to incorporate in future forecasts. 
+
+ 
+
+To avoid double-counting HIV/TB costs with those in the HIV demand forecast, partners 
+agreed that resource needs for ARV therapy for HIV-positive TB patients were specifically 
+excluded from the TB estimates, as they are included in the HIV estimates. 
+
+ 
+
+Following the Global Plan approach, the demand estimates are based on provider costs and 
+an "ingredients" approach (intervention quantity multiplied by unit price). Both the 
+estimates drawn directly from the Global Plan and those taken from the workshop are 
+adjusted for inflation at a rate of 3 percent per year. 
+
+ 
+
+Unit costs were sourced from the Global Plan to Stop TB and the TB demand forecast 
+workshop. For the nine countries that participated in the workshop, funding needs are based 
+on the latest information about costs in these countries. For all countries, the funding needs 
+reflect the recently-negotiated (August 2012) unit price for Xpert MTB/RIF cartridges 
+(US$ 9.98, down from around US$ 18 when the technology was first endorsed at the end of 
+2010). 
+
+ 
+
+Impact 
+
+ 
+
+Methods for estimating impact are based on those previously agreed with the Global Fund 
+for the purposes of the Global Fund Strategy 2012–2016 and that have been used in the 
+Global Fund results reports as well as the 2012 WHO Global Tuberculosis Report. 
+
+ 
+
+ 
+
+
+For every 100 patients treated for TB in a DOTS program, it is estimated that 33 lives will be 
+saved. For HIV-negative TB patients, the comparison is with a 70 percent death rate without 
+treatment among new smear-positive pulmonary cases and a death rate of around 20 percent 
+without treatment among people with other types of TB, with an overall death rate of about 
+40 percent. It is assumed that all HIV-positive TB cases would die from TB without TB 
+treatment. For multidrug-resistant TB treatment, it is assumed that for every 100 patients 
+treated, 50 lives will be saved. 
+
+ 
+
+The numbers of patients treated for drug-susceptible TB in DOTS programs and the 
+numbers of patients treated for multidrug-resistant TB are based on a) the targets set out by 
+the nine countries that attended the TB demand forecast workshop; and b) the targets 
+included in the Global Plan for the remaining 109 countries. 
+
+ 
+
+ 
+
+
+Annex C: Methodology Used for the Malaria Demand and Impact 
+Estimates 
+
+ 
+
+Resource Needs 
+
+ 
+
+The malaria resource needs estimates in the Global Fund 2014-2016 demand forecast build 
+on the WHO 2008 Global Malaria Action Plan, which sets out the annual funding required to 
+achieve the 2015 goals of the Roll Back Malaria Partnership.34 WHO and RBM updated these 
+figures through a dual approach: 1) For African countries, RBM’s Harmonization Working 
+Group hosted two workshops where 45 of the 48 Global Fund eligible countries updated 
+their comprehensive programmatic gap analyses for the 2013-2016 period.35 2) For 41 of the 
+56 non-African countries eligible for Global Fund malaria funding, consultants from Results 
+for Development conducted desk research to update the Global Malaria Action Plan figures 
+with available information, including Global Fund proposals and national strategic plans 
+(where available) for 12 countries, including the eight countries with the highest financial 
+need.36 
+
+34 The 2008 Global Malaria Action Plan (GMAP), methodology annex, resource mobilization report, and 2011 targets update are 
+available at: http://www.rbm.who.int/rbmgmap.html. The 2012 World Malaria Report is available at 
+http://www.who.int/malaria/publications/world_malaria_report_2012/en/index.html 
+
+35 Djibouti, Cape Verde and Eritrea were not able to attend either workshop. 
+
+36 The resource needs for 15 countries are relatively minimal and therefore were not costed in this exercise. 
+
+ 
+
+All implementation costs in the Global Malaria Action Plan and programmatic gap analysis 
+are eligible for Global Fund funding. Key costs include vector control (long-lasting 
+insecticidal nets and indoor residual spraying), and case management (diagnostic testing and 
+treatment). To incorporate new approaches and technologies, the estimates take into account 
+the latest resource needs estimates on artemisinin resistance, including financing needs for 
+containing resistance in Mekong countries and resistance testing in Africa. The estimates 
+factor in an additional 30 percent to indoor residual spraying costs to account for more 
+expensive insecticides used in rotation to forestall insecticide resistance. Given the 
+uncertainty on the extent to which the RTS,S vaccine may reach market during this period, 
+resources for a potential vaccine have not been included in these initial estimates. Research 
+and development costs are not eligible for Global Fund funding and are thus excluded from 
+demand forecasts. 
+
+ 
+
+Health and community systems strengthening costs as outlined in the Global Malaria Action 
+Plan are included in the malaria demand forecast. A fixed amount has been estimated for the 
+costs of health staff, infrastructure and overhead costs associated with providing inpatient 
+and outpatient care for malaria patients in health facilities; in-service training of staff related 
+to malaria; and in countries particularly in Africa, the resources required for the rollout and 
+implement integrated community case management. Malaria-related health management 
+information systems support and procurement and supply chain systems financing are also 
+included. It is important to recognize that costs for health and community system 
+strengthening are captured differently in the estimates for each disease. Efforts will continue 
+
+
+to build the evidence base on the health and community systems funding needs for each of 
+the diseases.37 
+
+37 Ongoing work on costing community health work needs, and the associated impact on overall costs and effectiveness of 
+disease programs from addressing these funding needs, is one example of the work that the Global Fund will work with partners 
+to incorporate in future forecasts. 
+
+38 The Global Malaria Action Plan model estimates the need for the major interventions in each country, multiplies by fully 
+loaded unit costs, adds modest amounts for a range of programmatic costs, then scales up coverage to high levels 
+
+39 In Myanmar, Cambodia, Viet Nam, and Thailand, the Global Fund adopted the target populations used in the resistancecontainment 
+costing which were also lower than total population at risk. 
+
+ 
+
+During the workshops, coverage targets were updated for African countries with the latest 
+figures from national plans, taking into consideration absorption constraints. For non- 
+African countries, the basic structure of the Global Malaria Action Plan model38 was retained, 
+with the following adjustments made: 
+
+. Allowed the introduction of country-specific target populations for vector control in place 
+of the Global Malaria Action Plan model’s default target population of all people at any 
+risk of malaria.39 The most important change was that target populations for vector 
+control were reduced for India, Indonesia Pakistan, Bangladesh, and the Philippines to 
+those targeted in their national plans. Changing the target populations for India and 
+Indonesia alone accounted for nearly half of the reduction in vector control costs between 
+the original Global Malaria Action Plan estimates and the revised figures. In all countries 
+where vector control target populations were reduced, total vector control (long-lasting 
+insecticidal nets and indoor residual spraying) coverage levels were increased to 
+100 percent, where these had been lower in the Global Malaria Action Plan, to be 
+consistent with national plans in aiming for high coverage of vector control for smaller, 
+defined, high-risk populations. 
+. Delayed the year in which an assumed decline in incidence begins to reduce the need for 
+diagnosis and treatment from 2012 in the original model until 2014, as scale-up is not 
+complete in most countries. 
+. Reduced the decline in need for diagnosis from fully proportional to decline in incidence 
+to half-proportional. Especially in relatively low-incidence settings, declining malaria 
+incidence will not produce a proportionate fall in fevers requiring diagnosis. Some 
+reduction may eventually occur as more regions are considered malaria-free and routine 
+testing of all fevers is suspended. 
+. Delayed the scale-up of rapid diagnostic test coverage so that it reaches 50 percent only 
+in 2016 in all countries except India (where coverage is estimated at 30 percent in 2016). 
+Coverage of other interventions is assumed to be complete before 2014 (in the original 
+model scale-up occurred between 2009 and 2011). Recent experience in Africa suggests 
+that net coverage can be scaled up rapidly with mass distribution campaigns. But rapid 
+diagnostic test coverage, which is more dependent on the health system, is likely to take 
+longer. 
+
+
+ 
+
+The estimates are based on provider costs and an "ingredients" approach (intervention x unit 
+price). They are adjusted for inflation at a rate of 3 percent per year. 
+
+ 
+
+ 
+
+
+The unit prices used for key commodities and their distribution are as follows: For longlasting 
+insecticidal nets, all countries based their costs on US$ 3.30 per net at the factory 
+gate, plus US$ 2.50 for shipping and distribution, for a fully loaded cost per net of US$ 5.80. 
+For indoor residual spraying, in non-African countries the Global Malaria Action Plan’s 
+US$ 7.75 per household was assumed, except for US$ 5 for countries in the Asia-Pacific 
+region and US$ 3-5 for India and similar countries with a long history of indoor residual 
+spraying, as indoor residual spraying costs vary greatly by country, housing characteristics 
+and other local factors. For African countries, indoor residual spraying unit prices were 
+based on country-specific implementation estimates. For ACTs, costs used for African 
+countries were US$ 0.80 per ACT course, plus US$ 0.20 for distribution. This cost is an 
+average of formulations for different weight bands, but the ratio of child to adult malaria 
+cases is in general much higher in Africa than in the rest of the world. Therefore, for non- 
+African countries the costs used were US$ 1.20 for adult course and US$ 0.60 for course for 
+children under 5. For rapid diagnostic tests, costs of US$ 0.70 per test, plus US$ 0.30 for 
+distribution, were used for African countries. These estimates are based on Pf-only tests, and 
+the combination tests required by most countries outside Africa are more expensive. Based 
+on an analysis of the Global Fund’s Price and Quality Reporting database, it was estimated 
+that recent prices paid for combination rapid diagnostic tests were about 30 percent higher 
+than those paid for Pf-only tests. Therefore, rapid diagnostic test costs for non-African 
+countries were assumed to be US$ 0.90 per test. All commodity costs are considered stable 
+over the three-year period. Other costs for the African countries are based on countryspecific 
+cost estimates. 
+
+ 
+
+Impact 
+
+ 
+
+WHO obtained estimates of the share of households owning at least one long-lasting 
+insecticidal net in 2012 from nationally representative household surveys (DHS, MICS or 
+MIS). If a household survey was not conducted in 2012, estimates of long-lasting insecticidal 
+net coverage were derived using a model developed by Flaxman et al.1 which takes into 
+account results of previous household surveys, the number of long-lasting insecticidal nets 
+procured from manufacturers and the number of long-lasting insecticidal nets distributed by 
+national malaria control programs. 
+
+ 
+
+In order to estimate the total number of lives saved, the number of malaria deaths that would 
+occur without any long-lasting insecticidal nets 2014-2016 was estimated, then the number 
+of malaria deaths that would occur under the funding scenarios (85 percent funding covered 
+and flat funding). The number of lives saved under each funding scenario was then derived 
+by subtraction. 
+
+ 
+
+ 
+
+
+Estimating the number of malaria deaths 2014-2016 with no long-lasting insecticidal nets. 
+
+ 
+
+This was accomplished in two steps: 
+
+1. The number of malaria deaths in 2010 was derived from estimates made in the World 
+Malaria Report 2012.4 The number of deaths assumed to occur if there were no 
+insecticide-treated nets in 2010 was estimated to be: 
+
+
+The estimated impact of long-lasting insecticidal nets for 2014-2016 was derived from the 
+estimate for 2010 and assumed to grow in line with population growth. The formula is as 
+follows: 
+
+ 
+
+D0 = D2006/((1-X2010) + X2010*E) 
+
+Where: D0 = deaths due to malaria in 2010 if no insecticide-treated nets in a 
+country 
+
+D2010 = malaria deaths estimated to occur in a country in 2010 in World 
+Malaria Report 2012 
+
+X = percent of households owning at least one insecticide-treated net, as 
+derived from a model of insecticide-treated net coverage developed by 
+Flaxman et al 
+
+E = effectiveness of owning at least one net in reducing malaria-specific 
+mortality in children under 5 years of age. Assumed to be 55 percent, 
+as derived from a review of randomized control trials by Eisele et al.2 
+(this parameter can be varied in the spreadsheet model). 
+
+ 
+
+2. The number of malaria deaths for years 2014 to 2016 without an insecticide-treated net 
+was derived from the estimate for 2010 and assumed to grow in line with population 
+growth. 
+
+
+ 
+
+Estimating the number of malaria deaths averted 2014-2016. 
+
+ 
+
+The number of malaria deaths averted in each year was derived from the percentage of 
+households with at least one insecticide-treated net as below: 
+
+ 
+
+V = Di * Xi * E 
+
+ 
+
+Where : Vi = Deaths averted in year i 
+
+Di = Deaths due to malaria in year i if no insecticide-treated nets in a 
+country 
+
+Xi = Percentage of household owning at least one net in year i 
+
+E = effectiveness of owning at least one net in reducing malaria specific 
+mortality in children under 5 years of age. 
+
+ 
+
+This assumes that children living in households with nets have the same risk of dying from 
+malaria as children in households that do not receive nets. In practice, nets may be 
+distributed to households with lower prior risks of malaria. 
+
+ 
+
+
+To estimate the potential impact under constrained resources, the following options for 
+prioritization were developed: 
+
+ 
+
+A: No targeting - each country achieves 85 percent coverage. 
+
+ 
+
+B: Nigeria, Democratic Republic of the Congo and Tanzania reduced so that they 
+account for only 7 percent of total insecticide-treated nets each (a budget cap that 
+results in 85 percent coverage overall). 
+
+ 
+
+C: Targeting to highest burden countries – 50 percent coverage in the 27 countries 
+with lowest burden and 100 percent elsewhere (resulting in 85 percent coverage 
+overall). 
+
+ 
+
+As Options A and C depict two extremes of the range (evenly spread across countries vs. 
+highly targeted), the average of the two options was selected to estimate the impact of 85 
+percent resource needs covered. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Annex D: Methodology Used for the Domestic and Non-Global Fund 
+External Financing Estimates 
+
+ 
+
+Domestic financing 
+
+ 
+
+Estimates of the domestic funding in Global Fund-eligible countries that could be mobilized 
+up to 2016 for HIV, TB and malaria were produced in collaboration with Oxford Policy 
+Management and technical partners. These projections are based on a methodology applied 
+to HIV estimates when the HIV investment framework was developed in 2010-2011. 
+
+ 
+
+The projections of domestic funding were based on government funding data (including 
+loans) reported to WHO and UNAIDS. The baseline year used was 2011, since this was the 
+most recent year for which reliable data have been reported. Estimates were imputed for 
+countries where data were not available. All of the projections are expressed in US$ at 
+current prices, which includes inflation. Note that the baseline and, thus, projections for 
+domestic financing for malaria does not include government spending on general health 
+expenditures related to malaria programs. 
+
+ 
+
+Three options were developed to forecast domestic resources for HIV, TB and malaria. In the 
+first, domestic funding was assumed to grow in line with IMF projections of the growth in 
+general government expenditures. 
+
+ 
+
+The second and third options were developed from an observation of the priority that each 
+country gives to the domestic financing of the three diseases. This was expressed in the form 
+of an index of domestic investment priority (DIPI), which scales the level of domestic 
+expenditure by both the overall government budget and by the disease burden for each of the 
+diseases.40 The underlying normative assumption for this approach is that lower-spending 
+countries have the potential to move closer to the average level of spending in other 
+countries. This additional reallocation in the lower-spending countries results in a higher 
+global forecast of domestic expenditure. There is no corresponding adjustment in the 
+currently high-spending countries. 
+
+40 The index was constructed by dividing the actual domestic expenditure by the product of government budget and disease 
+burden per capita. The measures used for disease burden are population prevalence rate for HIV, prevalence rate for TB, and 
+incidence rate for malaria. 
+
+ 
+
+In the second option, domestic funding was assumed to grow in line with IMF projections of 
+the growth in general government expenditures and resources were reallocated such that 
+currently “underperforming” countries reach the median value of the DIPI by 2020. The 
+third option was similar to the second except that “underperforming” countries reach the 75th 
+percentile of the DIPI over the same period. 
+
+ 
+
+For each of the diseases, domestic expenditure projections were capped by the level of 
+estimated resource need in each country to ensure that they would not exceed the resource 
+need within the projection period. 
+
+ 
+
+
+Because expanded financing for the fight against the three diseases cannot be the sole 
+responsibility of external donors, technical partners assumed that an increasing portion of 
+the funding will come from implementing countries. Moreover, domestic funding has 
+increased significantly in recent years and there is currently strong momentum in further 
+domestic resource mobilization. As a result, technical partners settled on the “medium” 
+scenario based on a 50th percentile benchmark, representing ambitious but realistic 
+assumptions that countries will continue efforts to boost domestic financing for HIV, TB and 
+malaria programs. 
+
+ 
+
+Non-Global Fund External Financing 
+
+ 
+
+As the trajectory of external funding sources is often difficult to predict, non-Global Fund 
+external financing is projected to remain constant at 2011 levels except where reliable 
+information is available to forecast a change. 
+
+ 
+
+For TB, non-Global Fund external financing was estimated using data reported to WHO in 
+the last few years combined with specific information about USAID allocations to countries 
+in 2012. USAID is the single largest bilateral donor for TB; data reported to WHO each year 
+suggest that other donor contributions are relatively small. 
+
+ 
+
+For HIV, UNAIDS provided 2011 levels of non-Global Fund external financing for all lowand 
+middle-income countries. 
+
+ 
+
+For malaria, the volume of non-Global Fund external financing in 2011 is estimated from the 
+2012 World Malaria Report. An additional US$ 0.2 billion was included in the annual 
+estimates for 2014-2016 to reflect the increase in DFID funding projected in the World 
+Malaria Report 2012. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

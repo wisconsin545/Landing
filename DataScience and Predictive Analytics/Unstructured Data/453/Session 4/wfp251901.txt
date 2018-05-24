@@ -1,0 +1,4503 @@
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Needs Assessment of Displaced Syrians in Jordan 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+July 2012 
+
+
+Table of Contents 
+
+ 
+1. Executive Summary ....................................................................................................................... 1 
+2. Introduction .................................................................................................................................. 4 
+3. Methodology .................................................................................................................................. 5 
+3.1. Limitations .....................................................................................................................................6 
+4. Coping Strategies, Income and Expenditures ............................................................................. 6 
+4.1. Skills Set ........................................................................................................................................8 
+4.2. Current Income Sources ..................................................................................................................8 
+4.3. Expenditures...................................................................................................................................8 
+4.4. Conclusions ....................................................................................................................................9 
+4.5. Recommendations .........................................................................................................................10 
+5. Food Security ............................................................................................................................... 11 
+5.1. Availability...................................................................................................................................11 
+5.2. Utilization.....................................................................................................................................11 
+5.3. Conclusions ..................................................................................................................................11 
+5.4. Recommendations .........................................................................................................................11 
+6. Health and Reproductive Health ................................................................................................ 12 
+6.1. Main Health Problems ..................................................................................................................12 
+6.2. Mental Health and Psychological Well-being ..............................................................................12 
+6.3. Reproductive Health (RH) ............................................................................................................12 
+6.4. Access to Health Services in Jordan .............................................................................................12 
+6.5. Cost of Health Services .................................................................................................................13 
+6.6. Access to Childhood Vaccination Services ..................................................................................14 
+6.7. Negative Coping Mechanisms Relevant to Health .......................................................................14 
+6.8. Immediate Priorities Relevant to Health .......................................................................................14 
+6.9. Conclusions ..................................................................................................................................15 
+6.10. Recommendations .....................................................................................................................15 
+7. Education ..................................................................................................................................... 16 
+7.1. Key Needs ....................................................................................................................................17 
+7.2. Conclusions ..................................................................................................................................17 
+7.3. Recommendations .........................................................................................................................17 
+8. Youth............................................................................................................................................ 19 
+8.1. Key Needs ....................................................................................................................................19 
+8.2. Recommendations .........................................................................................................................19 
+9. Protection .................................................................................................................................... 20 
+9.1. General protection .........................................................................................................................20 
+9.1.1. Conclusions ...............................................................................................................................20 
+9.1.2. Recommendations .....................................................................................................................21 
+9.2. Women Protection........................................................................................................................21 
+9.3. Child Protection ............................................................................................................................21 
+9.3.1. Early Marriage ...........................................................................................................................22 
+9.3.2. Other forms of violence and exploitation especially against boys ............................................22 
+9.3.3. Unaccompanied or separated children ......................................................................................23 
+9.3.4. Conclusion ................................................................................................................................23 
+9.3.5. Recommendations .....................................................................................................................23 
+9.4. Domestic Violence ........................................................................................................................24 
+9.3.6. Conclusions ...............................................................................................................................24 
+9.3.7. Recommendations .....................................................................................................................24 
+10. Gaps and Immediate Needs .................................................................................................... 25 
+10.1. Syrians between 13 and 24 years ..............................................................................................25 
+10.2. Females .....................................................................................................................................25 
+10.3. Males (25 - 60) ..........................................................................................................................26 
+10.4. Males over 60 years old .............................................................................................................26 
+10.5. Females over 60 years old .........................................................................................................27 
+10.6. Conclusions ...............................................................................................................................27 
+10.7. Recommendations .....................................................................................................................27 
+11. Support and Assistance ........................................................................................................... 28 
+11.1. Male participants (13-24) ..........................................................................................................28 
+11.2. Female Participants (13-24) ......................................................................................................28 
+11.3. Male Participants (25-60) ..........................................................................................................28 
+11.4. Female Participants (25-60) ......................................................................................................28 
+11.5. Males Over 60 Years Old ..........................................................................................................29 
+11.6. Conclusions ...............................................................................................................................29 
+11.7. Recommendations .....................................................................................................................29 
+12. Annexes .................................................................................................................................... 30 
+12.1. Annex 1 Impact Hosting Syrians in Jordan - June 2012 ...........................................................30 
+12.2. Annex 2 Assessment Taskforce ................................................................................................35 
+12.3. Annex 3 Technical Recommendations ......................................................................................37 
+12.4. Annex 4 Concept Note .............................................................................................................50 
+12.5. Annex 5 Questionnaires ............................................................................................................52 
+
+
+ 
+
+ 
+
+
+ 
+
+ACKNOWLEDGEMENTS 
+
+ 
+
+This report is the product of a meeting between The Ministry of Planning and International 
+Cooperation (MOPIC) and the United Nations team regarding displaced Syrians in Jordan. In light of the 
+discussions, UN Agencies proposed that an assessment be carried out to assess the overall situation, along 
+with the humanitarian needs and coping mechanisms of Syrians in Jordan, and to provide a framework for 
+relief interventions. MOPIC and the UN are thankful to the Syrians in Jordan for the time they devoted to 
+the mission team to explain the situation and constraints they face in their daily life. The field mission 
+members had the opportunity to have extensive discussions with Syrian representatives and would like to 
+express their gratitude for the frank and productive exchange of views. 
+
+ 
+
+Our appreciation also goes to the Government of the Hashemite Kingdom of Jordan for its support of 
+the mission. Special thanks are extended to the staff in MOPIC and Department of Statistics (DOS), who 
+provided the team with the opportunity to better understand the situation, as well as the staff of many 
+NGOs who openly shared with us their experiences, achievements and operational issues of concern. The 
+members of the mission highly appreciated the hard work of the Jordan Hashemite Charity Organization 
+(JHCO), who made arrangements for the mission members to make extensive visits and mobilized its 
+staff to facilitate interviews and to allow mission members to have rich exchanges with persons of 
+concern (POCs). 
+
+ 
+
+Last but not least, many thanks go to our colleagues in UNHCR, WHO, UNICEF, UNFPA, 
+UNESCO, and WFP offices in Jordan, as without their support, preparation of the visits, sharing of 
+background documents and providing technical advice, this mission wouldn’t be carried out. 
+
+ 
+
+C:\Users\feda.g\Desktop\rapid Needs Assessment\Results\SANY2645.JPG 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Assessment Team, Jordan July 2012 
+
+
+1. EXECUTIVE SUMMARY 
+
+ 
+
+From March 2011 till June 2012, according to Government estimates, more than 120,000 Syrians 
+moved and stayed in Jordan as a result of the unrest. The fact that Jordan has left its borders open to 
+Syrians and is known for its favourable protection climate has further augmented the number of arrivals. 
+Many Syrians arrived already destitute, having had to deplete their resources while still in Syria. Unlike 
+Iraqis who are concentrated in the capital Amman, Syrians have scattered throughout Jordan, with the 
+largest concentrations in the border districts (Irbid and Mafraq) as well as Amman, Zarqa, Karak and 
+Ma’an. 
+
+ 
+
+Following consultations between the Government of Jordan (GOJ- represented by the Ministry of 
+Planning and International Cooperation- MOPIC, and the Department of Statistics- DOS), the Jordan 
+Hashemite Charity Organization (JHCO), and UN agencies, it was agreed to carry out a needs assessment 
+of the Syrian population in Jordan (those that arrived as a result of the unrest) with the following goals: 
+
+ 
+
+1) To obtain a holistic overview of the situation of Syrians in Jordan. 
+2) To identify the humanitarian needs of Syrians and prioritize them. 
+3) To understand the coping mechanisms of Syrians in Jordan. 
+4) To provide a framework for immediate relief interventions. 
+
+
+ 
+
+For this purpose, a Task Force was established consisting of MOPIC, Ministry of Health (MOH), 
+Ministry of Education (MOE), DOS, JHCO, UNESCO, UNFPA, UNHCR, UNICEF, WFP and WHO. 
+The Task Force agreed on methodology (Participatory Assessment), sectors (coping strategies, income 
+and expenditure, food security, health and reproductive health, education and protection) and 
+geographical coverage (Amman, Mafraq, Ramtha, Irbid and Zarqa) of the needs assessment. 
+
+ 
+
+The participatory assessment methodology consisted of focus group interviews, which were 
+conducted with over 300 persons of concern (POCs) grouped by age (youth, adult and elderly) and 
+gender, as well as interviews with key informants, i.e. individuals close to the community such as 
+government officials. 
+
+ 
+
+Results can be summarized as follows: 
+
+ 
+
+. Coping mechanisms/ income/ expenditures/ food 
+
+
+ 
+
+A large proportion of Syrians (over 55% of adult males interviewed) are skilled labourers. Among 
+the unskilled labourers many worked in agriculture (e.g. seasonal workers who stayed in Jordan because 
+of the unrest in Syria); others were employees in private and public sectors in Syria. 
+
+ 
+
+In Jordan employment opportunities are limited, for non-Jordanians as well as Jordanians, in 
+particular in poorer governorates, indicating the need for support to host communities. In the agricultural 
+sector, because of the much larger numbers of Syrians as compared to previous years, as a result of the 
+fact that many seasonal workers have decided to stay in Jordan instead of returning to Syria, supply of 
+labour outstrips demand. One (negative) coping mechanism is to engage minors in labour, as it seems 
+easier for minors to find work due to the fact that they typically work in the informal sector where a 
+work-permit is not required. Main expenditures are on rent, food and health; and milk and diapers for 
+families with children under 3 years old. Most of the Syrians are in debt and dependent on food parcels 
+and financial assistance provided to them by different non-governmental organizations or individuals. 
+Some Syrians sell the food parcels as its content does not match their diet, to secure some cash. 
+
+ 
+
+
+. Health 
+
+
+ 
+
+The main health problems among Syrians in Jordan are acute respiratory conditions followed by 
+chronic diseases (such as hypertension and diabetes). Children in particular suffer depression and 
+emotional distress. Syrians can access public health facilities that are highly subsidised but not all the 
+needed services are available. Furthermore, not all Syrians are aware that they can access these services. 
+As a result some turn to the private health sector. Syrians also reported a lack of awareness of the fact that 
+vaccines are free to all children under five years old. Health services are heavily subsidized by the 
+Government, and more than 9% of the public budget is allocated for the health sector. Hosting Syrians 
+and allowing them to have access to public health services free of charge will increase the burden on the 
+budget. 
+
+ 
+
+. Education 
+
+
+ 
+
+In spite of the high number of school-age Syrians who fled to Jordan, and also despite the fact that 
+the Government of Jordan has allowed the Syrians to register free of charge in public schools, the focus 
+group discussions revealed a worrying number of children who were not attending schools. Syrians seem 
+to lack awareness of available public education services. Enrolment in secondary education seemed to be 
+lower than in primary level since a proportion of adolescents (12-18) seem to work to meet the basic 
+needs of their families. The number of Syrian students enrolled at public schools for the current academic 
+year reached 7,376. The increasing number of students requires additional funding to enable the 
+Government to absorb them and maintain a good quality of education. 
+
+ 
+
+. Protection 
+
+
+ 
+
+Majority of Syrians feel safe in Jordan but there is an overall lack of information about UNHCR and 
+its mandate, which provides fertile soil for rumours. E.g. Syrians think that UNHCR will share their 
+profiles with the Syrian government and that if they register with the organization, they cannot exercise 
+their right of voluntary repatriation. In addition, the majority of Syrians believe that the services provided 
+by the UNHCR are inadequate and do not encourage registration. Moreover, since the government of 
+Jordan is hosting them with generosity they do not consider protection against non-refoulement a reason 
+to register. The location of UNHCR registration premises in Amman is another obstacle to registration 
+even for Syrians who are residing in Amman. This perception may have now changed with record 
+numbers of Syrians approaching the Agency to register during May and June. 
+
+ 
+
+In general, children reported feeling safe and protected in Jordan however a few child protection risks 
+were identified including child labour. As far as women are concerned, there is a general sense of feeling 
+safe and protected in Jordan. Cases of sexual violence and rape while in Syria were reported. The victims 
+suffer trauma and are in need of health care and psychosocial support along with further follow up. Of 
+concern is the phenomenon that Syrian women justify being victims of domestic violence perpetrated by 
+male relatives given the pressures they are facing in Jordan. Single young females appear to be under 
+additional pressure from the family, and at times under pressure to enter into early marriage with 
+Jordanians, as a way to support and protect the whole family. 
+
+ 
+
+. Gaps and needs/ support and assistance 
+
+
+ 
+
+Syrians in Jordan benefit from a number of items and commodities that are subsidized by the 
+Government in order to ease the burden on citizens in the country. Among the subsidized items are bread, 
+cooking gas cylinder, electricity, and water. Receiving 120 thousand Syrians requires an increase in the 
+allocations to subsidize the commodities and items which are considered as basic needs for the 
+population. The main priorities in all age groups regardless of gender were the related needs of rent and 
+income. Short of unhindered access to the labour market, there emerged a clear preference for cash 
+assistance over food and in-kind distribution, the latter often being seen as low quality, not corresponding 
+to dietary habits and humiliating, especially when distribution takes place in public. In general, the 
+Government of Jordan needs support in dealing with a predominantly urban caseload, with concomitant 
+
+
+pressure on public services such as water, electricity, health and education, and subsidised commodities. 
+Annex 1 shows the estimated cost of hosting Syrian refugees according to the Government of Jordan. 
+
+ 
+
+ 
+
+
+2. INTRODUCTION 
+
+ 
+
+Since March 2011, violence in Syria, notably in the cities of Homs, Dara’a, Douma and Hama has 
+been on-going. The violence has caused a deterioration of humanitarian conditions in parts of the country. 
+On the Syrian side of the border with Jordan, citizens of Dara’a have been living in extremely precarious 
+conditions with little water, electricity, fuel and scarce food items. Large numbers of rural people in the 
+central, coastal, eastern and southern governorates have reported that they have lost their businesses, 
+farms and/or livestock due to the on-going crisis as they have not been able to engage in commercial or 
+farming activity. High transportation costs, movement restrictions, and increasing commodity prices have 
+all adversely affected the farming industry as well. Agriculture in these areas was also reliant on seasonal 
+migrant farm labourers from eastern and north-eastern Syria who have been forced back home to drought-
+affected areas. Lacking income-earning opportunities, the affected population depleted their assets and 
+savings. In addition, hundreds of women-headed households have lost their only available source of 
+family income. 
+
+ 
+
+Jordan has maintained an open borders policy with Syrians crossing into Jordan and seeking asylum 
+and as a result, more than 120,000 Syrians crossed the borders since March 2011. At the time of writing 
+this report, UNHCR registered over 20,000 Syrians and this number is increasing rapidly, UNHCR 
+estimates that it will continue to register some 5,000 to 7,000 Syrians in Jordan per month for the 
+foreseeable future. This could even be increased further subject to Government approval of off-site 
+registration. 
+
+ 
+
+Based on a proposal by the UN Agencies, to the Government of Jordan (GoJ) represented by the 
+Ministry of Planning and International Cooperation, and the Department of Statistics, along with the 
+Jordanian Hashemite Charity Organization, agreed for an assessment with the following goals: 
+
+ 
+
+1) To obtain a holistic overview on the Syrians’ situation in Jordan. 
+2) To identify the humanitarian needs of Syrians and prioritize them. 
+3) To understand the coping mechanisms of Syrians in Jordan. 
+4) To provide a framework for immediate relief interventions. 
+
+
+ 
+
+For this purpose, an assessment Task Force was established, consisting of MOPIC, DOS, MOH, 
+MOE, JHCO, UNHCR, WHO, UNICEF, UNFPA, UNESCO and WFP. During a number of meetings the 
+Task Force agreed on methodology (Participatory Assessment- see below) sectors (coping strategies, 
+income and expenditure, food security, health and reproductive health, education and protection) and 
+geographical coverage (Amman, Mafraq, Ramtha, Irbid and Zarqa). 
+
+ 
+
+Followed by a brief explanation of the methodology and modalities applied, this report summarizes 
+the outcome of the rapid needs assessment for the various sectors. The reporting is exclusively based on 
+comprehensive information received from POCs in confidential settings, in their own words. As such, the 
+report does not intend to publish the information received, although it does include recommendations. 
+
+ 
+
+ 
+
+
+3. METHODOLOGY 
+
+ 
+
+The Participatory Assessment is an active “research” involving participation of all concerned 
+stakeholders through structured dialogue, in order to gather accurate information on the specific 
+protection risks Syrians face and the underlying causes, to understand their coping capacities, and to hear 
+their proposed solutions. This tool has been found to be extremely beneficial in ensuring that men, 
+women and children regardless of their backgrounds are given the opportunity to identify their priorities, 
+opinions and solutions while enhancing both the knowledge base and partnerships with persons of 
+concern. 
+
+ 
+
+The main tool of the Participatory Assessment is the Semi-Structured Interviews; applied in focus 
+group discussions on a few key topics with groups separated by age and gender, and more in depth key 
+informant interviews with persons directly engaged in the situation and possessing valuable first-hand 
+knowledge, including community leaders and Government officials. 
+
+ 
+
+This process results in detailed, qualitative information in relation to specific topics and allows for an 
+initial analysis of the challenges faced by women, girls, men and boys in the community. It is also an 
+opportunity to gather insights into cultural practices, traditional protection mechanisms, and other issues 
+which maybe affecting community members. 
+
+ 
+
+The Task Force developed two check lists to structure focus group discussions and key informants 
+interviews around key questions regarding protection, access to health and education, child labor, 
+economic conditions and livelihoods, dynamics of co-existence, sense of community and future plans. 
+
+ 
+
+UNHCR and WFP conducted a two day training workshop for the joint UN and DOS teams who 
+carried out the participatory assessments in the field. The workshop was conducted in Arabic to facilitate 
+the 27 partricipants, 14 of whom represented DOS and 13 represented the participating UN Agencies. The 
+workshop was organized at the DOS offices on the 27th and 28th of March. It covered the concept of 
+participation, levels of participation, semi-structured interviews, with special emphasis on the focus 
+groups discussion and the key informant interviews. This training was followed by five days of field work 
+in Amman, Mafraq, Ramtha, Irbid and Zarqa, respectively. The sampling process and the areas were 
+identified according to the data on the distribution of Syrian families provided by the JHCO. 
+
+ 
+
+ 
+
+Map 1: Syrian 
+Households 
+Distribution in Jordan 
+According to 
+Governorates, 2012 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source: Jordan Hashemite Charity Organization 1022 
+
+
+ 
+
+The focus group discussions were conducted separately with women and men, grouped into three 
+age/sex groups: youth females, youth males, adult females, adult males, elderly females, and elderly 
+males (see Table 1). 
+
+ 
+
+A total of 24 focus group discussions were conducted, along with seven key informant interviews 
+with Governors, heads of community based organizations and the heads of health and education 
+Departments at the governorate level. 
+
+ 
+
+Table 
+1
+: 
+The focus group discussions 
+per age 
+
+
+Age Group 
+Governorate 
+
+Amman 
+
+Mafraq 
+
+Ramtha 
+
+Irbid 
+
+Zarqa 
+
+Total 
+
+Male>60 
+
+0 
+
+0 
+
+20 
+
+7 
+
+0 
+
+27 
+
+Female >60 
+
+0 
+
+0 
+
+6 
+
+8 
+
+4 
+
+18 
+
+Male 25 - 60 
+
+25 
+
+15 
+
+20 
+
+18 
+
+22 
+
+100 
+
+Female 25 - 60 
+
+23 
+
+22 
+
+31 
+
+12 
+
+14 
+
+102 
+
+Male 13 - 24 
+
+12 
+
+10 
+
+15 
+
+11 
+
+7 
+
+55 
+
+Female 13 - 24 
+
+9 
+
+12 
+
+20 
+
+8 
+
+13 
+
+62 
+
+Total 
+
+69 
+
+59 
+
+112 
+
+64 
+
+60 
+
+364 
+
+
+
+3.1. Limitations 
+
+ 
+
+A relatively small sample was surveyed. The problem of willingness to answer certain questions was 
+partially addressed by using experienced and trained staff. This was a qualitative assessment and 
+empirical data was not collected. Based on the results of this assessment, a household assessment could 
+be designed and implemented to generate statistics on demography, coping strategies, incomes and 
+expenditures, and food. 
+
+ 
+
+4. COPING STRATEGIES, INCOME AND EXPENDITURES 
+
+ 
+
+Syrians who have recently arrived in Jordan stay in 
+low cost rental apartments or live with host families 
+under difficult circumstances. They take up whatever 
+employment is available, which is often unskilled and on 
+a day by day basis but the majority remain without a 
+source of income. Due to the fact that unemployment rate 
+is high in Jordan (12.9% in 2011), it is difficult for men 
+who are most in need of employment to have job 
+opportunities and are unable to afford the cost of work 
+permits for jobs that are open to non-Jordanians. One 
+coping strategy adopted by families is to engage children 
+in income generation by working as painters, in garments 
+shops, agriculture and even the steel industry. Women 
+work as/for tailors and in beauty salons. If all else fails, a 
+final coping strategy would be to return to Syria. For 
+many Syrians however, in particular those who crossed 
+the border illegally, returning home is not an option. Lack 
+of income sources for these families is a serious concern for families and the local administrators. 
+
+Top five expenditures (four out of five 
+subsidized by the Government): 
+
+1- House rent 
+2- Water and electricity bills 
+3- Food 
+4- Health 
+5- Education and transport (same level) 
+
+
+Top five Coping means 
+
+1. Selling Assets 
+2. Reducing amount and frequency of 
+meals or type of foods 
+3. Avoiding getting needed medical 
+treatment due to lack of money 
+4. Debts 
+5. Stopped sending children to school 
+
+
+Source: Joint Assessment GoJ/UN May2012 
+
+ 
+
+
+Charities have been the mainstay providers of the support received by the Syrians. In addition, a large 
+percentage of aid is provided by Jordanian individuals and committees that complement what the charity 
+organizations are providing. Currently, the reasons of the charity organizations are running out and 
+therefore require external support and funding. Most families interviewed were in debt and only have 
+access to small loans as they lack collateral. Most families have changed their diets to less expensive 
+foods, reducing the intake of meat, fish, chicken and dairy products, including milk for children. Some 
+rural families brought preserved food (from their farms) with them from Syria. However, these are 
+exceptions and in general, the Syrians rely on local markets for their food needs. 
+
+ 
+
+The Government of Jordan has provided access for Syrians to public health services free of charge, 
+which is causing extra burden on the budget and the quality of services. Women who are not aware of the 
+fact that reproductive and child health services are for free in public health centers have reported avoiding 
+visits to doctors in order to limit expenses, which is having a negative effect on health, particularly 
+children. Some families have chosen not to send children to school while others have pulled children out 
+of school because they could not meet the expenses despite the fact that the Government exempts them 
+from school fees and text books. These children often end up working to add to the meager family 
+incomes. 
+
+ 
+
+Rents in Jordan are high and JHCO through its local partner Al-KitabwalSunnah (KAS) pays about 
+US$141 to US$170 for simple housing that could accommodate a small family. 
+
+ 
+
+Utilities costs vary and are averaged as being around US$70 per month. As low rent accommodations 
+are sought, Syrians have to pay for all utilities, such as electricity, water and cooking gas. These items, 
+although subsidized by the government, are expensive in Jordan. It must be noted that the current 
+arrangements are unsustainable and there must be a more coherent approach to meet the accommodation 
+needs. The situation regarding food is similar, while there are currently several channels providing food 
+parcels or cash for food, these are ad hoc arrangements totally dependent on availability. 
+
+ 
+
+ 
+
+Figure 
+1
+: The main source of income before coming to 
+Jordan 
+
+
+ 
+
+Syrians have expressed a sense of ambiguity 
+in terms of aid from humanitarian agencies. 
+They are not aware of their entitlements and the 
+procedures through which aid could be received. 
+Moreover they are not informed about the 
+continuity of such assistance. A coherent 
+approach to humanitarian aid delivery is 
+required to avoid cases being excluded from 
+assistance provided by NGOs and UN agencies. 
+Families were under financial stress for at least a 
+whole year prior to their crossing the border. 
+Therefore, their capacity to liquidate assets and 
+bring money to Jordan was very limited. Some 
+had to pay their way out of Syria. As a result 
+most arrived with little assets and cash. The cost 
+of living in Jordan is almost twice of that in Syria. Consequently, most families depleted their reserves in 
+the first three months of their arrival. 
+
+Source: Joint Assessment GoJ/UN May2012 
+
+ 
+
+Tanked water is expensive with about a monthly expense of US$42 for drinking andUS$21 for 
+washing. Water shortage has become of permanent nature in Jordan and meeting water demands is a 
+critical challenge. Jordan has reached a water crisis juncture that is expected to deepen; as present water 
+use already exceeds the renewable freshwater resources by more than 20%. Jordanian's share of fresh 
+water per year at less than 145 cubic meters, compared to global poverty line of water of 500 cubic meters 
+while the world average is 4,000 cubic meters, which places serious constraints on the country’s overall 
+development process. The Government of Jordan maintains high levels of subsidies in water sector and 
+the public water services that are provided by the Water Authority of Jordan. 
+
+ 
+
+
+Apart from rent, the most important recurring cost is food, estimated to be around US$352 for a 
+small family (two adults, two children). Many families have arrived with family members injured in the 
+conflict, these injuries are of serious nature and require high quality medical treatment and care. 
+
+ 
+
+Most Syrians have come with children. The GoJ estimates, that as of end of May, 7376 Syrian 
+children are enrolled in local schools. The GoJ’s school feeding program is already constrained due to 
+budgetary constraints. Budget reduction has resulted in a decrease of school meals for 700,000 to only 
+150,000 students. Consequently, several schools have withdrawn their meal program. There is a need to 
+provide urgent budget support to the Government to be able to re-instate meal programs at schools for 
+students. 
+
+4.1. Skills Set 
+
+A large group of Syrians consists of skilled laborers. These include machine operators, computer and 
+mobile phone technicians, tile workers, steel workers, carpenters, painters, masons, electricians, etc. 
+Amongst the unskilled laborers, most worked in the construction industry, in grocery shops, as farm 
+laborers, office messengers, drivers, etc. Some owned private businesses (restaurant, stores) while others 
+worked for the government. Syrian skilled laborers are more likely to find work in the urban sector. 
+Syrians with a background in tiling have settled in Zarqa and seem to have found income sources due to 
+their skills background. 
+
+ 
+
+Casual laborers- in construction- have also settled in urban areas. Seasonal male laborers from Syria 
+traditionally come to Jordan to work in agriculture, e.g. as olive pickers. This group of men would 
+normally return to their villages across the border after the harvest season. However, due to the conflict, 
+many have stayed and some have moved their families to Jordan. 
+
+ 
+
+With the huge number of arrivals, the seasonal employment opportunities have become limited, and 
+many seek employment beyond the harvest season. 
+
+ 
+
+Many Syrians live in rural areas in the poorer governorates of Jordan. These governorates include the 
+“poverty pockets” as defined by the GoJ, with some governorates recording over 20% unemployment 
+rate. Programming for the POCs must consider inclusion of the host communities as, failing to do so 
+could result in animosity from the local community and loss of local support. 
+
+4.2. Current Income Sources 
+
+Labor opportunities are very limited. A casual labor could earn US$21 per day, with many earning 
+far less. However, only 12% of those registered with KAS indicated having stable incomes. Jordanian 
+employment laws are strictly enforced. A work permit, mandatory for Syrian workers, costs US$388. 
+This fee is beyond the capacity of the Syrians and seldom paid by the employer. Consequently, finding 
+legal employment is a challenge. As time passes, local donations dwindle, savings are exhausted and 
+negative coping strategies may set in. These could vary from working without a permit to more serious 
+offenses such as theft, prostitution, etc. Hence, for Syrians who may obtain work permits in areas open 
+for non-Jordanian, noting that due to high levels of unemployment (12.9%) the Government has narrow 
+areas of work for non-Jordanian labor. 
+
+ 
+
+Based on their skill sets and experience, Syrians have sought work in Jordan in their respective fields. 
+
+ 
+
+In general, education and skill levels of Syrians in Jordan are lower than Iraqis. This distinction 
+should have a bearing on the response for these Syrians and must be considered carefully while adapting 
+response programs. 
+
+4.3. Expenditures 
+
+The main expenditures are on house rent, food, medical expenses, milk, diapers for babies and 
+sanitation. Utilities costs vary and averaged around US$70 per month. Aid parcels from charity 
+
+
+organizations do not contain baby diapers and powdered milk. Consequently, Syrians incur debt to meet 
+their needs which results in an additional burden on the families with children. 
+
+ 
+
+According to the Government officials, the main needs are house rent and food. According to the 
+focus group participants, Syrians have reduced their food quantities and qualities in order to cope with 
+their restricted incomes. Markets have the food commodities but the Syrians lack the purchasing power. 
+
+ 
+
+Subsidized items such as Gas and kerosene are available for cooking and heating, but Syrians are not 
+used to kerosene and its improper use is causing health problems for children. 
+
+ 
+
+The majority of Syrians interviewed are staying in rented houses, and pay monthly between US$100-
+380, for furnished houses between - US$282-495.Part of the rent in some cases is covered by local NGOs, 
+provided that a copy of the rental contract is handed to the organization which is problematic for families 
+staying with other families since they do not have a contract. Some are staying with Jordanian families 
+and Syrian families permanently residing in Jordan. 
+
+ 
+
+Electricity and water services are available and heavily subsidized by the Government but present an 
+additional cost to the rental fees and are not covered by charity organizations. 
+
+ 
+
+Some Syrians are staying in houses for free, but the conditions are poor. In many cases more than 
+one family lives in the same house under difficult conditions. Sometimes it is hard to find houses for 
+rent, especially for single young men with no source of income. 
+
+ 
+
+Furthermore, to alleviate their psychosocial stress, Syrians communicate with their families by phone 
+in Syria which increases the burden on their expenses. 
+
+4.4. Conclusions 
+
+1) Hosting thousands of Syrians in Jordan causes more pressure on the Kingdom’s already scarce 
+resources, particularly in the sectors of water, energy, health, and education, which requires 
+additional public spending to maintain the current quality of services in these key sectors. It also 
+requires an increase in the allocations to subsidize the commodities and items which are considered 
+as basic needs for the population. 
+2) Moreover, hosting a large number of displaced people in the country has indirect costs as well, 
+including: depletion of resources, competition with Jordanian youth on limited job opportunities, 
+and expansion of the informal sector in addition to other social effects. Jordan today provides free 
+public education, health services, subsidized water, electricity and household gas, in addition to 
+subsidized bread, as well as basic commodities to all the Syrians on its territory helping the most 
+vulnerable make ends meet. 
+3) In poorer governorates, employment for locals is also limited and competition from unskilled 
+Syrians creates social problems (host communities also need support). 
+4) Rent, food and health are vital needs, which require a coherent mechanism of targeting and 
+delivery. 
+5) Employment opportunities are limited and work permits unaffordable. 
+6) Children are engaged in income generation instead of schooling. 
+7) The primary sources of income for most Syrian families prior to fleeing to Jordan were: manual 
+daily work, farming or employment in private and public sectors. This was also confirmed by 
+different key informants during interviews conducted in Amman, Ramtha, Irbid, Zarqa and Mafraq. 
+For instance, the Governors in Ramtha and Mafraq confirmed that some Syrians used to work in 
+Jordan in some professions prior to the crisis in Syria such as farming. 
+8) Most of the Syrians are dependent on food parcels and financial assistance provided to them by 
+different non-governmental organizations or individuals. 
+
+
+
+9) Local charity and support is being exhausted by the large number of Syrians. 
+10) Some Syrians sell the food parcels as its content does not match their diet, to secure some 
+cash. 
+11) A big portion of Syrians mentioned that bottled water and tanks are unaffordable. The 
+medical needs are a concern for most Syrians in the different age groups. 
+12) Syrians of all different age groups do not have savings. Most Syrians are in debt, with only 
+one group, females over 60 years old, confirming that they are not. This information was also 
+confirmed by the Governor of Ramtha and the key informant in Amman. 
+
+
+4.5. Recommendations 
+
+13) The international community should provide support to the government of Jordan to be able 
+to continue subsidizing the basic needs and commodities and providing the services needed for all 
+i.e. education, health, energy, and others. This will help the Government to give Syrians access to 
+the Jordanian medical services and continue providing access to Syrian children to its public 
+schools. 
+14) To consider the possibility of providing monthly cash assistance to vulnerable Syrians in 
+Jordan according to criteria agreed upon with the Government. Financial assistance is considered a 
+main protection tool which avoids opting for illegal work, exposure to exploitation and other 
+negative coping mechanisms. The financial assistance seeks to protect Syrians’ dignity since the 
+assistance can be based on their needs which they themselves prioritize and it can be brought to 
+them- through ATM cards- in a more dignified manner than in-kind assistance. 
+15) Were cash assistance is not appropriate, a voucher system could be considered. 
+16) Programmes that engage affected local populations should be introduced to provide incomes 
+and to create assets in rural areas of Jordan. 
+17) Implement information sharing and coordination of programs among UN agencies. 
+18) Training and awareness raising of local NGOs and governorates’ staff. 
+19) Provide assistance directly to the Government to continue with and expand the school feeding 
+program in public schools. 
+
+
+ 
+
+
+5. FOOD SECURITY 
+
+5.1. Availability 
+
+Food is readily and abundantly available in the Jordanian markets. Areas near the Syrian border also 
+stock food produced from Syrian farms. The Syrian population, in comparison to the local population, is 
+relatively small but if the increased demand is not met with sufficient supply on a timely basis, this would 
+have an inflationary impact on food prices. It is estimated that less than 5% of the Syrians stay in rural 
+areas, and the majority live in close proximately to urban markets with a full variety of food items on 
+sale. 
+
+5.2. Utilization 
+
+Most Syrians have taken shelter in low cost urban dwellings or live with host families under difficult 
+circumstances. Facilities for storing, cooking and preserving food are often absent or of low quality. This 
+impacts the utilization aspect of food security. Most families have reported a drastic change in their food 
+consumption behavior. Meat, chicken and fish have been omitted for most families. Fruits and milk for 
+children is limited due to the high cost. These modified diets may provide the caloric requirements but 
+would have long term impacts unless supplemented with adequate micro-nutrients. 
+
+5.3. Conclusions 
+
+As earlier mentioned food is one of a number of vital needs, which requires a coherent mechanism of 
+targeting and delivery, and support to the Government is important to continue subsidizing bread and 
+indirectly local meat products. 
+
+5.4. Recommendations 
+
+1) Donors should support the budget to enable the Government continue subsidizing basic 
+commodities and items. 
+2) Food assistance for vulnerable Syrians, in coordination with cash distribution should be provided. 
+3) Implement a robust monitoring system for food needs and food utilization. 
+4) Explore possibilities of CFW/Voucher schemes, bearing in mind the cash assistance provided 
+through ATM card to be rolled out for Syrians upon approval of the Government on the criteria and 
+distribution mechanism. 
+5) Advocacy of special distribution during Ramadan. 
+
+
+ 
+
+ 
+
+
+ 
+
+6. HEALTH AND REPRODUCTIVE HEALTH 
+
+6.1. Main Health Problems 
+
+Nearly all Focus Groups reported that they suffer from acute respiratory infections / cough and cold 
+and allergies (also of the respiratory tract), which is expected due to the winter season, over-crowding and 
+to indoor pollution resulting from gasoline heaters. Diarrheal diseases were reported by one group only. 
+Many explained their complaints by the damp premises and inadequate water quality. 
+
+ 
+
+Other conditions reported were chronic diseases, mainly hypertension and diabetes mellitus, but also 
+cardiac, renal, joint / bone problems and problems of the gastro-intestinal tract (colonic complaints). 
+Cases in need of long-term care find it difficult to access adequate health care in Jordan and some cases 
+develop complications as a result (e.g. chronic renal failure). Gynecologic complaints were also reported, 
+in addition to pediatric illnesses, dental and ophthalmic complaints 
+
+ 
+
+Key informants have indicated that diabetes and hypertension are among the problems faced by 
+Syrians in addition to cardiac conditions and renal failure. Injuries and exhaustion during their movement 
+from Syria to Jordan were also mentioned. 
+
+6.2. Mental Health and Psychological Well-being 
+
+Mental illnesses and complaints were reported by nearly all focus groups. Children in particular were 
+reported to be experiencing symptoms of depression and emotional distress. Things that would make 
+other children happy such as fireworks were triggering their fears because they reminded them of 
+explosions back home. Children are showing isolation, are using escape mechanisms, and are 
+experiencing enuresis (bedwetting) and crying attacks. 
+
+ 
+
+Young men indicated that they suffer mental problems and disturbances resulting from the events in 
+Syria. Some have become aggressive and behave erratically. Adults are also suffering depression and 
+fear, especially women. One female victim of torture was raped in Syria, and currently suffers the mental, 
+physical (enuresis) and social (divorced) consequences of the event. There are reports of panic attacks, 
+increased tension, emotional distress and fear of the future. 
+
+ 
+
+Key informants have referred to mental problems as present among Syrians. However, they had no 
+accurate information on their prevalence, types or severity. 
+
+6.3. Reproductive Health (RH) 
+
+In general, responses from FGD participants (all males, and women over 60 years) were not 
+informative as they considered this as a matter for young females that they were not aware of. All other 
+women groups indicated that they seek RH services mainly for oral contraceptive pills, condoms and for 
+antenatal care. There was no mention of the need for gynecologic services or treatment for genital tract 
+infections in spite of this being identified as one of the main health problems. However, appointing a 
+female gynecologist was identified as an urgent need since husbands refuse that their wives be checked 
+by a male doctor. 
+
+6.4. Access to Health Services in Jordan 
+
+Responses to this question varied markedly between the various focus groups, and were very much 
+related to awareness of the existence of the services, their geographical locations, the cost and the users’ 
+eligibility to access these services. Those Syrians who are not aware that services provided by Ministry of 
+Health (MoH) hospitals and primary health care centres (PHCCs) are free-of-charge, resort to private 
+providers. Most Syrians in Amman reported that they seek services from the private sector, and due to the 
+high cost of the doctors’ consultation, many were purchasing medications directly from private 
+pharmacies. High transport cost to the health facilities has also hindered access. Some reported that 
+Syrian doctors practicing in Jordan were providing health care free-of-charge. 
+
+
+ 
+
+Some services are not available to the Syrians such as dental and ophthalmic. Some have reported 
+that they do not prefer to access services provided by the PHCCs because they cannot get what they need 
+(medications, X-Rays and investigations), especially for chronic conditions such as diabetes. Radiological 
+services are available from public hospitals but with long waiting lists. Older participants reported that 
+health services are available either free-of-charge or at subsidized cost from MoH facilities. Emergency 
+health services were provided by public hospitals and are free-of-charge even for those un-registered with 
+UNHCR. 
+
+ 
+
+
+In the north (Irbid, Mafraq and Ramtha) young females reported that UNHCR registered Syrians seek 
+health services from Jordan Health Aid Society (JHAS) clinics since they are provided free-of-charge. 
+Syrians have reported that there is competition for these services with Iraqis. One participant indicated 
+that she sought care from (Abu Huraira) clinic and was provided with medications for once only, which 
+were not enough. 
+
+ 
+
+There was a lack of awareness among most participants on RH services provided by the government 
+and about their cost. Accordingly, women seek these services from the private clinics (for maternity 
+services) and from pharmacies (for contraceptives). Few participants knew about RH services provided 
+free of charge by JHAS. One woman mentioned that a JHAS female gynecologist conducts home visits 
+once a week for pregnant women. 
+
+ 
+
+Key informants indicated that Syrians can access health and RH services from PHCCs and public 
+hospitals free-of–charge or against nominal fees for the UNHCR registered, Community-Based 
+Organizations (CBOs) registered or those with an entry stamp on their passports. Those who have crossed 
+illegally can get the stamp at the CBOs to access the services. Some are referred to the private sector for 
+higher level care. Syrians fear going to PHCCs and being stamped as “refugees”. Deliveries are all free-
+of-charge. Some Syrian private doctors practicing in Jordan provide services free-of-charge, as well as 
+some Jordanian private doctors. 
+
+ 
+
+In Ramtha, Syrians reported that they can seek services from the public sector, private sector and 
+NGOs clinics. In Irbid, they reported that they buy drugs over-the-counter to avoid paying the 
+consultation cost. They complained about being mistreated by one doctor in the NGO clinic. Some have 
+reported that an NGO lady doctor pays home visits to pregnant women. Respondents from Zarqa used the 
+private sector and have just found out about JHAS. 
+
+ 
+
+Key informants indicated that Syrians access public services, private services and NGO services. The 
+NGOs mentioned in particular were JHAS, Médecins Sans Frontières(MSF) (for surgical cases) and Noor 
+Al Hussein Foundation (NHF),the Al-Ata’a Medical Center andAL-KitabwalSunnah Society. 
+
+6.5. Cost of Health Services 
+
+Health services are heavily subsidized by the Government, and more than 9 percent of the public 
+budget is allocated for the health sector. Therefore, the Government estimated additional allocations to be 
+budgeted annually to provide health services needed to meet the increasing demand of the additional 
+number of beneficiaries. 
+
+ 
+
+Across the Focus groups there was a consensus that the cost of health services was high including the 
+cost of consultations, medications and transportation. Surgical procedures were reported to be 
+unaffordable. 
+
+ 
+
+Some Syrians have mentioned that medications are provided by a certain pharmacy for half the price, 
+and sometimes free. Some indicated that they cannot buy drugs due to their high cost, and many reported 
+that they had discontinued treatment for chronic illnesses because they cannot afford the cost. 
+
+ 
+
+Syrians residing in different governorates have pointed out specific issues. Those in Amman 
+complained about the high cost of lab investigations, and the unavailability of medications for chronic 
+
+
+diseases. They reported that those registered with UNHCR should pay 20% of the cost of medicines. Irbid 
+residents reported that medications are very expensive and they get them from Syria. Mafraq residents 
+said that health services are available, but their cost is unaffordable. There is a lack of clarity among the 
+Syrians about which services they can access, and at what cost. 
+
+ 
+
+Key informants indicated that UNHCR registered Syrians are treated free-of-charge in PHCCs and 
+hospitals and bill sent to the Directorate of Health. This makes them also eligible to receive free health 
+services from JHAS clinics. One CBO indicated that they cover the health care bills for its beneficiaries, 
+but did not indicate at which level of care. 
+
+ 
+
+The cost of treatment of the injured is covered by the Jordanian Syndicate for Engineers, in addition 
+to Al-Ata’a Medical Center and Al-KitabwalSunnah Society which cover the cost of treatment of 
+emergency cases in hospitals and PHCCs. Deliveries in private hospitals were covered by the society 
+(US$350-495 per case). Some informants indicated that Syrians face difficulties paying for health care 
+and only seek care in hospitals when they get very sick. 
+
+6.6. Access to Childhood Vaccination Services 
+
+Participants indicated that the lack of awareness of the fact that vaccines are free to all under-fives in 
+Jordan deterred some parents from utilizing the service. Another problem was that many parents did not 
+have their children’s vaccination cards at hand as they left them in Syria. Many parents reported that they 
+did not know where to get their children vaccinated. Some health providers refused to vaccinate children 
+who did not have vaccination card, while others could not understand the names of the vaccines that were 
+listed on the Syrian cards. 
+
+In Mafraq, Maternal and Child Health Centers (MCHCs) were reported to be very cooperative and to 
+provide vaccines free of charge and without asking for their cards from Syria. Most respondents from 
+Irbid reported that they have completed the immunizations for their children. All respondents from Zarqa 
+have indicated that child health services (weight, height and temperature) were not provided. 
+
+ 
+
+Key informants have indicated that vaccines are available for under-fives free-of-charge in all 
+PHCCs and MCHCs. In addition, most Syrian families have no vaccination cards, with differences 
+between the Jordanian and Syrian schedules. If the family has no card, they are asked about the 
+vaccination history of the child and missed doses are provided by Jordanian health facilities. 
+
+6.7. Negative Coping Mechanisms Relevant to Health 
+
+One of the coping mechanisms reported by FGD participants was to avoid going to the doctor, in 
+spite of the need to do so, due to cost, lack of the cash, or to use the available cash to buy food. 
+
+6.8. Immediate Priorities Relevant to Health 
+
+Many have reported that their rented homes are damp and not well ventilated, with problems of rot. 
+This results in various diseases / ailments. Some have reported that sanitation services are very bad. 
+
+ 
+
+Health ranked as the second priority only once, by elderly men, ranked as the third priority three 
+times and as the fourth priority five times. Health ranked between second and fifth (but mostly third) 
+when the key informants were asked to identify the immediate needs of displaced Syrians in Jordan. 
+
+
+6.9. Conclusions 
+
+1) The main health problems among Syrians in Jordan are acute conditions followed by chronic 
+diseases. The need for mental health and reproductive health information and services were also 
+pointed out. 
+2) Syrians accessed health services free-of-charge or at nominal fees since health is subsidized by the 
+Government, as well from NGO clinics. However, not all the needed services are available, and not 
+all Syrians were aware of the services available. 
+3) Syrians had to access the expensive private services when they needed medications for chronic 
+diseases which they found expensive. Tertiary level care appears to be a problem. 
+4) The free vaccination services for under-fives helped to increase access to this service. 
+
+
+6.10. Recommendations 
+
+ 
+
+1) Since the crisis is still evolving, and the situation on the ground may be changing very quickly, the 
+increase in demand will overwhelm the capacity of the public health services provided by the 
+Jordanian Government, its international partners and the local NGO services. Accordingly, the 
+international community should step in to provide support to the Government of Jordan and to the 
+international and local organizations working on the ground to ensure access of the Syrians in 
+Jordan to quality health, including reproductive health care. 
+2) Harmonization of the government subsidized services to be granted to the Syrians with that already 
+granted to the Iraqis is advised. This step will make it easier for the Jordanian Government to 
+calculate the cost of the provided services and will prevent the sensitivities that may arise due to 
+differing service packages. 
+
+
+ 
+
+
+7. EDUCATION 
+
+ 
+
+The number of Syrian students enrolled at public schools for the current academic year at the time of 
+the assessment was some 5,500 students in public schools. As of May 2012, the number reached 7376. 
+The increasing number of students requires additional funding to enable the Government to absorb them 
+and maintain a good quality of education. 
+
+ 
+
+Responses of the key informants or the Syrians interviewed do not provide consistent basis to 
+establish clear estimates of the proportion of school-age Syrians enrolled in Jordan. However, as 
+confirmed by some key informants interviewed, the assessment highlighted low registration of school-age 
+Syrians in some geographical areas such as Zarqa and Irbid. A small number of Syrians with post-
+secondary education level were recorded and in most cases they were not able to register in Jordan due to 
+the high cost of education in Jordanian Tertiary Institutions. 
+
+ 
+
+In spite of the high number of school-age Syrians who fled to Jordan, and also despite the fact that 
+the Government of Jordan has allowed the Syrians to register free of charge in public schools, the focus 
+group discussions revealed a worrying number of (especially secondary) school-age children, who were 
+not attending schools. Particularly in Zarqa and Irbid many young children are not enrolled in schools. 
+
+ 
+
+However, the increasing demand on public schools facilities and the overcrowded school system is 
+hampering the ongoing reform program and affecting the quality of education. It is also making it more 
+difficult for the Government to continue with its plans to eliminate the double-shift school system and 
+stop renting school buildings. 
+
+ 
+
+The majority of children that go to schools are attending public schools, a few are attending the 
+Islamic Society Centres for free, or go to private schools. A number of generous Jordanians and charitable 
+organizations are covering the tuition fees in some cases. Among the reasons for not attending schools are 
+the following: 
+
+ 
+
+1) Lack of prior-schooling documentation and other relevant IDs or certificates. 
+2) Most of the interviewed male adolescent simply do not wish to go to school and prefer to work in 
+order to afford daily basic living expenses. 
+3) Lack of knowledge among Syrian community about registration in Jordanian public schools free of 
+charge. (NB. it has been noted that many of the adult household leaders are relatively illiterate; 
+hence their access to relevant information is also limited). 
+4) Some of the interviewed families argue that the school year is almost over, and there is no benefit of 
+sending children to school at this point in time. Also most families are expecting to return to Syria 
+soon. 
+5) Many families recently arrived and were more concerned to secure basic needs such as house rent 
+and food, and were not aware of the education services accessible to them in Jordan. 
+6) Some children are experiencing psychological difficulties and are feeling insecure to go to school. 
+7) The Jordanian curriculum is perceived to be more difficult than the Syrian curriculum (particularly 
+in subjects like English and Chemistry). 
+8) Enrolment in lower grades in Jordan than in Syria after placement tests was discouraging, and most 
+children in such cases preferred dropping out instead. 
+9) Many families do not have the resources to spend on the school kits (bags, and the uniform or 
+proper clothing). 
+10) Some school-age children already dropped-out from education in Syria prior to the unrest and 
+cannot easily re-enrol in the school system. 
+
+
+
+11) Some school-age Syrians have missed either one or two semester(s) as a consequence of the unrest 
+and could have re-enrolled in schools if provided with further catch-up/remedial or tutorial classes. 
+12) Registration obstacles at the school level (e.g. some schools have exhausted their capacity or were 
+not aware of registration). 
+13) Family mobility: Some families reported that they had to change their accommodation which 
+entailed challenges on school registration or transferring children from one school to another. 
+
+
+7.1. Key Needs 
+
+1) Improve the awareness amongst parents/guardians, children and relevant stakeholders on the access 
+to public schools 
+2) Support the public education system to be able to accommodate the growing number of Syrian 
+students. 
+3) Enlarge the portfolio of educational and vocational education services with a focus on mitigating 
+psychosocial distress. 
+
+
+7.2. Conclusions 
+
+Syrians seem to lack awareness of the available public education services especially in Zarqa and 
+Irbid. Enrolment in secondary education seemed to be lower than in primary level. An important 
+proportion of adolescents (12-18) seem to work to meet the basic needs of their families. 
+
+ 
+
+Syrian children who are not going to schools need to be re-inserted into the education system or 
+alternatively most of the adolescents involved in child labour require alternative education opportunities. 
+Given the economic status of the interviewed displaced families, their dependence on public schools is 
+clear since private schools are not affordable unless subsidised by donors, which raises sustainability 
+issues. There is a need to support the public education system to be able to accommodate the growing 
+number of Syrian children. Some participants provided the following suggestions to solve the educational 
+problems: 
+
+ 
+
+1) Facilitate the enrolment procedures for those students who do not have relevant documentation to 
+register in schools. 
+2) Increase awareness of Syrian families and relevant stakeholders on the significance and availability 
+of free access to education in Jordan. 
+3) Provide financial support to families to prevent them from the temptation of sending their children 
+to work instead of school. 
+4) Provide tutoring or remedial classes in subjects where students face difficulties, such as: English 
+and Chemistry. 
+5) Provide literacy classes for out-of-school children and their parents. 
+
+
+7.3. Recommendations 
+
+1) Provide support to the Jordanian public education sector to strengthen the capacity in order to 
+accommodate a growing influx of Syrian students while sustaining the quality of education. This 
+could include direct budget support to the Government to increase the capacity of the education 
+system through building new schools, and/or expanding and adding classrooms, doing the necessary 
+maintenance works for some schools, as well covering the running cost including the cost of 
+recruiting new teachers. 
+2) Conduct awareness campaign for families on children’s right to education and on the available 
+education services in Jordan. 
+3) Tutoring support or remedial classes for children and youth to facilitate their return to and retention 
+in schools. 
+
+
+
+4) Literacy campaign and awareness-raising programmes for out of school children and their parents/ 
+care givers (especially targeting mothers). 
+5) Provide psychosocial support to Syrian students at schools and inform the school counsellors of the 
+available psychosocial services for further referrals. 
+6) Provide school kits, uniform– among others- for Syrian students and needy students in schools. 
+7) Provide non formal education or literacy classes for students that can’t be reintegrated at schools 
+and are working. 
+8) Post-secondary education opportunities for youth at tertiary levels. 
+9) Supporting and monitor the access of Syrian students to primary and secondary education. 
+10) Consider undertaking further sectoral research on issues like literacy level, learning achievements, 
+completion rates, etc. 
+
+
+ 
+
+
+8. YOUTH 
+
+ 
+
+According to a number of Key Informants and interviewees from all five surveyed areas, youth (13-
+24 years old) form a big proportion of the Syrian population that fled their country to Jordan since the 
+beginning of the crisis in March 2011. They have also identified the youth group as the most vulnerable 
+or at risk category among the Syrians. It appeared that for some reasons the single males are not 
+integrating well within the host communities. 
+
+ 
+
+During the focus group discussions, the youth reported to have been the most exposed directly to 
+killings while in Syria during demonstrations or whenever they refuse to join in hostile activities. They 
+reported to be the most aggressively screened at checkpoints. They have in many cases witnessed killings, 
+and hence are more affected by psychosocial distress. 
+
+ 
+
+An important proportion of adolescents and youth at their early ages (12-18) seems to have no other 
+alternative than to work for long hours (between 10-12 hours on average a day), to meet their basic needs 
+and those of their relatives. They are generally working in grocery shops where they carry boxes of goods 
+and organize them on shelves. Some are waiters in cafes, others selling in vegetable stalls in markets. 
+They are also working in physically demanding jobs in the construction industry. In Zarqa in particular, 
+most of the youth are working with their families in tiling without receiving any remuneration. 
+
+ 
+
+Early marriage of Syrian girls is a risk given the widespread acceptance of early marriage (under 
+certain conditions) among the Syrian community. While these practices may in fact amount to a coping 
+strategy by a number of Syrians households, they are not necessarily well perceived by everyone within 
+the host communities including by Syrian males. 
+
+8.1. Key Needs 
+
+1) Helping youth to overcome their psychosocial distress and to access alternative education 
+opportunities. 
+
+
+8.2. Recommendations 
+
+1) Further identification (through participatory assessments) of the specific needs of male and female 
+youth/adolescents in order to develop and implement tailor-made interventions including alternative 
+education opportunities such as vocational training. 
+
+
+ 
+
+
+9. PROTECTION 
+
+9.1. General protection 
+
+On the question of whether or not Syrians are registered with UNHCR and what are the obstacles 
+seeking UNHCR protection, 20% to 30% of the male participants in the age group 13-24 already 
+approached UNHCR for registration. In contrast, the number of the females of the same age group who 
+registered with UNHCR was lower, merely 17 out 62. Participants mentioned the following reasons for 
+not registering with UNHCR: 
+
+ 
+
+1) Fear that the Syrian government will find out their names and will pursue their families in Syria. 
+2) Some of the participants do not know about the existence of UNHCR and its mandate. 
+3) Possibility of returning to Syria (hence no need to register). 
+4) Rumors: persons registered cannot go back to Syria until the crisis is over or those who register 
+with the UNHCR will be placed in tents or even, those who register with UNHCR will be resettled 
+and they do not want to live in a western country as they are planning to go back to Syria. 
+5) High cost of transportation to come to Amman and register especially since the UNHCR requests 
+the presence of the whole family for registration purposes; many are not familiar with the UNHCR 
+helpdesk offices in some governorates. 
+
+
+The number of male participants in the age group 25-60 was 20% to 40%. Male and female 
+participants in this age group provided the same reasons as the above age group for not registering with 
+UNHCR. However, they added the following few reasons: 
+
+ 
+
+1) Some fear deportation to another country if they register with UNHCR. 
+2) Some do not trust that UNHCR will grant them access to social services. 
+3) There was some feeling among Syrians that the guards in UNHCR do not always treat them with 
+dignity. This has since been addressed through further training. 
+4) Inadequate provision of services provided by UNHCR. They stated that they learnt that when they 
+register with UNHCR, they are provided with core relief items which are not their primary need, so 
+why register? 
+
+
+Regarding males over 60 years, some are registered with UNHCR while others are not. Those who are 
+not gave the following reasons from abstaining: 
+
+ 
+
+1) Lack of money for transportation to UNHCR even for those who live in Amman costs are high. 
+2) Fear for the same reasons mentioned above. 
+3) Lack of information on UNHCR and its role. 
+
+
+The majority of females over 60 years did not register with UNHCR and for the same reasons 
+provided by other different groups. 
+
+9.1.1. Conclusions 
+1) All key informants who were interviewed in the different Governorates confirmed that Syrians in 
+Jordan feel safe and protected. 
+2) There appears to be common reasons among all the participants from the different age groups for 
+their reluctance to register with UNHCR which can be summed up as lack of information about 
+UNHCR and its mandate. This lack of knowledge was a fertile soil for rumours to be developed and 
+fear to grow. Syrians think that UNHCR will share their profiles with the Syrian government and 
+that if they register with the organization, they cannot exercise their right of voluntary repatriation. 
+The Governor of Irbid said that Syrians do not register with UNHCR because they believe that they 
+will go back to Syria very soon. 
+
+
+
+3) The majority of Syrians believe that the services provided by the UNHCR are poor and provide no 
+incentive to registration. Moreover, since the government of Jordan is hosting them with generosity 
+they do not consider protection against non-refoulement a reason to register. This information was 
+also confirmed by the key informants in Amman. 
+4) The location of UNHCR registration premises in Amman is another reason to hinder registration 
+even for Syrians who are residing in Amman. The location is too far and it costs a lot especially for 
+big families which need more than one taxi for transportation. Most Syrians are not aware of the 
+UNCHR help disk offices in Irbid, Ramtha, Mafraq. 
+5) During the last two months, a number of these concerns have been addressed by the record numbers 
+of Syrians approaching the Agency to register, with three times more registering than combined 
+number for all of 2011. 
+9.1.2. Recommendations 
+
+
+
+
+1) It is recommended that UNHCR prepares an information dissemination strategy about its mandate, 
+its help desk offices in other governorates and its services too. This strategy can combine various 
+methodologies such as awareness raising focus group discussions, leaflets in the government 
+hospitals and clinics. 
+2) UNHCR is to reassess the appropriateness of its services to the Syrian population, and aim to better 
+target its assistance strategy. 
+
+
+9.2. Women Protection 
+
+When asked about their safety in Jordan, the majority of the groups confirmed that women feel safe 
+and protected and the only pressure and unsafe feelings they are facing are related to the factors that led 
+them to come to Jordan. This was also confirmed by Key informants who stated that Syrian women are 
+safe and protected in Jordan and that they didn’t witness or receive reports of any case of abuse including 
+sexual abuse while in Jordan. 
+
+ 
+
+Participants reported that they have heard of rape and abuse of women in Syria, where some were 
+raped in front of their families which caused them chronic trauma. This was also reflected as one of the 
+reasons for Syrians to leave their country. In one case mentioned a woman while kidnapped and held for a 
+period of time, raped and abused badly. When she returned to her family her husband divorced her and 
+she is mentally sick. Another case was mentioned by two groups about a pregnant woman that was 
+kidnapped, raped and killed. 
+
+ 
+
+Some participants confirmed that early marriage was more common prior to arriving to Jordan as part 
+of the social culture of Syrians. However, one of the major problems that was highlighted by many Syrian 
+women was the perception in Jordan that Syrian women are willing to marry for very little dowry. One 
+mentioned an incident where a Syrian man after Friday prayers announced to the public that he was 
+willing to let his five daughters marry good Jordanian men for nothing. It has to be noted that few 
+documented marriages to Syrian women have taken place. 
+
+ 
+
+Most women in the focus group discussions mentioned their discomfort about the way they are 
+receiving aid and expressed concern and humiliation that they were photographed while receiving aid. 
+
+9.3. Child Protection 
+
+The assessment identified a range of child protection issues that children are currently exposed to in 
+Jordan including child labor, and limited cases of unaccompanied and separated children. The assessment 
+also identified diverse forms of conflict related violence and pre-existing child protection issues which 
+children and families were exposed to in Syria. The child protection response in Jordan will need to 
+provide services to children and families who experienced violence and other child protection issues in 
+Syria. 
+
+ 
+
+
+However, most participants reported that women and children did not experience sexual violence or 
+abuse in Jordan and that they feel safe in Jordan. However, there were reported cases of sexual violence 
+against children before they come to Jordan 
+
+9.3.1. Early Marriage 
+
+
+
+
+According to the personal status law in Syria that applies to Muslims, the eligible age of marriage is 
+18 years for boys and 17 years for girls. A marriage below these ages can be authorized; for girls the 
+minimum age is then 13 and for boys the minimum age is 15. (Source: Syria MENA Gender Equality 
+Profile, UNICEF 2011). 
+
+ 
+
+Early marriage in Syria was reported by all categories of respondents amongst both boys and girls 
+including among girls as young as 13 and boys as young as 16. Most women claimed that early marriage 
+was culturally accepted in Syria. They explained that the economic conditions of the girl’s family played 
+a key role; when the family is poor they prefer to marry their daughters as soon as they get proposals from 
+men from good families who can provide a good standard of living for their daughters. 
+
+ 
+
+Early marriage of Syrian girls is a risk given the widespread acceptance of early marriage (under 
+certain conditions) among the Syrian community. While these practices may in fact amount to a coping 
+strategy by a number of Syrians households, they are not necessarily well perceived by everyone within 
+the host communities including by Syrian males. 
+
+ 
+
+ Respondents explained families were in fact trying to protect their daughters from an uncertain 
+future by marrying them early. 
+
+ 
+
+ A marriage below these ages can be authorized; for girls the minimum age is then 13 and for boys 
+the minimum age is 15 (Source: Syria MENA Gender Equality Profile, UNICEF 2011). 
+
+ 
+
+Only 3 cases of early marriage were reported in Jordan, all in Ramtha. These marriages occurred 
+between Syrian girls aged 17 and 18 and Jordanian men. The family members reported that this 
+happened in the ‘traditional way’ – that is, the family of the male proposed to the family of the girl 
+following standard practice in Syria. 
+
+9.3.2. Other forms of violence and exploitation especially against boys 
+
+
+
+
+
+
+Most respondents indicated a lot of the children – mostly boys - were working in Syria mostly in the 
+agriculture and building sectors, prior to fleeing. In Jordan, respondents reported that often children 
+(again, mostly boys) are being encouraged to join the labor market by their parents and caregivers. 
+
+ 
+
+An important proportion of adolescents (age 12-18) seems to have no other alternative than to work 
+for long hours (between 10-12 hours on average a day), to meet their basic needs and those of their 
+relatives. They are generally working in grocery shops where they carry boxes of goods and organize 
+them on shelves. Some are waiters in cafes, others selling in vegetable stalls in markets. They are also 
+working in physically demanding jobs in the construction industry. In Zarqa in particular, most of the 
+youth are working with their families in tiling without receiving any remuneration. 
+
+ 
+
+Some of the reasons given were that it is easier for children to find a job or that parents/adults cannot 
+work due to sickness or that fathers do not wish to work due to either the low wages offered, bad 
+conditions or because they would not get financial donations from rich individuals if they are working. 
+Some of the children working are as young as 12 years old. 
+
+ 
+
+Working conditions appear to be sometimes exploitative with children said to be working) for 
+minimal wages (US$3-4 /day). Some of the businesses children are working in include barber shops, 
+porters, coffee shops, furniture shops, construction/tiling workshops, and electricity workshops. 
+
+ 
+
+In all six areas, several children and adults reported that children were being harassed verbally and 
+called names (refugees, displaced, etc,..) by other students at schools. 
+
+
+9.3.3. Unaccompanied or separated children 
+
+
+
+
+
+
+Participants reported a few cases of children arriving in Jordan unaccompanied – most of these 
+children subsequently were reunited with relatives or neighbors but some remain separated from their 
+parents and thus in need for support. In addition, several respondents, especially middle-age women from 
+Damascus and Aleppo reported that Mosques and Churches in these 2 cities have been looking after 
+children as young as a few weeks and that religious leaders/personnel in Syria tried to place these 
+children in families who can look after them. 
+
+9.3.4. Conclusion 
+
+
+
+
+
+
+In general, children reported feeling safe and protected in Jordan - as such the protection risks need to 
+be seen in the context of the overall protection environment for Syrian children and families in Jordan. 
+Children in Jordan are currently exposed to the following child protection risks: child labor, especially for 
+adolescent boys; increased levels of domestic violence as a result of the stress among breadwinners 
+(mostly male) in the family, and verbal abuse in schools. There are in addition, a limited number of 
+mostly adolescent boys who are unaccompanied or separated. 
+
+ 
+
+However, children and families arriving in Jordan report having experienced widespread violence in 
+Syria - the victims of these various forms of violence will need support and services to recover. Through 
+the assessment it was clear that many participants wanted and needed to talk about their experiences, but 
+were hesitant to be referred to formal services. As such, building trust and encouraging but not forcing 
+children and families who were victims of violence to access services such as psychosocial support, 
+health, education and where appropriate, legal services, and helping communities to understand and 
+support each other in dealing with these problems of children will be important. The same applies to 
+children who had experienced non-conflict related child protection problems in Syria such as early 
+marriage. Strong existing child protection services should be supported to scale up and adapt their 
+services to the child protection issues facing Syrian children. 
+
+9.3.5. Recommendations 
+
+
+
+
+1) Provide financial and in-kind assistance in close coordination with Government to vulnerable 
+families to prevent further child protection issues to respond to child protection issues such as child 
+labor. 
+2) Strengthen the national monitoring and reporting mechanisms to include the Syrian community. 
+3) Strengthen the role of the Family Protection Directorate to respond and deal with Syrian cases of 
+violence & abuse. 
+4) Conduct an awareness campaign for the Syrian and host community on different protection issues 
+including expanding the better parenting program to raise the awareness of Syrian parents & 
+caregivers on child rearing practices and protection issues. 
+5) Strengthen the psychosocial support programs targeting all age groups of Syrian community who 
+were subjected to any form of violence, abuse or torture. 
+6) To create child and adolescent friendly spaces for Syrian boys & girls especially those who have 
+been exposed to child protection issues. 
+7) Strengthen the referral system to meet the needs of the Syrian community 
+8) Address the root causes of child labour by offering assistance programmes to the families who are 
+sending their young children to schools and monitor their regular attendance. 
+9) Provide support to the Ministry of Labour and enhance the role of inspectors to impose the law to 
+prevent child labour. 
+
+
+
+9.4. Domestic Violence 
+
+Key Informants indicated that they did not receive reports of any case of domestic violence, and here 
+was a consensus among all participants that there is no domestic violence of any kind. However, Syrian 
+women believe that their male family members are under stress and this may lead them to be aggressive 
+inside the household. 
+
+9.3.6. Conclusions 
+
+
+
+
+1) Women do feel safe and protected while in Jordan. 
+2) Cases of sexual violence and rape while in Syria were reported and victims face trauma and need 
+health care and psychosocial support and follow up. 
+3) Syrian women justify domestic violence they face from male members given the pressures that they 
+are facing. 
+9.3.7. Recommendations 
+
+
+
+
+1) Support to the Ministry of Social Development and the Family Protection Department to deal with 
+cases of domestic violence among Syrians. 
+2) Need for psychosocial support to women who were subjected to Sexual and Gender Based Violence 
+(SGVB) before coming to Jordan. 
+3) Future activities targeting women, especially young women, have to ensure they are provided in a 
+place considered safe from the Syrian women’s perspective. 
+4) Awareness raising is needed targeting Syrian women on domestic violence, their rights and 
+available services in Jordan, and awareness raising is needed targeting Syrian men on domestic 
+violence and stress management. 
+5) NGOs to work on raising the awareness of Syrian and hosting communities on the early marriage 
+issues and relevant Jordanian laws. 
+6) Raising awareness of aid providers on standards and codes of conduct in aid provision in line with 
+local cultures. 
+
+
+
+10. GAPS AND IMMEDIATE NEEDS 
+
+10.1. Syrians between 13 and 24 years 
+
+1) Agreed that house rent was considered to be their first priority in Jordan, followed by food, phone 
+calls to Syria and health. Education was not considered a priority in this category. 
+2) Suggested replacing part of the food packages with financial assistance to support them in paying 
+the rent and in purchasing food items which suit their diet. 
+3) Talked about their need for in-kind items such as a refrigerator especially since the summer season 
+is approaching and it will be difficult to save food in the hot temperature. 
+4) Some expressed their need for recreational activities such as Qur’an memorization and trips. They 
+believe that organizations can target youth at the school-going age through these activities and 
+encourage them on the importance of continuing education. 
+5) Suggested that people involved in aid distribution are not Syrians (conflict of interest). 
+
+
+10.2. Females 
+
+When females in the same age group (13-24) were asked about their priorities, there was consensus 
+about the following order with some exceptions as stated below: 
+
+ 
+
+1) Rent. 
+2) Pocket money. 
+3) Heath services. 
+4) Food. 
+5) Education. 
+
+
+ However, participants in Irbid considered education as their first priority. Mothers considered 
+health services as their first priority. Some participants gave high priority to work opportunities as these 
+could secure reasonable levels of living conditions. 
+
+ 
+
+The female groups suggested the following: 
+
+1) Rent: if UNHCR can secure free residence or housing allowance. Moreover, they proposed that 
+assistance should include water and electricity bills. 
+2) Income: provide their husbands with work opportunities based on their qualifications. 
+3) Change the type of heaters provided to them. The current one (kerosene) causes asthma problems 
+among their children. 
+4) Health awareness sessions. 
+5) Food: they suggested to include more food varieties and include items for babies such as milk and 
+to increase the quantity of items to match the number of family members. Participants in Amman 
+suggested ensuring the sustainability of this assistance because they cannot afford buying food 
+items. Participants in Zarqa suggested substituting this service with cash and those in Irbid 
+suggested dividing this assistance into two parts: cash and food. 
+6) Education: participants mentioned the need of their children for remedial classes as the Jordanian 
+curriculum is more difficult than the Syrian one. They also suggested organising recreational 
+activities which can help Syrians to meet Jordanians and increase the harmony within the two 
+communities. 
+7) Some suggested literacy classes. 
+
+
+
+10.3. Males (25 - 60) 
+
+Males between (25- 60) prioritized: rent, food and health. But they expressed a deep need for a 
+steady income either through being helped to cover the cost of issuing work permits and secure 
+employment opportunities, or through financial assistance. 
+
+There was a consensus among the females on the following priorities: 
+
+1) Rent and necessary or basic home furniture and appliances (refrigerators, washing machines, fans 
+and cooker). 
+2) Income can be in different forms: work opportunities or financial assistance. 
+
+
+
+
+Priorities differed according to the city in which they live in: 
+
+ 
+
+Amman: 
+
+1. Awareness of available services. 
+2. Awareness of UNHCR mandate. 
+3. House utilities. 
+4. Medical services. 
+5. Education services. 
+
+
+ 
+
+Al-Mafraq: 
+
+1. Rent fees. 
+2. House furniture and basic appliances. 
+3. Clothes. 
+4. Education services. 
+5. Food. 
+6. Health services. 
+7. Coordination between the different existing organisations. 
+
+
+ 
+
+Al-Ramtha: 
+
+1. Rent fees. 
+2. Household appliances. 
+3. Financial assistance. 
+4. Health services. 
+
+
+ 
+
+Irbid: 
+
+1. Rent fees. 
+2. House furniture and appliances. 
+3. Education services. 
+4. Health services. 
+5. Financial assistance instead of food packages and in-kind assistance. 
+
+
+ 
+
+Zarqa: 
+
+1. Rent fees and water and electricity bills. 
+2. Financial assistance. 
+3. Diapers. 
+4. Health services. 
+
+
+10.4. Males over 60 years old 
+
+Males over 60 years old listed their needs as the following: 
+
+1. Rent fees. 
+2. Health services. 
+3. Job opportunities. 
+4. House furniture and appliances. 
+5. Food. 
+
+
+
+ 
+
+They meet part of these needs through sharing the expenses with other families and from assistance 
+provided from the different organizations. They believe that they need financial aid as soon as possible to 
+meet these needs. 
+
+10.5. Females over 60 years old 
+
+The older female participants indicated the below priorities: 
+
+ 
+
+Zarqa: 
+
+1. Separate accommodation, refrigerators. 
+
+
+ 
+
+Irbid: 
+
+1. Rent fees: Cash assistance to meet expenses which are not covered by the assistance provided by 
+different organisations and individuals. In addition, household appliances. 
+
+
+ 
+
+Ramtha: 
+
+1. Education: Some female participants expressed that education is their priority because the 
+organisations are providing them with rent fees. 
+2. Cash assistance: They added that cash assistance was one of their priorities. 
+3. Special equipment: Some of the participants indicated that older persons need special equipment 
+such as medical beds and wheel chairs. 
+
+
+
+
+ 
+
+They stated that they are completely dependent on charity organisations to meet their needs. They 
+concluded the focus group discussion by saying that the financial assistance is the best mechanism to help 
+them live in dignity and prioritise their needs. 
+
+10.6. Conclusions 
+
+1) Rent is the priority for all participants from different age groups, followed by food and other 
+services such as education and health. It is also noted that Syrians prioritise their needs according to 
+assistance provided in different governorates, hence the difference in priorities especially in 
+Ramtha. 
+2) The different Governors and key informants interviewed during this exercise confirmed that rent is 
+the first priority for Syrians. The Governor of Irbid said that some Syrians are coping with their 
+financial needs until now, but if the crisis continues they will need more material and financial 
+assistance. 
+
+
+10.7. Recommendations 
+
+1) Financial assistance should be considered in a timely manner. This assistance will allow Syrians to 
+prioritise their needs in a dignified manner. Criteria for providing financial assistance should be 
+agreed upon by the Government. 
+2) In case the government of Jordan decides to allow Syrians to occupy jobs that are restricted for non-
+Jordanians, then the international community should pay the fees for issuing work permits for those 
+workers. 
+3) Awareness sessions on vaccination and women reproductive health in public health centres. 
+4) A robust scheme to cover accommodation costs is needed. 
+
+
+ 
+
+
+11. SUPPORT AND ASSISTANCE 
+
+11.1. Male participants (13-24) 
+
+The male participants (13-24) summarized the assistance provided by the government in the medical 
+and educational services. Some said that they can receive primary health care free of charge. Concerning 
+assistance from other organizations some mentioned that they have received in-kind assistance from 
+UNHCR. All of the participants said that they received in a regular manner food parcels from charity 
+organizations. Participants shared the following on the distribution of in-kind assistance: 
+
+ 
+
+1) Some accused a number of charity organizations of not delivering ALL assistance they receive. 
+They also talked about favoritism. 
+2) The size of food parcels does not match the number of family members. They have the same 
+quantity regardless of how big or small is the family. 
+3) Distribution can be humiliating when it takes place in the streets, sometimes the organizers do not 
+take into consideration the importance of dignity when they organize the distribution methodology. 
+4) Children needs are not taken into consideration. They need milk and diapers, items which are not 
+distributed. 
+5) In-kind assistance such as blankets and mattresses do not match the family member’s number. 
+
+
+11.2. Female Participants (13-24) 
+
+The females in this age group said that they received assistance from all regions. The different 
+organisations provide different forms of support including; part of the rent, food parcels and in-kind 
+assistance. 
+
+ 
+
+The participants said that their neighbours and friends Jordanians or Syrians provided them with in-
+kind donations such as kitchen kits and washing machines. 
+
+ 
+
+Females in Mafraq reported injustice and favouritism in assistance distribution. They pointed out that 
+Syrian fleeing Aleppo and Homs are prioritised. 
+
+11.3. Male Participants (25-60) 
+
+Male participants 25-60 said that they did not receive direct assistance from the Jordanian 
+government and that support only came from organizations and individuals in the form of partial rent 
+assistance and in-kind donations. 
+
+ 
+
+The participants confirmed that the assistance which Syrians received from Syrian friends and 
+neighbors was not different from that of organizations and Jordanian individuals. 
+
+11.4. Female Participants (25-60) 
+
+Female participants 25-60 claim that they do not receive financial aid but in-kind donations from 
+different organizations. 
+
+ 
+
+They said that some individuals provide them with financial support without which they would have 
+been living in more difficult conditions. They also talked about having received support from landlords 
+and Syrian friends. 
+
+ 
+
+It is worth mentioning that the participants in Irbid mentioned favouritism among charity 
+organisations and complained regarding aid distribution mechanisms; stating that the process was 
+humiliating, taking place in the streets in front of neighbours. 
+
+ 
+
+
+11.5. Males Over 60 Years Old 
+
+Males over 60 years old said that the government of Jordan does not provide assistance; however, 
+females in the same age group in Ramtha and Irbid confirmed that they were able to use public health 
+care centers and hospitals. 
+
+ 
+
+Males and females agreed that they both receive in-kind donations from different organizations 
+which also pay them part of the rent. 
+
+ 
+
+Moreover, their views were the same in regard to receiving assistance from Jordanian and Syrian 
+friends and landlords. 
+
+11.6. Conclusions 
+
+1) It seems that all participants received medical and educational assistance from the government of 
+Jordan through access to services and not in financial form. This was confirmed by the Governors 
+of Mafraq, Irbid and Zarqa. They said that the government of Jordan shared the electricity and 
+water of Jordanian citizens with their Syrian brothers. The Governor in Irbid added that the 
+government had granted free access to health services in Irbid for Syrians. 
+2) It also appears that the questions regarding assistance were not clear since the word ‘assistance’ in 
+the view of Syrians is associated with material support, and many participants stated that they did 
+not receive assistance. One realised this issue when conducting a number of focus group discussion 
+with older persons. The first answer they give to the question regarding the government support is 
+negative but when it is explained to them that their grandchildren can go to schools without paying 
+fees, they realise that this is considered assistance. 
+3) One can also add that most of the Syrians in Jordan are receiving assistance through different 
+channels; Syrian and Jordanian friends, neighbours, landlords, and other Jordanian individuals or 
+gulf citizens. This was confirmed in all the interviews with key informants. 
+4) It is vital to highlight the comments made by participants regarding distribution of aid through 
+organisations. Most of the participants reported favouritism and undignified aid distribution 
+strategies. 
+
+
+11.7. Recommendations 
+
+1) UNHCR staff members and its partners should contribute to raise the awareness of the registered 
+Syrian population on types of assistance- those which are provided by the organisation and by the 
+government. 
+2) UNHCR has an Information Line for all persons of concern, along with a secure and confidential 
+complaints box. 
+
+
+ 
+
+
+12. ANNEXES 
+
+12.1. Annex 1 Impact Hosting Syrians in Jordan - June 2012 
+
+(According to the Government of Jordan) 
+
+ 
+
+I. INTRODUCTION 
+
+ 
+
+Jordan continues to play a crucial role as moderate and stable force in the region, and demonstrates 
+an unwavering commitment towards achieving peace, stability and prosperity in the Middle East as a 
+whole. The ongoing political instability in the region has had adverse effects on Jordan, and has taken a 
+heavy toll on Jordan's social and economic situation. It has also led to additional pressures in addressing 
+critical challenges inter alia high levels of poverty and unemployment, as well as making less financial 
+resources available for capital investments needed projects in priority sectors. 
+
+ 
+
+Jordan also continues to face critical fiscal, social and economic challenges, most importantly the 
+high budget deficit, high levels of outstanding public debt, high levels of poverty and unemployment in 
+addition to critical energy and water challenges. This affects the country's ability to sustain 
+socioeconomic achievements, and move forward with its development plans, as the country is subject to 
+energy and food price fluctuations underlining its complete reliance on imported energy resources, as 
+well as wheat and grain needs. 
+
+ 
+
+More constrains are expected as a result of the deteriorating conditions and the unrest in Syria, which 
+resulted in an influx of Syrians and other nationalities to Jordan. Since the beginning of the crisis in Syria 
+until early June 2012, more than 120,000 Syrians fled to Jordan. The majority are concentrated in the 
+cities of Ramtha, Irbid and surrounding villages, Mafraq, Amman, Zarqa, in addition to Maan southern 
+Jordan. 
+
+ 
+
+Hosting thousands of Syrians in Jordan have been causing additional pressures on the Kingdom’s 
+already scarce resources, particularly in the sectors of water, energy, health, and education, which require 
+additional public spending to maintain the current quality of services in these key sectors. Hosting over 
+120,000 Syrians is expected to cost the country about US$123 million annually to cover the increasing 
+demand on basic services, in addition to US$46.07 million in the form of subsidies. Furthermore, if 
+Syrians stay longer in Jordan, this would require additional capital expenditure in the amount of 
+US$178.4 million. Accordingly, the total cost for hosting 120 thousand Syrians is around US$347.5 
+million. 
+
+ 
+
+Moreover, hosting a large number of displaced people in the country has indirect costs as well, 
+including: depletion of resources, competition with Jordanian youth on limited job opportunities, and 
+expansion of the informal sector in addition to other social effects. Jordan today provides free public 
+education, health services, subsidized water, electricity and household gas, in addition to subsidized 
+bread, as well as basic commodities to all the Syrians on its territory, helping the most vulnerable make 
+ends meet. 
+
+ 
+
+II. NUMBER OF SYRIANS ARRIVING TO JORDAN AND REGISTRATION WITH THE UNHCR 
+
+ 
+
+The number of Syrians staying in Jordan since early 2011 up till early June has exceeded 120 
+thousand. Moreover, UNHCR data indicates that the total number of registered Syrians with UNHCR in 
+Jordan as of end of May 2012 reached 20,000 individuals. 
+
+ 
+
+IV. JORDAN’S POLICY RESPONSES 
+
+ 
+
+In spite of the persisting fiscal, economic and social challenges facing the Jordanian economy, the 
+Government of Jordan has announced a number of measures to ease the burden and improve the living 
+conditions of Syrians in Jordan, including allowing Syrian students to register at public schools. This has 
+
+
+resulted in 7,376 Syrian students registering at public school system for the current academic year 2011-
+2012. Moreover, the Ministry of Education is holding entry-level exams for students who were 
+interrupted from their education, and do not have the necessary documentation to prove their education 
+level. In addition, Syrian students are able to take advantage of the available illiteracy, health care and 
+nutrition programs on an equal footing as Jordanian students, in addition to having access to vocational 
+education. 
+
+ 
+
+On another front, the Government of Jordan has undertaken a number of contingency measures to 
+address any further mass movements of Syrian citizens and other nationalities into Jordan. Such measures 
+include preparing transit centers in Mafraq and Ramtha Governorates (north of Jordan) to accommodate 
+Syrians who have sought refuge in Jordan. 
+
+ 
+
+V. ESTIMATED COST OF RECEIVING SYRIANS 
+
+ 
+
+The cost borne by the Government of Jordan to establish transit centers exceeded US$2.3 million for 
+the civil works (leveling, compacting and sloping works), providing electricity, and other services such as 
+providing accommodation at the Al-Hussein Youth Center. 
+
+ 
+
+The daily expenses of transit centers (including daily management) are large and the donors are 
+requested to support the Government in providing the basic needs including the provision of 
+infrastructural facilities such as health posts, schools, warehouses, in addition to providing family tents, 
+plastic sheets, blankets, multi-purpose cooking stoves, and other non-food items (such as jerry cans, 
+sleeping mats, plastic buckets, mattresses, and others). Moreover, Jordan counts on the donors support in 
+ensuring steady supply of food, medicine, electricity, fuel, and other basic needs to these centers. 
+
+ 
+
+A large number of Syrians, distributed in different areas, are imposing extra burden on the 
+municipalities. Huge daily expenditures are borne by the municipalities to meet the daily services. 
+According to the authorities in these areas, a significant pressure has occurred to continue providing 
+services such as garbage collection, sanitation, electricity, water supply, and drinking water, as well as the 
+necessary maintenance for equipment and vehicles. This also requires establishing new landfill areas with 
+extra expenditures including generators, lights, vehicles, equipment, and new employees to be able to 
+manage the huge wastes resulting from the new residents. 
+
+ 
+
+Capital expenditures for these municipalities and the monthly running costs for such services are 
+estimated around US$1.47 million. 
+
+ 
+
+a) Subsidized Commodities 
+
+
+
+
+Syrians in Jordan benefit from a number of items and commodities that are subsidized by the 
+Government of Jordan in order to ease the burden on citizens in the country. Among the subsidized items 
+are bread, cooking gas cylinders, fuel, electricity, and water. Receiving 120 thousand Syrians requires an 
+increase in the allocations to subsidize the commodities and items which are considered as basic needs for 
+the population. The table below shows that more than US$46 million is the additional amount needed to 
+provide the subsidized items to Syrians: 
+
+ (US$) 
+
+Item 
+
+Actual Cost 
+
+Consumer 
+Rate 
+
+Total 
+
+Governmental Subsidy 
+
+Per Capita 
+Subsidy 
+
+Cost of 
+hosting 1000 
+
+Cost in 
+million for 
+hosting 120 
+thousands 
+
+Water 
+
+069.1 
+
+0670. 
+
+132.8 M 
+
+21.4 
+
+21,410 
+
+2.6 
+
+Wheat 
+
+06..4 
+
+06116 
+
+237.3 M 
+
+38.3 
+
+38,270 
+
+4.6 
+
+Electricity 
+
+0.267 
+
+0.124 
+
+1,203 M 
+
+194 
+
+194,015 
+
+23.9 
+
+Gasoline 90 
+
+1.200 
+
+0.876 
+
+169.80 M 
+
+27.40 
+
+27,400 
+
+3.3 
+
+
+
+
+Item 
+
+Actual Cost 
+
+Consumer 
+Rate 
+
+Total 
+
+Governmental Subsidy 
+
+Per Capita 
+Subsidy 
+
+Cost of 
+hosting 1000 
+
+Cost in 
+million for 
+hosting 120 
+thousands 
+
+Gasoline 95 
+
+1.455 
+
+1.412 
+
+46.60 M 
+
+7.52 
+
+7,520 
+
+0.9 
+
+Liquefied 
+Petroleum 
+Gas 
+
+20.20 
+
+9.18 
+
+184.60 M 
+
+29.77 
+
+29,770 
+
+3.6 
+
+Diesel 
+
+1.00 
+
+0.72 
+
+363.70 M 
+
+58.66 
+
+58,660 
+
+7 
+
+Kerosene 
+
+1.00 
+
+0.73 
+
+8.76 M 
+
+1.41 
+
+1,410 
+
+0.17 
+
+Total 
+
+378,455 
+
+46.07 
+
+
+
+ 
+
+On the other hand, the Government exempts basic commodities as listed below from Sales Tax. 
+These exemptions cause unearned revenues totalling around US$0.7million. 
+
+(US$) 
+
+Item 
+
+Value of Exempted Sales 
+Tax / million 
+
+Cost of 1000 
+Syrians 
+
+Cost of 120,000 
+Syrians 
+
+Meat 
+
+5.1 
+
+825 
+
+99,000 
+
+Fish 
+
+1.1 
+
+182 
+
+22,000 
+
+Milk and Butter 
+
+2.5 
+
+409 
+
+49,000 
+
+Honey 
+
+0.1 
+
+18 
+
+2,000 
+
+Potato 
+
+1 
+
+146 
+
+18,000 
+
+Chickpeas 
+
+0.8 
+
+138 
+
+17,000 
+
+Lentils 
+
+2.2 
+
+356 
+
+42,000 
+
+Tea 
+
+5.4 
+
+872 
+
+105,000 
+
+Corn 
+
+6.3 
+
+1,017 
+
+122,000 
+
+Rice 
+
+4.7 
+
+766 
+
+92,000 
+
+Corn Flour 
+
+0.01 
+
+0.212 
+
+25 
+
+Sugar 
+
+8 
+
+1,295 
+
+155,000 
+
+Total 
+
+37.2 million 
+
+6,025 
+
+723,000 
+
+
+
+ 
+
+b) Capital Expenditures 
+
+
+
+
+ 
+
+In case of a prolong satay of Syrians in Jordan, and due to the increasing demand on services, the 
+Government will face a pressing need for some projects that will increase the pressure on the budget to 
+allocate money under capital expenditures as follows: 
+(US$ million) 
+
+Sector 
+
+Capital Expenditures/ 
+120 thousand Syrians 
+
+Note 
+
+Energy 
+
+(Electricity and Fuel) 
+
+50.6 million 
+
+Needed annually to establish additional 
+energy units 
+
+Education 
+
+ 
+
+One school costs 2.8 million/ 500 
+
+
+
+
+42 million/15 schools 
+
+students 
+
+Infrastructure 
+(including water 
+networks) 
+
+22.8 million 
+
+Needed to provide the necessary 
+maintenance 
+
+Health 
+
+63 million (two hospitals 
+and five health centers) 
+
+One hospital costs 28 million/ 50 
+thousand citizens 
+
+One comprehensive health center costs 
+1.4 million/ 25 thousand citizens 
+
+Total 
+
+178.4 million 
+
+
+
+ 
+
+c) Energy 
+
+
+
+
+ 
+
+Jordan spent about US$5.6 billion to cover fuel and energy needs in 2011, particularly due to the 
+shift to heavy fuel for electricity generation as a result of the interruption of the supply of Egyptian gas 
+(13 times since February 2011) to the Kingdom, which is the main source of fuel for electricity 
+generation. Jordan energy bill has increased by more than half in year 2011. The Government subsidized 
+electricity and fuel during 2011 to cover the increasing demand on the energy sector with an amount of 
+US$1.2 billion and US$773.5 million respectively. To cover the supply of energy for 120 thousands 
+Syrians the budget bears around US$38.3 annually (US$318,775/1,000 Syrians). 
+
+ 
+
+Further capital expenditures are needed to be capable to maintain the level of energy services 
+provided by the Government. According to the Ministry of Energy and Mineral Resources, US$ 1 million 
+needed to generate one megawatt of energy. 120 thousand Syrians need US$50.6 million (each 
+1,000/US$421,666). 
+
+ 
+
+d) Water 
+
+
+
+
+ 
+
+Water shortage has become of permanent nature in Jordan and meeting water demands is a critical 
+challenge. Jordan has reached a water crisis juncture that is expected to deepen; as present water use 
+already exceeds the renewable freshwater resources by more than 20 percent. Jordanian's share of fresh 
+water per year at less than 145 cubic meters, compared to global poverty line of water of 500 cubic meters 
+while the world average is 4,000 cubic meters, which places serious constraints on the country’s overall 
+development process. The Government of Jordan maintains high levels of subsidies in water sector and 
+the public water services that are provided by the Water Authority of Jordan. 
+
+ 
+
+According to the Ministry of Water and Irrigation, the capital expenditures and running costs paid 
+during the period March 2011 until March 2012 to the sites where the Syrians are located in Jordan were 
+around US$30 million (US$273,882/1000 Syrians). 
+
+ 
+
+e) Education 
+
+
+
+
+ 
+
+The number of Syrian students enrolled at public schools for the current academic year reached 
+7,376. Each student costs the Government around US$847 annually (school renting, remedial classes, 
+school fees and textbooks, liaison officers, furnishing, and recruiting new teachers), whereas the cost of 
+accommodating 7,376 students at public schools reached US$6.25 million. The increasing demand on 
+public schools facilities and the overcrowded school system is hampering the on-going reform program 
+and affecting the quality of education. It is also making it more difficult for the Government to continue 
+with its plans to eliminate the double-shift school system and stop renting school buildings. Furthermore, 
+during 2011-2012 around 23 thousand students transferred from private schools to public school, as a 
+result of the difficult economic situation, adding more pressure that needs to be accommodated. 
+
+ 
+
+Based on the international standards, every 500 students need a new school. School construction 
+costs around US$2.8 million. The cost of furnishing this school, printing text books, in addition to 
+establishing and furnishing libraries and laboratories is estimated to reach US$48 thousand. Therefore, 
+
+
+the total cost to accommodate 7,376 students through constructing 15 new schools is around US$41.7 
+million. 
+
+ 
+
+f) Health 
+
+
+
+
+ 
+
+Health services are heavily subsidized by the Government, and more than 9 % of the public budget is 
+allocated for the health sector. According to the international standards, 10 percentage of population 
+receives tertiary health care, and 20 percentage receives primary health care (36 thousands Syrians out of 
+120 thousands residing in Jordan), which costs in average around US$678 annually. Therefore, an 
+estimated cost of 120 thousands is around US$24.4 million annually (US$678 thousands/1000 
+individuals). The demand for health services is steadily increasing which requires us to bear an extra 
+burden in this important sector. According to the standards, every 50 thousand citizens need one hospital 
+with a capacity of 100 beds with an estimated cost of US$28 million to construct and equip one hospital. 
+In addition to US$1.4 million to establish one comprehensive health center. Hence, in order to meet the 
+health needs for a population of 120 thousand, there is a need to invest in US$63 million to construct two 
+hospitals and five comprehensive health centers. 
+
+ 
+
+g) National Security 
+
+
+. Public Security Directorate (PSD) 
+
+
+A number of security measures have been undertaken by the PSD since the beginning of the crises in 
+March 2011. These measures have incurred an additional burden that caused further expenditures to meet 
+the huge influx of Syrians into Jordan, through deploying extra security forces (policemen, vehicles, and 
+equipment). According to the PSD, an amount of US$11.7 million was spent during the period March 
+2011 until March 2012 for this purpose. 
+
+ 
+
+. Civil Defence and Border Security Measures 
+
+
+Jordan Civil Defence has played a key role in providing emergency services to the needed Syrians 
+arriving to Jordan. Civil Defence also has installed a number of civil defence unites to provide the 
+required services in the cities and villages with a concentration of Syrians, in addition to the border 
+centers and security measures undertaken. The direct and indirect cost is estimated to reach US$8.3 
+million annually. 
+
+ 
+
+Additionally, indirect costs were incurred due to receiving Syrians. Sectors of food, water, electricity, 
+road maintenance, and energy have been heavily affected, which increased the burdens on the budget and 
+decreased the financial, social, and accommodations capacities of the hosting community. Syrians are 
+arriving to the Kingdom with no money, no jobs, and no accommodation. This has led to escalating 
+houses’ rents, in addition to competing with local citizens on the limited job opportunities. Cheap Syrian 
+labor is preferable to the employers. They work for long hours and paid low wages. Furthermore, hosting 
+thousands of Syrians requires adequate security measures to keep the societies monitored and safe. 
+
+
+ 
+
+Accordingly, the Government of Jordan estimates show that hosting over 120,000 Syrians is 
+expected to cost the country about US$347.5 million, out of which US$123 million needed annually to 
+cover the increasing demand on basic services, US$46.07 million in the form of subsidies. And, if Syrians 
+stay for a longer time, US$178.4 million are needed for capital expenditures, as stated in the table below 
+
+ (US$ million) 
+
+Item 
+
+Cost to cover the needs of 120 thousand Syrians 
+
+Current expenditures (direct and 
+indirect) 
+
+123 
+
+Subsidies 
+
+46.07 
+
+Capital Expenditures 
+
+178.8 
+
+Total 
+
+347.5 
+
+
+
+
+12.2. Annex 2 Assessment Taskforce 
+
+ 
+
+Assessment Leader 
+
+ 
+
+Feda Gharaibeh 
+
+Director, Iraq Coordination Unit, Ministry of Planning and International Cooperation 
+(MOPIC) 
+
+ 
+
+Iraq Coordination Unit/ MOPIC 
+
+1) Omar Nuseir 
+
+
+Senior Coordinator 
+
+2) Zina Jinini 
+
+
+Senior Coordinator 
+
+3) Duha Abbadi 
+
+
+Researcher 
+
+4) Halla Talhouni 
+
+
+Researcher 
+
+5) Esam Raggad 
+
+
+Researcher 
+
+6) Sabah Al Arja 
+
+
+Administrative Assistant 
+
+ 
+
+Department of Statistics 
+
+ 
+
+1) Batoul Obaid Director of Statistical Techniques and 
+Methodologies 
+
+
+2) Fahed Alaween Head of Field Economic Survey 
+
+
+ 
+
+Jordanian Hashemite Charity Organization (JHCO) 
+
+ 
+
+1) Mohammad Naser Kilani 
+2) Sameer Abd Al-Aal 
+
+
+ 
+
+Technical Co leaders 
+
+ 
+
+1) Yaver Ali Sayyed 
+
+
+Regional Programme Officer, WFP, Iraq 
+
+2) Mohammad Ismail 
+
+
+Programme Officer, WFP, Amman 
+
+3) Dr Nada Jawad 
+ALWARD 
+
+
+Emergency Coordinator, WHO, Amman 
+
+4) Hassan Mohammed 
+5) LayaliAbySair 
+
+
+Community Services Officer, UNHCR, Amman 
+
+Program Analyst, UNFPA Amman 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Field Team Participants 
+
+Group 1 
+
+ 
+
+1) Amina Asfour 
+
+
+WFP, Amman 
+
+2) KholoodMaayteh 
+
+
+Department of Statistics 
+
+3) EmanBanyMfarej 
+
+
+Department of Statistics 
+
+4) Huda Shabsough 
+
+
+UNHCR Amman 
+
+5) ButhinaKhatib 
+
+
+UNICEF, Amman 
+
+ 
+
+ 
+
+Group 2 
+
+ 
+
+1) AbdelnaserAltahat 
+
+
+Department of Statistics 
+
+2) Mohammed Alsheab 
+
+
+Department of Statistics 
+
+3) Rami AL- Majali 
+
+
+UNHCR Amman 
+
+4) Mohammad Thnyyan 
+
+
+Department of Statistics 
+
+5) Mohammed Ismail 
+
+
+WFP, Amman 
+
+
+
+ 
+
+
+
+
+Group 3 
+
+ 
+
+1) MaramAljammal 
+
+
+Department of Statistics 
+
+2) NihadAlemat 
+
+
+Department of Statistics 
+
+3) DeemaJarrar 
+
+
+UNICEF, Amman 
+
+4) ButhinaKhatib 
+
+
+UNICEF, Amman 
+
+5) RubaMukbil 
+
+
+UNICEF, Amman 
+
+ 
+
+Group 4 
+
+ 
+
+1) Ahmad Mowafi 
+
+
+Department of Statistics 
+
+2) Ahmad Dawageh 
+
+
+Department of Statistics 
+
+3) Abdul Kareem 
+
+
+UNHCR, Amman 
+
+4) Hanan Zanoun 
+
+
+UNESCO, Amman 
+
+ 
+
+Group 5 
+
+ 
+
+1) NawafAlomari 
+
+
+Department of Statistics 
+
+2) Ghaidaa Khasawneh 
+
+
+Department of Statistics 
+
+3) AmeraFaraj 
+
+
+UNHCR, Amman 
+
+4) Dana AL- Karuti 
+
+
+UNHCR, Amman 
+
+ 
+
+Group 6 
+
+ 
+
+1) WasfiMayyas 
+
+
+Department of Statistics 
+
+2) Ali Al-Hawamdeh 
+
+
+Department of Statistics 
+
+3) Ibrahim Hammad 
+
+
+UNHCR, Amman 
+
+4) Hassan Al-Jubouri 
+
+
+WFP, Iraq 
+
+
+
+
+12.3. Annex 3 Technical Recommendations 
+
+ 
+
+The table hereunder presents the recommendations made by the Joint Assessment as of March 2012: 
+
+ 
+
+Table 1: General Technical Recommendations 
+
+1. Coping Strategies, Income and Expenditures 
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+ 1. The international community should provide 
+support to the government of Jordan to be able to continue 
+subsidizing the basic needs and commodities and 
+providing the services needed for all i.e. education, health, 
+energy, and others. This will help the Government to give 
+Syrians access to the Jordanian medical services and 
+continue providing access to Syrian children to its public 
+schools. 
+
+Donors, UNHCR, 
+MOH, WHO 
+
+ 
+
+UNHCR,MOH,WHO,UNFPA, MOPIC 
+
+ 
+
+2. To consider the possibility of providing monthly 
+cash assistance to vulnerable Syrians in Jordan according 
+to a criteria agreed upon with the Government. Financial 
+assistance is considered a main protection tool which 
+avoids opting for illegal work, exposure to exploitation 
+and other negative coping mechanisms. The financial 
+assistance seeks to protect Syrians’ dignity since the 
+assistance can be based on their needs which they 
+themselves prioritize and it can be brought to them- 
+through ATM cards- in a more dignified manner than in-
+kind assistance. 
+
+UNHCR, JHCO, 
+WFP Activities 
+
+May 
+
+WFP, UNHCR, MOPIC, 
+JHCO 
+
+ 
+
+ 
+
+
+
+
+ 3. Were cash assistance is not appropriate, a 
+voucher system could be considered 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. Programmes that engage affected local populations 
+should be introduced to provide incomes and to create 
+assets in rural areas of Jordan 
+
+GoJ, MOL 
+Activities 
+
+ 
+
+MOPIC, MOL, UNHCR 
+
+ 
+
+ 
+
+5. Implement information sharing and coordination 
+of programs among UN agencies 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. Training and awareness raising of local NGOs and 
+governorates’ staff 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7. Provide assistance directly to the Government to 
+continue with and expand the school feeding program in 
+public schools. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+2. Food Security 
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+1. Donors should support the budget to enable 
+the Government continue subsidizing basic commodities 
+and items. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Food assistance for vulnerable Syrians, in 
+coordination with cash distribution should be provided. 
+
+
+ 
+
+WFP Activities 
+
+April 
+
+WFP, UNHCR 
+
+ 
+
+3. implement a robust monitoring system for 
+food needs and food utilization 
+
+
+WFP Activities 
+
+April 
+
+WFP, UNHCR 
+
+ 
+
+4. Explore possibilities of CFW/Voucher 
+schemes, bearing in mind the cash assistance provided 
+through ATM card to be rolled out for Syrians upon 
+approval of the Government on the criteria and 
+distribution mechanism. 
+
+
+WFP, MOPIC 
+Activities 
+
+May 
+
+WFP, MOPIC, JHCO, UNHCR 
+
+ 
+
+ 
+
+5. Advocacy of special distribution during 
+Ramadan. 
+
+
+Donors, WFP, 
+MOPIC 
+
+June 
+
+WFP, MOPIC, JHCO, UNHCR 
+
+ 
+
+3. th and Reproductive Health 
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+1. Since the crisis is still evolving, and the 
+situation on the ground may be changing very quickly, 
+the increase in demand will overwhelm the capacity of 
+the public health services provided by the Jordanian 
+Government, its international partners and the local NGO 
+services. Accordingly, the international community 
+should step in to provide support to the Government of 
+Jordan and to the international and local organizations 
+working on the ground to ensure access of the Syrians in 
+
+
+Approach international communities and 
+donors to provide technical and financial 
+assistance 
+
+May 
+2012 
+
+MOPIC, UNHCR, 
+WHO, UNICEF, UNFPA 
+
+ 
+
+
+
+
+2. Food Security 
+
+
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+Jordan to quality health care. 
+
+
+ 
+
+2. Harmonization of the government subsidized 
+services to be granted to the Syrians with that already 
+granted to the Iraqis is advised. This step will make it 
+easier for the Jordanian Government to calculate the cost 
+of the provided services and will prevent the sensitivities 
+that may arise due to differing service packages. 
+
+
+ 
+
+ 
+
+Assess and measure the cost of health 
+services provided by MOH for Syrians and 
+seek donors support 
+
+ 
+
+Issues clear guidelines to harmonized 
+the costs of services for Iraqis and Syrians if 
+approved by the Government 
+
+June 
+2012 
+
+MOH, MOPIC, 
+UNHCR, WHO, 
+UNICEF, UNFPA 
+
+ 
+
+
+
+
+4. Education 
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+1. Provide support to the Jordanian public 
+education sector to strengthen the capacity in 
+order to accommodate a growing influx of Syrian 
+students while sustaining the quality of education. 
+
+Provide MoE with 
+technical and financial 
+support to rent, double 
+shift, refurbish rented 
+schools and hire new 
+teachers. 
+
+Ongoing 
+
+UNICEF, 
+MOE, MOPIC 
+
+UNICEF has signed a protocol 
+with MoPIC on behalf of MoE to 
+boost MoE capacity to 
+accommodate the growing number 
+of Syrian students in Jordan. 
+
+2. Conduct awareness campaigns for families 
+on the right of children to education, and on the 
+educational services in Jordan. 
+
+Education 
+Awareness raising 
+activities to be 
+undertaken by relavant 
+Organizations 
+
+Ongoing 
+
+UNICEF, 
+UNICEF partners, 
+MOE, MOPIC, 
+UNHCR 
+
+Awareness raising activities 
+were initiated by UNICEF and its 
+partners and will continue with 
+potential activity scale up 
+
+3. Tutoring support or remedial classes for 
+children and youth to facilitate their return to and 
+retention in schools. 
+
+TOT, training of 
+school supervisors, and 
+teacher training 
+
+Under 
+discussion 
+
+UNESCO, 
+MOE, MOPIC 
+
+TOT, training of school 
+supervisors, and teacher training 
+
+UNICEF will 
+conduct remedial classes 
+at MoE and community 
+level. 
+
+On going 
+
+UNICEF, 
+MOE, MOPIC, 
+UNHCR, 
+UNESCO 
+
+UNICEF has started some 
+remedial classes at the Community 
+level and is starting remedial 
+classes at MoE schools in June. 
+
+4. Literacy campaign and awareness-raising 
+programmes for out of school children and their 
+parents/ care givers (especially targeting mothers) 
+
+Implement media 
+campaign 
+
+ 
+
+UNESCO, 
+MOE, MOPIC 
+
+ 
+
+UNICEF will 
+conduct informal 
+education activities at the 
+community level 
+
+June 2012 
+
+UNICEF,MOE, NGOs 
+
+Informal education activities 
+are starting by UNICEF partner in 4 
+geographical areas for six months 
+period. 
+
+
+
+
+4. Education 
+
+
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+5. Provide psychosocial support to Syrian 
+students at schools and inform the school 
+counsellors of the available psychosocial services 
+for further referrals. 
+
+UNESCO will focus 
+on the wellbeing of youth 
+age 18-24 
+
+ 
+
+MOE,UNESCO, MOPIC 
+
+ 
+
+UNICEF will 
+conduct PSS support to 
+children at schools and 
+rely on UNICEF-MOE 
+trained counsellors to 
+provide second level of 
+PSS support to children 
+while refer children who 
+are in need to higher 
+level of support to 
+concerned organisations. 
+
+On going 
+
+MOE,UNICEF, MOPIC 
+
+ 
+
+6. Provide school kits, uniform– among 
+others- for Syrian students and needy students in 
+schools. 
+
+UNICEF will 
+provide school children 
+with supply that would 
+facilitate their school 
+attendance 
+
+May 2012 
+
+UNICEF, 
+MOPIC, MOE 
+
+UNICEF procured school kits 
+and is finalising the distribution 
+mechanism with a contracted NGO. 
+
+7. Provide non formal education or literacy 
+classes for students that can’t be reintegrated at 
+schools and are working. 
+
+Establish partnership 
+with relevant NGOs/ 
+CBOs in areas of high 
+concentration of Syrians 
+to start these activities 
+
+Ongoing 
+
+UNICEF. 
+MOPIC, MoE 
+
+Since the non-formal education 
+is a lengthy programme, UNICEF 
+in partnership with the Questscope 
+is starting the first cycle (informal) 
+in June with the possibility to move 
+to the second cycle in eight months. 
+
+ 
+
+
+
+
+4. Education 
+
+
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+8. Post-secondary education opportunities for 
+youth at tertiary levels 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Approach Donors 
+and raise funds for post 
+secondary education 
+
+To be 
+determined 
+
+MOE, 
+
+MOPIC 
+
+ 
+
+ 
+
+ 
+
+9. Supporting and monitor the access of 
+Syrian students to primary and secondary 
+education. 
+
+ 
+
+Establish a 
+mechanism in 
+collaboration with MoE 
+to better monitor and 
+support the access of 
+Syrian children to public 
+education 
+
+ 
+
+To be 
+determined 
+
+MOE, 
+UNICEF, 
+UNESCO, 
+UNHCR, MOPIC 
+
+ 
+
+10. Consider undertaking further sectoral 
+research on issues like literacy level, learning 
+achievements, completion rates, etc. 
+
+Discuss with MoE 
+and other relevant 
+partners the areas that 
+need to be assessed in 
+education to further 
+inform decisions on 
+programme planning 
+
+ 
+
+June 2012 
+
+MOE,UNICEF,UNHCR 
+
+UNICEF has signed an 
+agreement with Questscope to 
+undertake a participatory reflection 
+and action appraisals to ensure 
+appropriate educational and 
+supportive interventions for 
+programming with local Syrian 
+refugee groups and local Jordanian 
+community-based organizations 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+5. Youth 
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+1. Further identification (through participatory 
+assessments) of the specific needs of male and female 
+youth/adolescents in order to develop and implement tailor-
+made interventions 
+
+
+UNESCO 
+
+ 
+
+MOPIC, UNESCO, 
+DOS, UNFPA 
+
+ 
+
+
+
+ 
+
+6. Protection 
+6.1. General Protection 
+
+
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+1. It is recommended that UNHCR 
+prepares an information dissemination strategy 
+about its mandate, its help disk offices in other 
+governorates and its services too. This strategy 
+can combine various methodologies such as 
+awareness raising focus group discussions, 
+leaflets in the government hospitals and clinics 
+
+
+ 
+
+on going 
+
+UNHCR, MOPIC 
+
+ 
+
+2. UNHCR is to reconsider its 
+services to the Syrian population. 
+
+
+ 
+
+ 
+
+ 
+
+UNHCR 
+
+ 
+
+
+
+
+ 
+
+6.2. Child Protection 
+
+
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+1. Provide financial and in-kind assistance in close 
+coordination with Government to vulnerable families to prevent 
+further child protection issues to respond to child protection issues 
+such as child labor 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Strengthen the national monitoring and reporting 
+mechanisms to include the Syrian community 
+
+
+ 
+
+ 
+
+Iraq Coordination 
+Unit/ MOPIC 
+
+ 
+
+3. Strengthen the role of the Family Protection Directorate to 
+respond and deal with Syrian cases of violence & abuse 
+
+
+ 
+
+ 
+
+MOPIC, FPD 
+
+ 
+
+4. Conduct an awareness campaign for the Syrian and host 
+community on different protection issues including expanding the 
+better parenting program to raise the awareness of Syrian parents & 
+caregivers on child rearing practices and protection issues 
+
+
+Agree on the 
+messages to be 
+conveyed, print 
+simple leaflets, 
+work with partners 
+and different 
+media outlets, 
+conduct awareness 
+raising sessions 
+
+On-going 
+
+UNHCR, UNICEF, 
+CP GBV Working Group 
+
+ 
+
+5. Strengthen the psychosocial support programs targeting all 
+age groups of Syrian community who were subjected to any form of 
+violence, abuse or torture 
+
+
+ 
+
+Provide 
+psychosocial 
+services, capacity 
+building for 
+service providers 
+
+On-going 
+
+UNICEF, NGOs, 
+FPD 
+
+ 
+
+6. To create child and adolescent friendly spaces for Syrian 
+boys & girls especially those who have been exposed to child 
+protection issues 
+
+
+Set up child 
+and adolescent 
+friendly spaces 
+
+On-going 
+
+Save the children 
+international, CP GBV 
+Working Group 
+
+ 
+
+7. Strengthen the referral system to meet the needs of the 
+Syrian community 
+
+
+Establish 
+referral pathway 
+together with key 
+protection actors, 
+produce service 
+guide to facilitate 
+
+On-going 
+
+UNICEF, CP GBV 
+Working Group 
+
+ 
+
+
+
+
+6.2. Child Protection 
+
+
+
+
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+access to services 
+
+8. Address the root causes of child labour by offering 
+assistance programmes to the families who are sending their young 
+children to schools and monitor their regular attendance. 
+
+
+ 
+
+ 
+
+UNICEF, UNHCR, 
+CP and GBV Working 
+Group, Cash and NFI 
+Working Group 
+
+ 
+
+9. Provide support to the Ministry of Labor and enhance the 
+role of inspectors to impose the law to prevent child labor 
+
+
+ 
+
+ 
+
+CP and GBV 
+Working Group 
+
+ 
+
+6.4 Domestic Violence 
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+1. Support to the Ministry of 
+Social Development and the Family 
+Protection Department to deal with cases 
+of domestic violence among Syrians. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Need for psychosocial 
+support to women who were subjected to 
+Sexual and Gender Based Violence 
+(SGVB) before coming to Jordan. 
+
+
+Discuss with potential 
+partners and sign 
+agreements with NGOs , 
+develop proposal to 
+donors, conduct training 
+with service providers on 
+counselling, monitoring 
+and evaluation 
+
+on going 
+
+UNICEF, UNHCR, 
+MOH, 
+UNFPA, 
+IFH, CBOs, 
+working 
+group on 
+protection 
+of women 
+and 
+children, 
+MOPIC 
+
+Start date depends on the approval from the 
+Government and the availability of funds 
+
+3. Future activities targeting 
+women, especially young women have to 
+ensure they are provided in place 
+considered safe from the Syrian women’s 
+perspective. 
+
+
+Identify with various 
+resources safe places for 
+Syrian women , 
+agreements to be signed 
+with NGOs, Family 
+
+ 
+
+UNHCR,UNICEF, 
+UNFPA, 
+IFH 
+UNFPA, 
+
+Start date depends on the approval from the 
+Government and the availability of funds 
+
+
+
+
+6.2. Child Protection 
+
+
+
+
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+ 
+
+Protection 
+Department/FPD 
+
+IFH, CBOs, 
+working 
+group on 
+protection 
+of women 
+and 
+children, 
+MOPIC 
+
+4. Awareness raising is needed 
+targeting Syrian women on domestic 
+violence, their rights and available 
+services in Jordan, and awareness raising 
+is needed targeting Syrian men on 
+domestic violence and stress 
+management. 
+
+
+ 
+
+Agree on the 
+messages to be conveyed, 
+print simple leaflets, work 
+with local radios, conduct 
+theatre based edutainment, 
+Agreements to be signed 
+with NGOs, FPD 
+
+on going 
+
+UNICEF, UNFPA, 
+UNFPA, 
+IFH 
+UNFPA, 
+Institute for 
+Family 
+Health 
+(IFH), 
+CBOs, 
+working 
+group on 
+protection 
+of women 
+and 
+children, 
+FPD 
+
+Start date depends on the approval from the 
+Government and the availability of funds 
+
+5. NGOs to work on raising the 
+awareness of Syrian and hosting 
+communities on the early marriage issues 
+and relevant Jordanian laws 
+
+
+Agreements to be 
+signed with NGOs, 
+conduct training for 
+service providers on early 
+marriage, conduct 
+awareness raising sessions 
+for religious leaders and 
+
+ 
+
+NGOs, 
+UNFPA, 
+IFH, 
+Islamic 
+Centres 
+Society 
+
+ 
+
+
+
+
+6.2. Child Protection 
+
+
+
+
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+Jordanian and Syrians. 
+
+6. Raising awareness of aid 
+providers on standards and codes of 
+conduct in aid provision in line with local 
+cultures. 
+
+
+ 
+
+Conduct workshops 
+for NGOs on standards of 
+conduct for aid and social 
+workers. 
+
+ 
+
+UNFPA, UNHCR, 
+JHCO 
+
+ 
+
+
+
+ 
+
+7. Gaps and Immediate Needs 
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+1. Financial assistance should be 
+considered in a timely manner. This 
+assistance will allow Syrians to priorities 
+their needs in a dignified manner. Criteria 
+for providing financial assistance should 
+be agreed upon by the Government 
+
+
+WFP Activities 
+
+ 
+
+UNHCR, 
+JHCO 
+
+ 
+
+In case the government of Jordan 
+decides to allow Syrians to occupy jobs 
+that are restricted for non-Jordanians, 
+then the international community 
+assistance is needed. 
+
+MOPIC, MOL 
+Activities 
+
+ 
+
+MOPIC, 
+UNHCR 
+
+ 
+
+2. Awareness sessions on 
+vaccination and women reproductive 
+health in public health centers 
+
+
+UNFPA, WHO 
+
+ 
+
+MOPIC, 
+MoH 
+
+ 
+
+3. A robust scheme to cover 
+accommodation costs is needed. 
+
+
+ 
+
+Continues 
+
+GoJ, NGOs, 
+UN Agencies 
+
+Under UNHCR ATM cash 
+assistance programme, which is 
+already being implemented with 
+the Iraqis and being incrementally 
+rolled out for the Syrians. 
+
+
+
+
+8. Support and Assistance 
+
+
+Recommendations 2012 
+
+Actions 
+
+Deadline 
+
+Partners 
+
+Remarks 
+
+1. Donor's community should be 
+more supportive to the Government of 
+Jordan. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. UNHCR staff members and 
+its partners should contribute to raise the 
+awareness of the registered Syrian 
+population on types of assistance- those 
+which are provided by the organisation 
+and by the government 
+
+
+ 
+
+On going 
+
+UNHCR 
+
+ 
+
+3. Complaints reporting system 
+for the Syrian population should be 
+established. The UNHCR and the 
+government of Jordan can establish a 
+joint one. 
+
+
+ 
+
+To be 
+discussed 
+with MOPIC 
+and 
+established 
+
+Iraq 
+Coordination Unit 
+Hotline/ MOPIC, 
+UNHCR, MOPIC, 
+MOI 
+
+ 
+
+
+
+ 
+
+
+12.4. Annex 4 Concept Note 
+
+Concept Note 
+
+Rapid joint needs assessment of Syrians in Jordan 
+
+March 2012 
+
+ 
+
+Background 
+
+ 
+
+Since March 2011 the conflict in Syria has resulted in movement of thousands of Syrian nationals to 
+Jordan who are in urgent need of humanitarian assistance across the country with concentrations in six 
+governorates: Amman, Irbid, Mafra’a, Zarqa, Jarash and Ma’an. The GOJ announced some 85 thousand 
+Syrians who crossed the borders and stayed in the country, although not all of these would be considered 
+POC i.e. in need of humanitarian assistance. 
+
+ 
+
+Following consultations between the GOJ (Ministry of Planning and International Cooperation- 
+MOPIC and the Department of Statistics- DOS) and UN agencies, it was agreed to carry out a rapid needs 
+assessment to inform on the immediate needs of POCs. For that purpose, assessment task force was 
+convened by MOPIC consisting of MOPIC, DOS, JHCO, UNHCR, WFP, UNICEF, UNFPA, UNESCO 
+and WHO which agreed on the following: 
+
+ 
+
+Objectives 
+
+ 
+
+The general objective of the assessment is to take stock of the needs of POCs who arrived in Jordan 
+as a result of the unrest that started in Syria in March last year in order to better inform the response 
+options of the different stakeholders, covering the following sectors and issues: 
+
+ 
+
+1) Living conditions (including shelter). 
+2) Coping mechanisms (including external/ humanitarian support, income and expenditures 
+including food) 
+3) Protection 
+4) Health 
+5) Education 
+6) Gaps and immediate needs 
+
+
+ 
+
+Methodology: participatory assessments which consist of: 
+
+ 
+
+1) Focus group discussions with 30 groups of ten participants each, i.e. a sample population of 
+300, divided into six categories by age (youth 13-24, adults and elderly 60+ - the latter including persons 
+with disabilities) and gender. 
+2) Key informants meetings (Mayors and directors of Health, Social development, and 
+Education Directorates in the targeted area). 
+3) Secondary data review. 
+
+
+ 
+
+To be conducted by six teams, each team consisting of 2 UN and 2 GOJ (DOS) staff. (i.e. 24 staff 
+from UN and GOJ will be involved in the data collection after the training) 
+
+ 
+
+Locations covered will be Amman, Irbid (including Ramtha), Mafraq, Zarqa, and Ma’an. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Schedule 
+
+Dates 
+
+Action 
+
+14 March 
+
+UN agencies and GOJ agree on themes, methodology and plan of 
+action 
+
+14 March 
+
+Inputs received on themes from relevant agencies 
+
+14 March 
+
+Templates developed and agreed upon 
+
+22 March 
+
+Secondary data sources and key informants determined 
+
+22 March 
+
+DOS staff trained 
+
+25-31 March 
+
+Data collection (includes organizing venues and calling POC 
+participants) 
+
+1st-2nd April 
+
+Data analysis 
+
+3-19 April 
+
+Report writing 
+
+
+
+ 
+
+ 
+
+. Final report should be disseminated upon approval of the Government. 
+
+
+ 
+
+. In conformity with DOS Law, all documents are the ownership of the Department of 
+Statistics. 
+
+
+ 
+
+
+ 
+
+12.5. Annex 5 Questionnaires 
+
+1) Rapid Joint Needs Assessment for Syrians in Jordan. 
+
+
+(Focus Group Discussion Guide) 
+
+ 
+
+2) Joint Needs Assessment for Syrians in Jordan. 
+
+
+(Key informers interview) 
+
+ 
+
+ 
+
+3) .... ......... ....... ............... ........ ....... .. .... 
+
+
+)...... ...... ........ ...... ....( 
+
+ 
+
+4) ........ ........ ....... .. ........ ......... ....... ....... 
+
+
+
+... ..... ....... ...... ....( 
+
+
