@@ -11,9 +11,10 @@
  
  ## Data Science and Predictive Analytics Acumen and Techniques:
  ### Results: 10+ Years in analytics and MS in Data Science/Predictive Analytics from #2 program in US
-  * [Database Design and Implimentation](https://github.com/wisconsin545/Landing2/tree/master/DataScience%20and%20Predictive%20Analytics/Database%20Design%20and%20Implimentation) 
+  * [Database Design, Warehousing and Data Mining](https://github.com/wisconsin545/Landing2/tree/master/DataScience%20and%20Predictive%20Analytics/Database%20Design%20and%20Implimentation) 
   * [Predictive Modeling: Neural Networks, Tree-Structured, Linear, Logistic, Poisson and Negative Binomial Regression, Time Series and Econometrics (AR, MA, ARMA, ARIMA), Principal Components Analysis, Hierarchial and Non-Hierarchial Clustering, Supervised and Unsupervised Learning,  ]() [Stats](https://github.com/wisconsin545/Landing2/tree/master/DataScience%20and%20Predictive%20Analytics/stats/401),  
   * [Survey Design and Implimentation](https://github.com/wisconsin545/Landing2/tree/master/DataScience%20and%20Predictive%20Analytics/Survey%20Design%20and%20Implementation)
+  * [Natural Language Processing](https://github.com/wisconsin545/Landing2/tree/master/DataScience%20and%20Predictive%20Analytics/Natural%20Language%20Processing)
  
 ### In addition to portofolio management, I've developming merchandising, marketing, supply chain, compliance, law, risk, cyber security, global affairs, brand management, and managerial data science algorithms, strategies and implimentation plans, I've created and saved organizations millions. 
 
