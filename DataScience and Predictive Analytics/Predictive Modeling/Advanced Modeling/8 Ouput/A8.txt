@@ -1,0 +1,842 @@
+ examine the struction of the spatial points data frame
+> print(str(houses.train))  
+Formal class 'SpatialPointsDataFrame' [package "sp"] with 5 slots
+  ..@ data       :'data.frame': 1307 obs. of  19 variables:
+  .. ..$ value          : num [1:1307] 352100 341300 342200 269700 299200 ...
+  .. ..$ income         : num [1:1307] 7.26 5.64 3.85 4.04 3.66 ...
+  .. ..$ age            : num [1:1307] 52 52 52 52 52 52 52 52 52 50 ...
+  .. ..$ rooms          : num [1:1307] 1467 1274 1627 919 2535 ...
+  .. ..$ bedrooms       : num [1:1307] 190 235 280 213 489 434 474 191 626 283 ...
+  .. ..$ pop            : num [1:1307] 496 558 565 413 1094 ...
+  .. ..$ hh             : num [1:1307] 177 219 259 193 514 402 468 174 620 264 ...
+  .. ..$ latitude       : num [1:1307] 37.9 37.9 37.9 37.9 37.8 ...
+  .. ..$ longitude      : num [1:1307] -122 -122 -122 -122 -122 ...
+  .. ..$ log_value      : num [1:1307] 12.8 12.7 12.7 12.5 12.6 ...
+  .. ..$ income_squared : num [1:1307] 52.7 31.8 14.8 16.3 13.4 ...
+  .. ..$ income_cubed   : num [1:1307] 382.2 179.7 56.9 65.8 49 ...
+  .. ..$ log_age        : num [1:1307] 3.95 3.95 3.95 3.95 3.95 ...
+  .. ..$ log_pc_rooms   : num [1:1307] 1.084 0.826 1.058 0.8 0.84 ...
+  .. ..$ log_pc_bedrooms: num [1:1307] -0.96 -0.865 -0.702 -0.662 -0.805 ...
+  .. ..$ log_pop_hh     : num [1:1307] 1.03 0.935 0.78 0.761 0.755 ...
+  .. ..$ log_hh         : num [1:1307] 5.18 5.39 5.56 5.26 6.24 ...
+  .. ..$ select         : Factor w/ 2 levels "Selected","Not Selected": 1 1 1 1 1 1 1 1 1 1 ...
+  .. ..$ Group          : Factor w/ 2 levels "TRAIN","TEST": 1 1 1 1 1 1 1 1 1 1 ...
+  ..@ coords.nrs : num(0) 
+  ..@ coords     : num [1:1307, 1:2] -122 -122 -122 -122 -122 ...
+  .. ..- attr(*, "dimnames")=List of 2
+  .. .. ..$ : NULL
+  .. .. ..$ : chr [1:2] "coords.x1" "coords.x2"
+  ..@ bbox       : num [1:2, 1:2] -122.4 37 -121.9 37.9
+  .. ..- attr(*, "dimnames")=List of 2
+  .. .. ..$ : chr [1:2] "coords.x1" "coords.x2"
+  .. .. ..$ : chr [1:2] "min" "max"
+  ..@ proj4string:Formal class 'CRS' [package "sp"] with 1 slots
+  .. .. ..@ projargs: chr NA
+NULL
+> 
+> # --------------------------------------------
+> # Linear regression a la Pace and Barry (1997)
+> # --------------------------------------------
+> pace.barry.train.fit <- lm(pace.barry.model, data = houses.train)
+> 
+> print(pace.barry.train.fit)
+
+Call:
+lm(formula = pace.barry.model, data = houses.train)
+
+Coefficients:
+    (Intercept)           income   income_squared     income_cubed  
+     11.4237051        0.3051386       -0.0063915       -0.0003248  
+        log_age     log_pc_rooms  log_pc_bedrooms       log_pop_hh  
+      0.0573435       -0.3002109        0.0402894       -0.5801412  
+         log_hh  
+      0.0687831  
+
+> print(summary(pace.barry.train.fit))
+
+Call:
+lm(formula = pace.barry.model, data = houses.train)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-1.83104 -0.15433 -0.01033  0.16552  1.61647 
+
+Coefficients:
+                  Estimate Std. Error t value Pr(>|t|)    
+(Intercept)     11.4237051  0.1401238  81.526  < 2e-16 ***
+income           0.3051386  0.0306469   9.957  < 2e-16 ***
+income_squared  -0.0063915  0.0046487  -1.375  0.16940    
+income_cubed    -0.0003248  0.0002113  -1.537  0.12449    
+log_age          0.0573435  0.0182177   3.148  0.00168 ** 
+log_pc_rooms    -0.3002109  0.0572792  -5.241 1.86e-07 ***
+log_pc_bedrooms  0.0402894  0.1096682   0.367  0.71340    
+log_pop_hh      -0.5801412  0.1067262  -5.436 6.51e-08 ***
+log_hh           0.0687831  0.0122027   5.637 2.12e-08 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.2842 on 1298 degrees of freedom
+Multiple R-squared:  0.6452,    Adjusted R-squared:  0.643 
+F-statistic:   295 on 8 and 1298 DF,  p-value: < 2.2e-16
+
+> 
+> # direct calculation of root-mean-squared prediction error 
+> # obtained directly on the training data
+> print(rmspe(houses.train$log_value, predict(pace.barry.train.fit))) 
+[1] 0.2832567
+> # report R-squared on training data
+> print(cor(houses.train$log_value,predict(pace.barry.train.fit))^2)
+[1] 0.6451926
+> 
+> cat("\n\nTraining set proportion of variance accounted",
++   " for by linear regression = ",
++   sprintf("%1.3f",cor(houses.train$log_value,
++   predict(pace.barry.train.fit))^2),sep=" ")
+
+
+Training set proportion of variance accounted  for by linear regression =  0.645> 
+> # test model fit to training set on the test set
+> print(rmspe(houses.test$log_value, predict(pace.barry.train.fit, 
++   newdata = houses.test))) 
+[1] 0.2584695
+> print(cor(houses.test$log_value,
++   predict(pace.barry.train.fit, newdata = houses.test))^2)
+[1] 0.7015261
+>   
+> cat("\n\nTest set proportion of variance accounted",
++   " for by linear regression = ",
++   sprintf("%1.3f",cor(houses.test$log_value,
++   predict(pace.barry.train.fit, newdata = houses.test))^2),sep=" ")  
+
+
+Test set proportion of variance accounted  for by linear regression =  0.702>   
+> # demonstrate cross-validation within the training set
+> # specify ten-fold cross-validation within the training set
+> # K = folds   R = replications of K-fold cross-validation
+> set.seed(1234)  # for reproducibility
+> folds <- cvFolds(nrow(houses.train), K = 10, R = 50)  
+> cv.pace.barry.train.fit <- cvLm(pace.barry.train.fit, cost = rtmspe, 
++   folds = folds, trim = 0.1)
+> # root-mean-squared prediction error estimated by cross-validation
+> print(cv.pace.barry.train.fit)
+10-fold CV results:
+       CV 
+0.1961384 
+> 
+> # --------------------------------------
+> # Tree-structured regression (simple)
+> # --------------------------------------
+> # try tree-structured regression on the original explantory variables
+> # note that one of the advantages of trees is no need for transformations
+> # of the explanatory variables 
+> rpart.train.fit <- rpart(simple.model, data = houses.train)
+> print(summary(rpart.train.fit))  # tree summary statistics and split detail
+Call:
+rpart(formula = simple.model, data = houses.train)
+  n= 1307 
+
+          CP nsplit rel error    xerror       xstd
+1 0.39438424      0 1.0000000 1.0014294 0.03780573
+2 0.10644598      1 0.6056158 0.6411775 0.02656648
+3 0.06723167      2 0.4991698 0.5266951 0.02612456
+4 0.01783360      3 0.4319381 0.4665344 0.02519227
+5 0.01649829      4 0.4141045 0.4575260 0.02494053
+6 0.01196706      5 0.3976062 0.4382194 0.02459055
+7 0.01000000      6 0.3856392 0.4325026 0.02430745
+
+Variable importance
+  income    rooms      age       hh      pop bedrooms 
+      65       12        9        5        5        4 
+
+Node number 1: 1307 observations,    complexity param=0.3943842
+  mean=12.42984, MSE=0.2261351 
+  left son=2 (711 obs) right son=3 (596 obs)
+  Primary splits:
+      income   < 4.62305 to the left,  improve=0.39438420, (0 missing)
+      rooms    < 1941    to the left,  improve=0.10513490, (0 missing)
+      age      < 35.5    to the right, improve=0.09750198, (0 missing)
+      hh       < 363.5   to the left,  improve=0.03037159, (0 missing)
+      bedrooms < 400.5   to the left,  improve=0.01912662, (0 missing)
+  Surrogate splits:
+      age      < 35.5    to the right, agree=0.630, adj=0.190, (0 split)
+      rooms    < 2705.5  to the left,  agree=0.627, adj=0.181, (0 split)
+      pop      < 1994.5  to the left,  agree=0.557, adj=0.029, (0 split)
+      bedrooms < 26      to the right, agree=0.547, adj=0.007, (0 split)
+      hh       < 19.5    to the right, agree=0.546, adj=0.005, (0 split)
+
+Node number 2: 711 observations,    complexity param=0.106446
+  mean=12.15641, MSE=0.1779834 
+  left son=4 (215 obs) right son=5 (496 obs)
+  Primary splits:
+      income   < 2.66755 to the left,  improve=0.24861280, (0 missing)
+      rooms    < 1806    to the left,  improve=0.11806300, (0 missing)
+      hh       < 420.5   to the left,  improve=0.11476040, (0 missing)
+      bedrooms < 457     to the left,  improve=0.10018020, (0 missing)
+      age      < 35.5    to the right, improve=0.09009454, (0 missing)
+  Surrogate splits:
+      rooms    < 405     to the left,  agree=0.710, adj=0.042, (0 split)
+      hh       < 126.5   to the left,  agree=0.710, adj=0.042, (0 split)
+      pop      < 218.5   to the left,  agree=0.709, adj=0.037, (0 split)
+      bedrooms < 43.5    to the left,  agree=0.703, adj=0.019, (0 split)
+
+Node number 3: 596 observations,    complexity param=0.06723167
+  mean=12.75601, MSE=0.08800114 
+  left son=6 (343 obs) right son=7 (253 obs)
+  Primary splits:
+      income   < 6.33795 to the left,  improve=0.37886360, (0 missing)
+      pop      < 1621.5  to the right, improve=0.02589955, (0 missing)
+      bedrooms < 761.5   to the right, improve=0.02101184, (0 missing)
+      hh       < 730     to the right, improve=0.01722807, (0 missing)
+      age      < 49.5    to the left,  improve=0.01236582, (0 missing)
+  Surrogate splits:
+      hh       < 217     to the right, agree=0.601, adj=0.059, (0 split)
+      bedrooms < 223.5   to the right, agree=0.599, adj=0.055, (0 split)
+      pop      < 582     to the right, agree=0.591, adj=0.036, (0 split)
+      rooms    < 568.5   to the right, agree=0.586, adj=0.024, (0 split)
+      age      < 11.5    to the right, agree=0.584, adj=0.020, (0 split)
+
+Node number 4: 215 observations,    complexity param=0.01649829
+  mean=11.83691, MSE=0.165809 
+  left son=8 (138 obs) right son=9 (77 obs)
+  Primary splits:
+      hh       < 408     to the left,  improve=0.13678410, (0 missing)
+      bedrooms < 433.5   to the left,  improve=0.11955850, (0 missing)
+      pop      < 1190    to the left,  improve=0.11010650, (0 missing)
+      rooms    < 2733    to the left,  improve=0.07772237, (0 missing)
+      age      < 35.5    to the right, improve=0.06135311, (0 missing)
+  Surrogate splits:
+      bedrooms < 433.5   to the left,  agree=0.972, adj=0.922, (0 split)
+      rooms    < 1975    to the left,  agree=0.902, adj=0.727, (0 split)
+      pop      < 1119    to the left,  agree=0.860, adj=0.610, (0 split)
+      income   < 2.5328  to the left,  agree=0.651, adj=0.026, (0 split)
+      age      < 37.5    to the right, agree=0.651, adj=0.026, (0 split)
+
+Node number 5: 496 observations,    complexity param=0.0178336
+  mean=12.29491, MSE=0.1198312 
+  left son=10 (250 obs) right son=11 (246 obs)
+  Primary splits:
+      rooms    < 2019.5  to the left,  improve=0.08868108, (0 missing)
+      hh       < 423.5   to the left,  improve=0.08866103, (0 missing)
+      bedrooms < 409.5   to the left,  improve=0.08822457, (0 missing)
+      income   < 3.247   to the left,  improve=0.05996257, (0 missing)
+      age      < 35.5    to the right, improve=0.04559777, (0 missing)
+  Surrogate splits:
+      bedrooms < 410.5   to the left,  agree=0.917, adj=0.833, (0 split)
+      hh       < 388.5   to the left,  agree=0.917, adj=0.833, (0 split)
+      pop      < 964.5   to the left,  agree=0.877, adj=0.752, (0 split)
+      age      < 34.5    to the right, agree=0.661, adj=0.317, (0 split)
+      income   < 3.56055 to the left,  agree=0.522, adj=0.037, (0 split)
+
+Node number 6: 343 observations
+  mean=12.5992, MSE=0.07010273 
+
+Node number 7: 253 observations
+  mean=12.96862, MSE=0.03372549 
+
+Node number 8: 138 observations
+  mean=11.72442, MSE=0.1569695 
+
+Node number 9: 77 observations
+  mean=12.03852, MSE=0.1183239 
+
+Node number 10: 250 observations
+  mean=12.19265, MSE=0.1249789 
+
+Node number 11: 246 observations,    complexity param=0.01196706
+  mean=12.39883, MSE=0.09317341 
+  left son=22 (41 obs) right son=23 (205 obs)
+  Primary splits:
+      income   < 3.0219  to the left,  improve=0.15431350, (0 missing)
+      bedrooms < 1359.5  to the left,  improve=0.02012515, (0 missing)
+      hh       < 970     to the left,  improve=0.01862127, (0 missing)
+      pop      < 1371    to the right, improve=0.01713410, (0 missing)
+      rooms    < 2064.5  to the right, improve=0.01538415, (0 missing)
+
+Node number 22: 41 observations
+  mean=12.13071, MSE=0.09959202 
+
+Node number 23: 205 observations
+  mean=12.45245, MSE=0.07463619 
+
+n= 1307 
+
+node), split, n, deviance, yval
+      * denotes terminal node
+
+ 1) root 1307 295.558500 12.42984  
+   2) income< 4.62305 711 126.546200 12.15641  
+     4) income< 2.66755 215  35.648940 11.83691  
+       8) hh< 408 138  21.661790 11.72442 *
+       9) hh>=408 77   9.110943 12.03852 *
+     5) income>=2.66755 496  59.436260 12.29491  
+      10) rooms< 2019.5 250  31.244730 12.19265 *
+      11) rooms>=2019.5 246  22.920660 12.39883  
+        22) income< 3.0219 41   4.083273 12.13071 *
+        23) income>=3.0219 205  15.300420 12.45245 *
+   3) income>=4.62305 596  52.448680 12.75601  
+     6) income< 6.33795 343  24.045240 12.59920 *
+     7) income>=6.33795 253   8.532549 12.96862 *
+> houses.train$rpart.train.fit.pred <- predict(rpart.train.fit, 
++   data = houses.train)
+> 
+> # root-mean-squared for trees on training set
+> print(rmspe(houses.train$log_value, houses.train$rpart.train.fit.pred)) 
+[1] 0.2953075
+> # report R-squared on training data
+> print(cor(houses.train$log_value,houses.train$rpart.train.fit.pred)^2)
+[1] 0.6143608
+> 
+> cat("\n\nTraining set proportion of variance accounted",
++   " for by tree-structured regression = ",
++   sprintf("%1.3f",cor(houses.train$log_value,
++   houses.train$rpart.train.fit.pred)^2),sep=" ")
+
+
+Training set proportion of variance accounted  for by tree-structured regression =  0.614> 
+> # root-mean-squared for trees on test set
+> houses.test$rpart.train.fit.pred <- predict(rpart.train.fit, newdata = houses.test)
+> print(rmspe(houses.test$log_value, houses.test$rpart.train.fit.pred)) 
+[1] 0.2955133
+> # report R-squared on training data
+> print(cor(houses.test$log_value,houses.test$rpart.train.fit.pred)^2)
+[1] 0.6077141
+> 
+> cat("\n\nTest set proportion of variance accounted",
++   " for by tree-structured regression = ",
++   sprintf("%1.3f",
++   cor(houses.test$log_value,houses.test$rpart.train.fit.pred)^2),sep=" ")
+
+
+Test set proportion of variance accounted  for by tree-structured regression =  0.608> 
+> # plot the regression tree result from rpart
+> pdf(file = "fig_spatial_rpart_model.pdf", width = 8.5, height = 8.5)
+> prp(rpart.train.fit, main="",
++   digits = 3,  # digits to display in terminal nodes
++   nn = TRUE,  # display the node numbers
++   fallen.leaves = TRUE,  # put the leaves on the bottom of the page
++   branch = 0.5,  # change angle of branch lines
++   branch.lwd = 2,  # width of branch lines
++   faclen = 0,  # do not abbreviate factor levels
++   trace = 1,  # print the automatically calculated cex
++   shadow.col = 0,  # no shadows under the leaves
++   branch.lty = 1,  # draw branches using dotted lines
++   split.cex = 1.2,  # make the split text larger than the node text
++   split.prefix = "is ",  # put "is " before split text
++   split.suffix = "?",  # put "?" after split text
++   split.box.col = "blue",  # lightgray split boxes (default is white)
++   split.col = "white",  # color of text in split box 
++   split.border.col = "blue",  # darkgray border on split boxes
++   split.round = .25)  # round the split box corners a tad
+cex 1   xlim c(0, 1)   ylim c(-0.15, 1.15)
+> dev.off()
+windows 
+      2 
+> 
+> # --------------------------------------
+> # Tree-structured regression (full)
+> # --------------------------------------
+> # try tree-structured regression on the expanded set of variables 
+> rpart.train.fit.full <- rpart(full.model, data = houses.train)
+> print(summary(rpart.train.fit.full))  # tree summary statistics and split detail
+Call:
+rpart(formula = full.model, data = houses.train)
+  n= 1307 
+
+          CP nsplit rel error    xerror       xstd
+1 0.39438424      0 1.0000000 1.0021816 0.03788014
+2 0.10644598      1 0.6056158 0.6312032 0.02541968
+3 0.06723167      2 0.4991698 0.5225227 0.02540437
+4 0.02706050      3 0.4319381 0.4539892 0.02397689
+5 0.02457305      4 0.4048776 0.4449655 0.02520428
+6 0.01701520      5 0.3803046 0.4112027 0.02496583
+7 0.01634933      6 0.3632894 0.4047483 0.02489414
+8 0.01434153      7 0.3469400 0.4016213 0.02495083
+9 0.01000000      8 0.3325985 0.3964548 0.02431400
+
+Variable importance
+         income    log_pc_rooms log_pc_bedrooms      log_pop_hh             age 
+             43              18              12              11               6 
+          rooms              hh        bedrooms             pop 
+              6               1               1               1 
+
+Node number 1: 1307 observations,    complexity param=0.3943842
+  mean=12.42984, MSE=0.2261351 
+  left son=2 (711 obs) right son=3 (596 obs)
+  Primary splits:
+      income       < 4.62305    to the left,  improve=0.39438420, (0 missing)
+      log_pc_rooms < 0.708089   to the left,  improve=0.26342530, (0 missing)
+      rooms        < 1941       to the left,  improve=0.10513490, (0 missing)
+      age          < 35.5       to the right, improve=0.09750198, (0 missing)
+      log_pop_hh   < 1.164632   to the right, improve=0.05747476, (0 missing)
+  Surrogate splits:
+      log_pc_rooms    < 0.8192164  to the left,  agree=0.721, adj=0.388, (0 split)
+      log_pc_bedrooms < -0.8752156 to the right, agree=0.651, adj=0.235, (0 split)
+      age             < 35.5       to the right, agree=0.630, adj=0.190, (0 split)
+      rooms           < 2705.5     to the left,  agree=0.627, adj=0.181, (0 split)
+      log_pop_hh      < 0.8740992  to the left,  agree=0.617, adj=0.159, (0 split)
+
+Node number 2: 711 observations,    complexity param=0.106446
+  mean=12.15641, MSE=0.1779834 
+  left son=4 (215 obs) right son=5 (496 obs)
+  Primary splits:
+      income       < 2.66755    to the left,  improve=0.2486128, (0 missing)
+      log_pop_hh   < 0.9774789  to the right, improve=0.1569347, (0 missing)
+      log_pc_rooms < 0.532225   to the left,  improve=0.1198823, (0 missing)
+      rooms        < 1806       to the left,  improve=0.1180630, (0 missing)
+      hh           < 420.5      to the left,  improve=0.1147604, (0 missing)
+  Surrogate splits:
+      log_pc_rooms    < 0.03791093 to the left,  agree=0.716, adj=0.060, (0 split)
+      rooms           < 405        to the left,  agree=0.710, adj=0.042, (0 split)
+      hh              < 126.5      to the left,  agree=0.710, adj=0.042, (0 split)
+      pop             < 218.5      to the left,  agree=0.709, adj=0.037, (0 split)
+      log_pc_bedrooms < -1.666657  to the left,  agree=0.707, adj=0.033, (0 split)
+
+Node number 3: 596 observations,    complexity param=0.06723167
+  mean=12.75601, MSE=0.08800114 
+  left son=6 (343 obs) right son=7 (253 obs)
+  Primary splits:
+      income          < 6.33795    to the left,  improve=0.37886360, (0 missing)
+      log_pc_rooms    < 0.78489    to the left,  improve=0.28082770, (0 missing)
+      log_pop_hh      < 1.174025   to the right, improve=0.07793179, (0 missing)
+      log_pc_bedrooms < -1.074462  to the left,  improve=0.06883916, (0 missing)
+      pop             < 1621.5     to the right, improve=0.02589955, (0 missing)
+  Surrogate splits:
+      log_pc_rooms    < 0.914585   to the left,  agree=0.772, adj=0.462, (0 split)
+      hh              < 217        to the right, agree=0.601, adj=0.059, (0 split)
+      bedrooms        < 223.5      to the right, agree=0.599, adj=0.055, (0 split)
+      pop             < 582        to the right, agree=0.591, adj=0.036, (0 split)
+      log_pc_bedrooms < -0.9242346 to the right, agree=0.591, adj=0.036, (0 split)
+
+Node number 4: 215 observations,    complexity param=0.02457305
+  mean=11.83691, MSE=0.165809 
+  left son=8 (144 obs) right son=9 (71 obs)
+  Primary splits:
+      log_pop_hh      < 0.8187751  to the right, improve=0.2037304, (0 missing)
+      log_pc_bedrooms < -0.7643257 to the left,  improve=0.1634555, (0 missing)
+      hh              < 408        to the left,  improve=0.1367841, (0 missing)
+      bedrooms        < 433.5      to the left,  improve=0.1195585, (0 missing)
+      pop             < 1190       to the left,  improve=0.1101065, (0 missing)
+  Surrogate splits:
+      log_pc_bedrooms < -0.7558615 to the left,  agree=0.921, adj=0.761, (0 split)
+      log_pc_rooms    < 0.7259301  to the left,  agree=0.772, adj=0.310, (0 split)
+      hh              < 520        to the left,  agree=0.735, adj=0.197, (0 split)
+      rooms           < 2809       to the left,  agree=0.726, adj=0.169, (0 split)
+      bedrooms        < 649.5      to the left,  agree=0.726, adj=0.169, (0 split)
+
+Node number 5: 496 observations,    complexity param=0.0270605
+  mean=12.29491, MSE=0.1198312 
+  left son=10 (274 obs) right son=11 (222 obs)
+  Primary splits:
+      log_pop_hh      < 0.8707028  to the right, improve=0.13456370, (0 missing)
+      log_pc_bedrooms < -0.8947055 to the left,  improve=0.11769040, (0 missing)
+      rooms           < 2019.5     to the left,  improve=0.08868108, (0 missing)
+      hh              < 423.5      to the left,  improve=0.08866103, (0 missing)
+      bedrooms        < 409.5      to the left,  improve=0.08822457, (0 missing)
+  Surrogate splits:
+      log_pc_bedrooms < -0.8381954 to the left,  agree=0.915, adj=0.811, (0 split)
+      log_pc_rooms    < 0.6579236  to the left,  agree=0.726, adj=0.387, (0 split)
+      hh              < 665        to the left,  agree=0.637, adj=0.189, (0 split)
+      bedrooms        < 687.5      to the left,  agree=0.635, adj=0.185, (0 split)
+      age             < 30.5       to the right, agree=0.631, adj=0.176, (0 split)
+
+Node number 6: 343 observations,    complexity param=0.01434153
+  mean=12.5992, MSE=0.07010273 
+  left son=12 (185 obs) right son=13 (158 obs)
+  Primary splits:
+      log_pop_hh      < 0.9635097  to the right, improve=0.17628270, (0 missing)
+      log_pc_rooms    < 0.7706807  to the left,  improve=0.16965260, (0 missing)
+      log_pc_bedrooms < -1.084654  to the left,  improve=0.15027320, (0 missing)
+      income          < 5.37135    to the left,  improve=0.05541173, (0 missing)
+      age             < 49.5       to the left,  improve=0.03725613, (0 missing)
+  Surrogate splits:
+      log_pc_bedrooms < -0.9449526 to the left,  agree=0.895, adj=0.772, (0 split)
+      log_pc_rooms    < 0.7620612  to the left,  agree=0.770, adj=0.500, (0 split)
+      age             < 38.5       to the left,  agree=0.659, adj=0.259, (0 split)
+      pop             < 1103       to the right, agree=0.586, adj=0.101, (0 split)
+      bedrooms        < 1011.5     to the left,  agree=0.569, adj=0.063, (0 split)
+
+Node number 7: 253 observations
+  mean=12.96862, MSE=0.03372549 
+
+Node number 8: 144 observations,    complexity param=0.01634933
+  mean=11.70786, MSE=0.1341078 
+  left son=16 (131 obs) right son=17 (13 obs)
+  Primary splits:
+      log_pop_hh      < 1.431683   to the left,  improve=0.25022280, (0 missing)
+      log_pc_bedrooms < -1.397417  to the right, improve=0.24649740, (0 missing)
+      log_pc_rooms    < -0.2011101 to the right, improve=0.24010050, (0 missing)
+      pop             < 1190       to the left,  improve=0.13455880, (0 missing)
+      hh              < 406.5      to the left,  improve=0.09877935, (0 missing)
+  Surrogate splits:
+      log_pc_bedrooms < -1.412594  to the right, agree=0.986, adj=0.846, (0 split)
+      log_pc_rooms    < -0.350903  to the right, agree=0.958, adj=0.538, (0 split)
+      rooms           < 100.5      to the right, agree=0.924, adj=0.154, (0 split)
+      bedrooms        < 36.5       to the right, agree=0.917, adj=0.077, (0 split)
+      hh              < 36.5       to the right, agree=0.917, adj=0.077, (0 split)
+
+Node number 9: 71 observations
+  mean=12.09866, MSE=0.1278119 
+
+Node number 10: 274 observations
+  mean=12.18061, MSE=0.08968683 
+
+Node number 11: 222 observations,    complexity param=0.0170152
+  mean=12.43598, MSE=0.1210095 
+  left son=22 (7 obs) right son=23 (215 obs)
+  Primary splits:
+      log_pc_rooms    < 1.068216   to the right, improve=0.18720100, (0 missing)
+      income          < 3.31965    to the left,  improve=0.11992980, (0 missing)
+      log_pc_bedrooms < -0.3974216 to the right, improve=0.07871486, (0 missing)
+      log_pop_hh      < 0.4496501  to the left,  improve=0.07760785, (0 missing)
+      pop             < 717.5      to the left,  improve=0.05319119, (0 missing)
+
+Node number 12: 185 observations
+  mean=12.49646, MSE=0.05628792 
+
+Node number 13: 158 observations
+  mean=12.71949, MSE=0.0594507 
+
+Node number 16: 131 observations
+  mean=11.65015, MSE=0.08620894 
+
+Node number 17: 13 observations
+  mean=12.28936, MSE=0.2450745 
+
+Node number 22: 7 observations
+  mean=11.60185, MSE=0.4893609 
+
+Node number 23: 215 observations
+  mean=12.46314, MSE=0.08562601 
+
+n= 1307 
+
+node), split, n, deviance, yval
+      * denotes terminal node
+
+ 1) root 1307 295.558500 12.42984  
+   2) income< 4.62305 711 126.546200 12.15641  
+     4) income< 2.66755 215  35.648940 11.83691  
+       8) log_pop_hh>=0.8187751 144  19.311520 11.70786  
+        16) log_pop_hh< 1.431683 131  11.293370 11.65015 *
+        17) log_pop_hh>=1.431683 13   3.185969 12.28936 *
+       9) log_pop_hh< 0.8187751 71   9.074646 12.09866 *
+     5) income>=2.66755 496  59.436260 12.29491  
+      10) log_pop_hh>=0.8707028 274  24.574190 12.18061 *
+      11) log_pop_hh< 0.8707028 222  26.864100 12.43598  
+        22) log_pc_rooms>=1.068216 7   3.425526 11.60185 *
+        23) log_pc_rooms< 1.068216 215  18.409590 12.46314 *
+   3) income>=4.62305 596  52.448680 12.75601  
+     6) income< 6.33795 343  24.045240 12.59920  
+      12) log_pop_hh>=0.9635097 185  10.413270 12.49646 *
+      13) log_pop_hh< 0.9635097 158   9.393211 12.71949 *
+     7) income>=6.33795 253   8.532549 12.96862 *
+> houses.train$rpart.train.fit.full.pred <- 
++   predict(rpart.train.fit.full, data = houses.train)
+> 
+> # root-mean-squared for trees on training set
+> print(rmspe(houses.train$log_value, houses.train$rpart.train.fit.full.pred)) 
+[1] 0.2742484
+> # report R-squared on training data
+> print(cor(houses.train$log_value,houses.train$rpart.train.fit.full.pred)^2)
+[1] 0.6674015
+> 
+> cat("\n\nTraining set proportion of variance accounted",
++    " for by tree-structured regression (full model) = ",
++   sprintf("%1.3f",cor(houses.train$log_value,
++   houses.train$rpart.train.fit.full.pred)^2),sep=" ")
+
+
+Training set proportion of variance accounted  for by tree-structured regression (full model) =  0.667> 
+> # root-mean-squared for trees on test set
+> houses.test$rpart.train.fit.full.pred <- predict(rpart.train.fit.full, 
++   newdata = houses.test)
+> print(rmspe(houses.test$log_value, houses.test$rpart.train.fit.full.pred)) 
+[1] 0.2936755
+> # report R-squared on training data
+> print(cor(houses.test$log_value,houses.test$rpart.train.fit.full.pred)^2)
+[1] 0.6191817
+> 
+> cat("\n\nTest set proportion of variance accounted",
++     " for by tree-structured regression (full model) = ",
++   sprintf("%1.3f",cor(houses.test$log_value,
++   houses.test$rpart.train.fit.full.pred)^2),sep=" ")
+
+
+Test set proportion of variance accounted  for by tree-structured regression (full model) =  0.619> 
+> # plot the regression tree result from rpart
+> pdf(file = "fig_spatial_rpart_model_full.pdf", width = 8.5, height = 8.5)
+> prp(rpart.train.fit.full, main="",
++   digits = 3,  # digits to display in terminal nodes
++   nn = TRUE,  # display the node numbers
++   fallen.leaves = TRUE,  # put the leaves on the bottom of the page
++   branch = 0.5,  # change angle of branch lines
++   branch.lwd = 2,  # width of branch lines
++   faclen = 0,  # do not abbreviate factor levels
++   trace = 1,  # print the automatically calculated cex
++   shadow.col = 0,  # no shadows under the leaves
++   branch.lty = 1,  # draw branches using dotted lines
++   split.cex = 1.2,  # make the split text larger than the node text
++   split.prefix = "is ",  # put "is" before split text
++   split.suffix = "?",  # put "?" after split text
++   split.box.col = "blue",  # lightgray split boxes (default is white)
++   split.col = "white",  # color of text in split box 
++   split.border.col = "blue",  # darkgray border on split boxes
++   split.round = .25)  # round the split box corners a tad
+cex 0.931   xlim c(0, 1)   ylim c(-0.2, 1.2)
+> dev.off()
+windows 
+      2 
+> 
+> # --------------------------------------
+> # Random forests (simple)
+> # --------------------------------------
+> set.seed (9999)  # for reproducibility
+> rf.train.fit <- randomForest(simple.model, 
++   data=houses.train, mtry=3, importance=TRUE, na.action=na.omit) 
+> 
+> # review the random forest solution      
+> print(rf.train.fit)  
+
+Call:
+ randomForest(formula = simple.model, data = houses.train, mtry = 3,      importance = TRUE, na.action = na.omit) 
+               Type of random forest: regression
+                     Number of trees: 500
+No. of variables tried at each split: 3
+
+          Mean of squared residuals: 0.08102572
+                    % Var explained: 64.17
+> 
+> # check importance of the individual explanatory variables 
+> pdf(file = "fig_spatial_random_forest_simple_importance.pdf", 
++ width = 11, height = 8.5)
+> varImpPlot(rf.train.fit, main = "", pch = 20, col = "darkblue")
+> dev.off()
+windows 
+      2 
+> 
+> # random forest predictions for the trainings set
+> houses.train$rf.train.fit.pred <- predict(rf.train.fit, type="class", 
++   newdata = houses.train)
+> 
+> # root-mean-squared for random forest on training set
+> print(rmspe(houses.train$log_value, houses.train$rf.train.fit.pred)) 
+[1] 0.125631
+> # report R-squared on training data
+> print(cor(houses.train$log_value,houses.train$rf.train.fit.pred)^2)
+[1] 0.9394466
+> 
+> cat("\n\nTraining set proportion of variance accounted",
++     "for by random forests (simple model) = ",
++   sprintf("%1.3f",
++   cor(houses.train$log_value,houses.train$rf.train.fit.pred)^2),sep=" ")
+
+
+Training set proportion of variance accounted for by random forests (simple model) =  0.939>     
+> # random forest predictions for the test set using model from training set
+> houses.test$rf.train.fit.pred <- predict(rf.train.fit, 
++   type="class", newdata = houses.test)
+> 
+> # root-mean-squared for random forest on training set
+> print(rmspe(houses.test$log_value, houses.test$rf.train.fit.pred)) 
+[1] 0.2656461
+> # report R-squared on training data
+> print(cor(houses.test$log_value,houses.test$rf.train.fit.pred)^2)
+[1] 0.6831415
+> 
+> cat("\n\nTest set proportion of variance accounted",
++     " for by random forests (simple model) = ",
++   sprintf("%1.3f",
++   cor(houses.test$log_value,houses.test$rf.train.fit.pred)^2),sep=" ")
+
+
+Test set proportion of variance accounted  for by random forests (simple model) =  0.683> 
+> # --------------------------------------
+> # Random forests (full)
+> # --------------------------------------
+> set.seed (9999)  # for reproducibility
+> rf.train.fit.full <- randomForest(full.model, 
++   data=houses.train, mtry=3, importance=TRUE, na.action=na.omit) 
+> 
+> # review the random forest solution      
+> print(rf.train.fit.full)  
+
+Call:
+ randomForest(formula = full.model, data = houses.train, mtry = 3,      importance = TRUE, na.action = na.omit) 
+               Type of random forest: regression
+                     Number of trees: 500
+No. of variables tried at each split: 3
+
+          Mean of squared residuals: 0.06922999
+                    % Var explained: 69.39
+> 
+> # check importance of the individual explanatory variables 
+> pdf(file = "fig_spatial_random_forest_full_importance.pdf", 
++ width = 11, height = 8.5)
+> varImpPlot(rf.train.fit.full, main = "", pch = 20, 
++   cex = 1.25, col = "darkblue", lcolor = "black")
+> dev.off()
+windows 
+      2 
+> 
+> # random forest predictions for the trainings set
+> houses.train$rf.train.fit.full.pred <- predict(rf.train.fit.full, type="class", 
++   newdata = houses.train)
+> 
+> # root-mean-squared for random forest on training set
+> print(rmspe(houses.train$log_value, houses.train$rf.train.fit.full.pred)) 
+[1] 0.1156064
+> # report R-squared on training data
+> print(cor(houses.train$log_value,houses.train$rf.train.fit.full.pred)^2)
+[1] 0.9500061
+> 
+> cat("\n\nTraining set proportion of variance accounted",
++     " for by random forests (full model) = ",
++   sprintf("%1.3f",cor(houses.train$log_value,
++     houses.train$rf.train.fit.full.pred)^2),sep=" ")
+
+
+Training set proportion of variance accounted  for by random forests (full model) =  0.950>     
+> # random forest predictions for the test set using model from training set
+> houses.test$rf.train.fit.full.pred <- predict(rf.train.fit.full, type="class", 
++   newdata = houses.test)
+> 
+> # root-mean-squared for random forest on training set
+> print(rmspe(houses.test$log_value, houses.test$rf.train.fit.full.pred)) 
+[1] 0.2452678
+> # report R-squared on training data
+> print(cor(houses.test$log_value,houses.test$rf.train.fit.full.pred)^2)
+[1] 0.7304121
+> 
+> cat("\n\nTest set proportion of variance accounted",
++     " for by random forests (full model) = ",
++   sprintf("%1.3f",cor(houses.test$log_value,
++     houses.test$rf.train.fit.full.pred)^2),sep=" ")
+
+
+Test set proportion of variance accounted  for by random forests (full model) =  0.730>            
+> # --------------------------------------
+> # Geographically weighted regression
+> # --------------------------------------    
+> # bandwidth calculation may take a while
+> set.bandwidth <-  gwr.sel(pace.barry.model, 
++   data=houses.train, verbose = FALSE, show.error.messages = FALSE) 
+> 
+> # fit the geographically-weighted regression with bandwidth value set.bandwidth
+> gwr.train.fit <- gwr(pace.barry.model, bandwidth = set.bandwidth, 
++   predictions = TRUE, data=houses.train, fit.points = houses.train)
+> # extract training set predictions
+> houses.train$grw.train.fit.pred <- gwr.train.fit$SDF$pred  
+> 
+> # root-mean-squared for grw on training set
+> print(rmspe(houses.train$log_value, houses.train$grw.train.fit.pred)) 
+[1] 0.1625623
+> # report R-squared on training data
+> print(cor(houses.train$log_value,houses.train$grw.train.fit.pred)^2)
+[1] 0.8837034
+> 
+> cat("\n\nTraining set proportion of variance accounted",
++   " for by geographically-weighted regression = ",
++   sprintf("%1.3f",cor(houses.train$log_value,
++   houses.train$grw.train.fit.pred)^2),sep=" ")
+
+
+Training set proportion of variance accounted  for by geographically-weighted regression =  0.884> 
+> # fit the geographically-weighted regression with bandwidth value set.bandwidth
+> # fit to training data and specify test data
+> gwr.train.fit <- gwr(pace.barry.model, bandwidth = set.bandwidth, 
++   predictions = TRUE, data=houses.train, fit.points = houses.test)
+> # extract test set predictions
+> houses.test$grw.train.fit.pred <- gwr.train.fit$SDF$pred  
+> 
+> # root-mean-squared for grw on test set
+> print(rmspe(houses.test$log_value, houses.test$grw.train.fit.pred)) 
+[1] 0.2329649
+> # report R-squared on training data
+> print(cor(houses.test$log_value,houses.test$grw.train.fit.pred)^2)
+[1] 0.7697659
+> 
+> cat("\n\nTest set proportion of variance accounted",
++   " for by geographically-weighted regression = ",
++   sprintf("%1.3f",cor(houses.test$log_value,
++   houses.test$grw.train.fit.pred)^2),sep=" ")
+
+
+Test set proportion of variance accounted  for by geographically-weighted regression =  0.770> 
+> # --------------------------------------
+> # Construct a hybrid prediction
+> # --------------------------------------     
+> 
+> houses.train$hybrid.pred <- (houses.train$rf.train.fit.full.pred +
++   houses.train$grw.train.fit.pred) / 2  # average of two best predictors 
+> 
+> houses.test$hybrid.pred <- (houses.test$rf.train.fit.full.pred +
++   houses.test$grw.train.fit.pred) / 2  # average of two best predictors 
+> 
+> cat("\n\nTraining set proportion of variance accounted",
++     " for by hybrid model = ",
++   sprintf("%1.3f",cor(houses.train$log_value,houses.train$hybrid.pred)^2),sep=" ")
+
+
+Training set proportion of variance accounted  for by hybrid model =  0.935> 
+> cat("\n\nTest set proportion of variance accounted",
++   " for by hybrid model = ",
++   sprintf("%1.3f",cor(houses.test$log_value,
++   houses.test$hybrid.pred)^2),sep=" ")
+
+
+Test set proportion of variance accounted  for by hybrid model =  0.813> 
+> 
+> # --------------------------------------
+> # Gather results for a single report
+> # --------------------------------------     
+> # measurement model performance summary
+> methods <- c("Linear regression Pace and Barry (1997)",
++   "Tree-structured regression (simple model)",
++   "Tree-structured regression (full model)",
++   "Random forests (simple model)",
++   "Random forests (full model)",
++   "Geographically weighted regression (GWR)",
++   "Hybrid Random Forests and GWR")
+> methods.performance.data.frame <- data.frame(methods)
+> 
+> methods.performance.data.frame$training <- 
++   c(round(cor(houses.train$log_value,predict(pace.barry.train.fit))^2
++     ,digits=3),
++     round(cor(houses.train$log_value,
++     houses.train$rpart.train.fit.pred)^2,digits=3),
++     round(cor(houses.train$log_value,
++     houses.train$rpart.train.fit.full.pred)^2,digits=3),
++     round(cor(houses.train$log_value,
++     houses.train$rf.train.fit.pred)^2,digits=3),
++      round(cor(houses.train$log_value,
++      houses.train$rf.train.fit.full.pred)^2,digits=3),
++     round(cor(houses.train$log_value,
++     houses.train$grw.train.fit.pred)^2,digits=3),
++     round(cor(houses.train$log_value,
++     houses.train$hybrid.pred)^2,digits=3))
+>   
+> methods.performance.data.frame$test <-
++   c(round(cor(houses.test$log_value,
++   predict(pace.barry.train.fit, newdata = houses.test))^2,digits=3),
++     round(cor(houses.test$log_value,
++     houses.test$rpart.train.fit.pred)^2,digits=3),
++     round(cor(houses.test$log_value,
++     houses.test$rpart.train.fit.full.pred)^2,digits=3),
++     round(cor(houses.test$log_value,
++     houses.test$rf.train.fit.pred)^2,digits=3),
++     round(cor(houses.test$log_value,
++     houses.test$rf.train.fit.full.pred)^2,digits=3),
++     round(cor(houses.test$log_value,
++     houses.test$grw.train.fit.pred)^2,digits=3),
++     round(cor(houses.test$log_value,houses.test$hybrid.pred)^2,digits=3))
+> 
+> print(methods.performance.data.frame)
+                                    methods training  test
+1   Linear regression Pace and Barry (1997)    0.645 0.702
+2 Tree-structured regression (simple model)    0.614 0.608
+3   Tree-structured regression (full model)    0.667 0.619
+4             Random forests (simple model)    0.939 0.683
+5               Random forests (full model)    0.950 0.730
+6  Geographically weighted regression (GWR)    0.884 0.770
+7             Hybrid Random Forests and GWR    0.935 0.813
+> 
