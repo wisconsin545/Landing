@@ -1,29 +1,41 @@
 # Welcome to portfolio of analytics, strategy and product management. 
 
 ## I've supported fortune 50 organizations, startups, midsize/small companies and non profits, in utilizing data science, predictive analytics and big data in their strategy and implementation that has resulted in the following:  
-### Results: Portfolio Product Management  
- * Thalamus: Streaming analytics and alerting on GBs of data throug linear scaling  
- * Pulsar: Social media analysis in real-time that provides alerting and machine learning 
- * Bananas: Hardware/Software product that utilizes full resources for optimal stream processing 
- * Cyber Intrusion Detection Data Science Product: Streamed GBs of data per second and utilized deep nueral networks to alert on malicous traffic on/in network. 
+### Results: Portfolio Product Management (White papers on the following available)  
+ * Thalamus: Streaming analytics and alerting on GBs of data throug linear scaling, new capability to enterprise that results in real-time response and internally valued at $50 million+.   
+ * Pulsar: Social media analysis in real-time that provides alerting and machine learning, used at Deloitte, Prudential, and Pharmacutical companies, valued at $1 million+. 
+ * Bananas: Hardware/Software product that utilizes full resources for optimal stream processing, internally values at $5 million+.  
+ * Cyber Intrusion Detection Data Science Product: Streamed GBs of data per second and utilized deep nueral networks to alert on malicous traffic on/in network, saves organization $5 million a year and new data science capabilites. 
+ * Supply Chain Data Science: Real-time alerting based on data science to prevent Distribution Center failure, valued at $3 million+ cost prevention and product speed to market.  
+ * Security Findings Data Science: Web-based, on-prem hosted security findings product that utilized multiple data science algorithms to preduct security findgings across Enterprise, values at annual savings of $1 million plus.
  
-, 3 white papers and leading multiple teams. Through developming merchandising, marketing, supply chain, compliance, law, risk, cyber security, global affairs, brand management, and managerial data science algorithms, strategies and implimentation plans, I've created and saved organizations millions. 
+ 
+ 
+### In addition to portofolio management, I've developming merchandising, marketing, supply chain, compliance, law, risk, cyber security, global affairs, brand management, and managerial data science algorithms, strategies and implimentation plans, I've created and saved organizations millions. 
+
+### Thalamus 
+
+### Pulsar
+
+### Bananas 
 
 ### Cyber Security - Intrusion Detection Data Science Product - [Link](https://github.com/wisconsin545/Landing2/tree/master/Cyber) 
 #### Streamed GBs of data per second and utilized deep nueral networks to alert on malicous traffic on/in network. Resulted in real-time alerting and saving Target $5 Million in external vendor product costs per year.  
 
-### Submit Sustainable Sourcing, 
+#### Created Web-based, on-prem hosted security findings product that utilized multiple data science algorithms to preduct security findgings across Enterprise, values at annual savings of $1 million plus.  
+[* Web Based UI Product: Security Findings Predictive Modeling](https://github.com/wisconsin545/Landing2/blob/master/Risk-%20Compliance-%20Law%20and%20Security/Security%20Findings%20Predictive%20Modeling.md)  
+
+### Supply Chain and Distribution - [Link](https://github.com/wisconsin545/Landing2/tree/master/Supply%20Chain%20and%20Distribution)  
+#### Deployed data science algorithm on real-time data and wrote white paper on preventing Supply Chain Distribution Center failure.  
+[* White Paper: Distribution Center Stability Data Science](https://github.com/wisconsin545/Landing2/blob/master/Supply%20Chain%20and%20Distribution/Quadratic%20Linear%20Estimation.md)  
+
 ### **Marketing Analytics, Reporting, Strategy and Implimentation - [Link](Marketing_Analytics)**  
 #### Created algorithms, led cross-functional teams and created enterprise strategies/presentations valued at $100 Million plus for Marketing functions within Fortune 50 retailer. 
 [* Guest Engagement Through Life Changes](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Guest%20Engagement%20Through%20Life%20Changes.md)    
 [* Promotion Analysis: Buy One Get One, Gift Card Promo, Brand Loyalty, Deep Discounts](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Promo%20Effectiveness%20-%20Gift%20Cards%20vs%20Buy%20Something%20Get%20Something.md)   
-[* Structuring Control Groups](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Structuring%20Control%20Groups)  
+[* Structuring Control Groups](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Structuring%20Control%20Groups) 
 [* Guest Loss Analytics](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Guest%20Loss%20Over%20Time.md)  
 [* Loyalty Card Analytics](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Loyalty%20Card%20Analytics.md)  
-
-  
-    
-
 
 ### Merchandising Analytics/Data Science, Strategy and Implimentation - [Link](merchandising%20analytics)
 #### Created data science models, led cross-functional teams and created enterprise strategies/presentations valued at $500 Million plus for Merchandising functions within Fortune 50 retailer. Focused on Customer activation, product placement, store format, seasonality, and product sales driver to create enterprise strategies.   
@@ -33,9 +45,6 @@
 [* Seasonality, Store Format, Planogram Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Seasonality%2C%20Store%20Format%2C%20Planogram%20Analytics.md)  
 [* Cross Category/Department Shopping Analytics](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Cross%20Category-Department%20Shopping%20Analytics.md)  
 [* Sales Driver Reporting- Traffic and Basket size](https://github.com/wisconsin545/Landing2/blob/master/merchandising%20analytics/Sales%20Driver%20Traffic%20and%20Basket%20size.md)
-  
-    
-    
 
 ### Global Affairs & Brand Management - [Link](/Global%20Affairs%20and%20Brand%20Management)
 #### Created real-time executive alerting for Global Affairs and data science algorithms for Brand Transfer and Brand Management valued at $50 million. 
@@ -49,9 +58,7 @@
 [* Fraud Analytics](https://github.com/wisconsin545/Landing2/blob/master/Risk-%20Compliance-%20Law%20and%20Security/Fraud%20Analytics.md)  
 [* Cross Pyramid Support Organization](https://github.com/wisconsin545/Landing2/blob/master/Risk-%20Compliance-%20Law%20and%20Security/Cross%20Pyramid%20Support%20Organization.md)  
 
-### Supply Chain and Distribution - [Link](https://github.com/wisconsin545/Landing2/tree/master/Supply%20Chain%20and%20Distribution)  
-#### Deployed data science algorithm on real-time data and wrote white paper on preventing Supply Chain Distribution Center failure.  
-[* White Paper: Distribution Center Stability Data Science](https://github.com/wisconsin545/Landing2/blob/master/Supply%20Chain%20and%20Distribution/Quadratic%20Linear%20Estimation.md)  
+
 
 
 ### Managerial Analytics - [Link](https://github.com/wisconsin545/Landing2/tree/master/Managerial%20Analytics)  
