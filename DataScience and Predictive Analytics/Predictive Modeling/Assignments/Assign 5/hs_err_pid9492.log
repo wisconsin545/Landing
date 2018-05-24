@@ -1,0 +1,47 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x558f9066, pid=9492, tid=8760
+#
+# JRE version: 7.0_07-b11
+# Java VM: Java HotSpot(TM) Client VM (23.3-b01 mixed mode, sharing windows-x86 )
+# Problematic frame:
+# C  0x558f9066  JVM_Clone+0x584d6
+#
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.sun.com/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0b464c00):  VMThread [stack: 0x0e3c0000,0x0e5c0000] [id=8760]
+
+siginfo: ExceptionCode=0xc0000005, reading address 0x00000008
+
+Registers:
+EAX=0x00000001, EBX=0x00000000, ECX=0x0b394800, EDX=0x0b394800
+ESP=0x0e5bfbf4, EBP=0x0e5bfc1c, ESI=0x0f744400, EDI=0x00000000
+EIP=0x558f9066, EFLAGS=0x00010206
+
+Top of Stack: (sp=0x0e5bfbf4)
+0x0e5bfbf4:   00000000 00000000 00000007 00000084
+0x0e5bfc04:   55a64c74 0b3d00e8 00000004 00000017
+0x0e5bfc14:   00000000 00000011 0e5bfce0 5590e9e5
+0x0e5bfc24:   0b3d03c0 0b464c00 00000000 0b464c00
+0x0e5bfc34:   0b462ac0 0b464d48 0b464d50 0b46513c
+0x0e5bfc44:   0b462ae0 ffffffff 0b3d01b8 0b464c00
+0x0e5bfc54:   00000000 63657845 6e697475 4d562067
+0x0e5bfc64:   65706f20 69746172 203a6e6f 6f766552 
+
+Instructions: (pc=0x558f9066)
+0x558f9046:   0f 8e 7f 01 00 00 8d 64 24 00 8b 35 d0 ef ac 55
+0x558f9056:   85 f6 74 31 8d 9b 00 00 00 00 8b be 68 01 00 00
+0x558f9066:   8b 57 08 85 d2 75 11 8b cf e8 9c fb ff ff 8b 47
+0x558f9076:   08 85 c0 74 03 ff 4d fc 8b b6 10 01 00 00 85 f6 
+
+
+Register to memory mapping:
+
+EAX=
