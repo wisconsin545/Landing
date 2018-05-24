@@ -1,0 +1,104 @@
+/*  Define the library names */
+libname mydata "/courses/u_northwestern.edu1/i_829657/c_4884" access=readonly;
+
+/*  Read in the data */
+data rockinweek1;
+    set mydata.airlines_week_1;
+    y=log(c);
+    log_q=log(q);
+    log_pf=log(pf);
+run;
+
+*****This program will run descriptive statistics using proc means*****;
+ods graphics on;
+title "Descriptive Statistics using Proc Means";
+proc means data=rockinweek1 n nmiss min max median mean variance std maxdec=3;
+	var y c log_q q log_pf pf LF;
+run;
+
+ods graphics on;
+title "Descriptive Statistics using Proc Means";
+proc means data=rockinweek1 n nmiss min max median mean variance std maxdec=3;
+	var y c;
+run;
+
+ods graphics on;
+title "Descriptive Statistics using Proc Means";
+proc means data=rockinweek1 n nmiss min max median mean variance std maxdec=3;
+	var log_q q ;
+run;
+
+ods graphics on;
+title "Descriptive Statistics using Proc Means";
+proc means data=rockinweek1 n nmiss min max median mean variance std maxdec=3;
+	var log_pf pf;
+run;
+
+ods graphics on;
+title "Descriptive Statistics using Proc Means";
+proc means data=rockinweek1 n nmiss min max median mean variance std maxdec=3;
+	var LF;
+run;
+
+*****This program will run descriptive statistics using proc univariate*****;
+ods graphics on;
+title "Descriptive Statistics using Proc Univariate";
+proc univariate data=rockinweek1;
+	var y c log_q q log_pf pf LF;
+	histogram / normal; 
+	probplot / normal (mu=est sigma=est);
+run;
+
+
+*****This program will run Perason CC and create a scatter plot matrix for 
+just the variables we need to work on*****;
+ods graphics on;
+title "computing Pearson CC";
+proc corr data=rockinweek1 nosimple rank plots = matrix(histogram nvar=all);
+	var y log_q log_pf LF;
+	with y log_q log_pf LF;
+run;
+
+*****This program will create a scatterplot for each variable on its own page*****;
+title "computing Pearson CC";
+proc corr data=rockinweek1 nosimple rank plots (only)=scatter (nvar=all);
+	var log_q log_pf LF;
+	with y;
+run;
+
+*****Using Proc Reg for Residual and Diagnostics VIF, 156*****;
+title 'Fits of Regression Analysis';
+proc reg data=rockinweek1 plots=(fitplot residuals diagnostics);
+	model y = log_q log_pf LF / VIF; 
+Run;
+ 
+
+*****Proc GPlot to Produce Residual Plots*****;
+ODS graphics on; 
+proc reg data=rockinweek1; 
+	model y = log_q log_pf LF / VIF;
+	output out=resid r=resid;
+run;
+
+proc univariate data=resid; 
+	var resid; 
+	probplot/normal;
+run;
+
+data resid;
+	set resid;
+	T=_n_;
+run;
+
+proc gplot data=resid; 	
+	plot resid*T;
+run;
+
+proc gplot data=resid; 	
+	plot resid*y;
+run
+
+
+
+
+
