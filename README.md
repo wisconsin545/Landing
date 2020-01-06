@@ -1,4 +1,4 @@
-# Welcome to portfolio of analytics, strategy and product management. 
+# Welcome to my portfolio of analytics, strategy and product management. 
 
 ## Serve Fortune 50 organizations, startups, midsize/small companies and non-profits, in utilizing data science, predictive analytics and big data through strategy, implementation and activation resulting in millions in new revenue and millions optimized/saved.  
 ### Results: Portfolio Product Management (White papers on the following available)  
