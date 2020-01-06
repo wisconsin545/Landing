@@ -19,12 +19,6 @@
  
 ### In addition to portofolio management, I've developming merchandising, marketing, supply chain, compliance, law, risk, cyber security, global affairs, brand management, and managerial data science algorithms, strategies and implimentation plans, I've created and saved organizations millions. 
 
-### Thalamus 
-
-### Pulsar
-
-### Bananas 
-
 ### Cyber Security - Intrusion Detection Data Science Product - [Link](https://github.com/wisconsin545/Landing2/tree/master/Cyber) 
 #### Streamed GBs of data per second and utilized deep nueral networks to alert on malicous traffic on/in network. Resulted in real-time alerting and saving Target $5 Million in external vendor product costs per year.  
 
